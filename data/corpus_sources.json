@@ -1,0 +1,156 @@
+[
+  {
+    "id": "MM1958_AER",
+    "title": "The Cost of Capital, Corporation Finance and the Theory of Investment",
+    "authors": ["Franco Modigliani", "Merton H. Miller"],
+    "year": 1958,
+    "type": "journal_article",
+    "venue": "American Economic Review",
+    "url": "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+    "relevance_note": "Foundational statement of capital-structure irrelevance under frictionless markets; baseline for trade-off/pecking-order debates.",
+    "maps_to_objectives": [1,3]
+  },
+  {
+    "id": "MM1963_AER",
+    "title": "Corporate Income Taxes and the Cost of Capital: A Correction",
+    "authors": ["Franco Modigliani", "Merton H. Miller"],
+    "year": 1963,
+    "type": "journal_article",
+    "venue": "American Economic Review",
+    "url": "https://scispace.com/papers/corporate-income-taxes-and-the-cost-of-capital-a-correction-5bwwtbe3ad",
+    "relevance_note": "Introduces corporate taxes to MM framework; establishes tax shield intuition for leverage benefits.",
+    "maps_to_objectives": [1,3]
+  },
+  {
+    "id": "JensenMeckling1976_JFE",
+    "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+    "authors": ["Michael C. Jensen", "William H. Meckling"],
+    "year": 1976,
+    "type": "journal_article",
+    "venue": "Journal of Financial Economics",
+    "url": "https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf",
+    "relevance_note": "Agency theory canonical reference; connects ownership, leverage, and incentive conflicts.",
+    "maps_to_objectives": [4]
+  },
+  {
+    "id": "Lintner1956_AER",
+    "title": "Distribution of Incomes of Corporations Among Dividends, Retained Earnings, and Taxes",
+    "authors": ["John Lintner"],
+    "year": 1956,
+    "type": "journal_article",
+    "venue": "American Economic Review",
+    "url": "https://www.jstor.org/stable/pdf/1910664.pdf",
+    "relevance_note": "Empirical model of dividend smoothing; anchor for dividend-policy discussions.",
+    "maps_to_objectives": [3]
+  },
+  {
+    "id": "MM1961_JBus",
+    "title": "Dividend Policy, Growth, and the Valuation of Shares",
+    "authors": ["Merton H. Miller", "Franco Modigliani"],
+    "year": 1961,
+    "type": "journal_article",
+    "venue": "Journal of Business",
+    "url": "https://econpapers.repec.org/RePEc:ucp:jnlbus:v:34:y:1961:p:411",
+    "relevance_note": "Dividend irrelevance proposition; counterpoint to payout preference arguments.",
+    "maps_to_objectives": [3]
+  },
+  {
+    "id": "Myers1984_JF",
+    "title": "The Capital Structure Puzzle",
+    "authors": ["Stewart C. Myers"],
+    "year": 1984,
+    "type": "journal_article",
+    "venue": "Journal of Finance",
+    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/2078/SWP-1548-15376697.pdf",
+    "relevance_note": "Frames trade-off vs. pecking-order theories; enduring reference for financing trade-offs.",
+    "maps_to_objectives": [3]
+  },
+  {
+    "id": "GrahamHarvey2001_JFE",
+    "title": "The Theory and Practice of Corporate Finance: Evidence from the Field",
+    "authors": ["John R. Graham", "Campbell R. Harvey"],
+    "year": 2001,
+    "type": "journal_article",
+    "venue": "Journal of Financial Economics",
+    "url": "https://people.duke.edu/~charvey/Research/Published_Papers/P67_The_theory_and.pdf",
+    "relevance_note": "CFO survey on WACC, capital budgeting (NPV/IRR), and capital structure—bridges theory and practice.",
+    "maps_to_objectives": [2]
+  },
+  {
+    "id": "FamaFrench2002_RFS",
+    "title": "Testing Trade-Off and Pecking Order Predictions About Dividends and Debt",
+    "authors": ["Eugene F. Fama", "Kenneth R. French"],
+    "year": 2002,
+    "type": "journal_article",
+    "venue": "Review of Financial Studies",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=199431",
+    "relevance_note": "Large-sample empirical tests; nuanced evidence across payout and leverage decisions.",
+    "maps_to_objectives": [3]
+  },
+  {
+    "id": "FrankGoyal2003_JFE",
+    "title": "Testing the Pecking Order Theory of Capital Structure",
+    "authors": ["Murray Z. Frank", "Vishwanath K. Goyal"],
+    "year": 2003,
+    "type": "journal_article",
+    "venue": "Journal of Financial Economics",
+    "url": "https://pages.stern.nyu.edu/~eofek/PhD/papers/FG_Testing_JFE.pdf",
+    "relevance_note": "Influential empirical assessment of pecking-order predictions.",
+    "maps_to_objectives": [3]
+  },
+  {
+    "id": "Damodaran_Betas_2025",
+    "title": "Betas by Sector (US) – Current Data",
+    "authors": ["Aswath Damodaran"],
+    "year": 2025,
+    "type": "dataset_web",
+    "venue": "NYU Stern",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html",
+    "relevance_note": "Up-to-date sector betas and unlevered betas; practical inputs for WACC estimation.",
+    "maps_to_objectives": [2]
+  },
+  {
+    "id": "Damodaran_CountryRisk_2025",
+    "title": "Country Risk: Determinants, Measures and Implications (2025 Edition)",
+    "authors": ["Aswath Damodaran"],
+    "year": 2025,
+    "type": "working_paper",
+    "venue": "SSRN / NYU Stern",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5354459",
+    "relevance_note": "Methodology and tables for country equity risk premia (ERP/CRP)—key for cross-border WACC.",
+    "maps_to_objectives": [2]
+  },
+  {
+    "id": "BrealeyMyersAllen_Text",
+    "title": "Principles of Corporate Finance (13th ed.)",
+    "authors": ["Richard A. Brealey", "Stewart C. Myers", "Franklin Allen"],
+    "year": 2019,
+    "type": "book",
+    "venue": "McGraw-Hill",
+    "url": "https://www.mheducation.com/highered/product/principles-of-corporate-finance-brealey.html",
+    "relevance_note": "Comprehensive textbook for capital budgeting, WACC, payout, and governance basics.",
+    "maps_to_objectives": [1,2,3,4]
+  },
+  {
+    "id": "McKinsey_Valuation7e",
+    "title": "Valuation: Measuring and Managing the Value of Companies (7th ed.)",
+    "authors": ["McKinsey & Company", "Tim Koller", "Marc Goedhart", "David Wessels"],
+    "year": 2020,
+    "type": "book",
+    "venue": "Wiley",
+    "url": "https://www.wiley.com/en-dk/Valuation%3A%2BMeasuring%2Band%2BManaging%2Bthe%2BValue%2Bof%2BCompanies%2C%2B7th%2BEdition-p-00038010",
+    "relevance_note": "Practitioner playbook for DCF, value drivers, and performance diagnostics; includes downloadable DCF model.",
+    "maps_to_objectives": [2,3]
+  },
+  {
+    "id": "RossWesterfieldJaffe_Text",
+    "title": "Corporate Finance (Latest Release / 13th ed.)",
+    "authors": ["Stephen A. Ross", "Randolph W. Westerfield", "Jeffrey Jaffe", "Bradford D. Jordan", "Kelly Shue"],
+    "year": 2025,
+    "type": "book",
+    "venue": "McGraw-Hill",
+    "url": "https://www.mheducation.com/highered/product/corporate-finance-ross.html",
+    "relevance_note": "Core reference for NPV/IRR, project analysis, and risk-adjusted discounting with updated pedagogy.",
+    "maps_to_objectives": [1,2]
+  }
+]

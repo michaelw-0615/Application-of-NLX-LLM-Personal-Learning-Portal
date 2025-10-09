@@ -1,0 +1,2613 @@
+Journal of Financial Economics 67 (2003) 217–248
+Testing the pecking order theory of capital
+structure$
+Murray Z. Franka,*, Vidhan K. Goyalb
+aFaculty of Commerce, University of British Columbia, Vancouver, BC Canada, V6 T 1Z2
+bDepartment of Finance, Hong Kong University of Science and Technology, Kowloon, Hong Kong
+Received 22 March 2001; accepted 9 January 2002
+Abstract
+We test the pecking order theory of corporate leverage on a broad cross-section of publicly
+traded American ﬁrms for 1971 to 1998. Contrary to the pecking order theory, net equity
+issues track the ﬁnancing deﬁcit more closely than do net debt issues. While large ﬁrms exhibit
+some aspects of pecking order behavior, the evidence is not robust to the inclusion of
+conventional leverage factors, nor to the analysis of evidence from the 1990s. Financing deﬁcit
+is less important in explaining net debt issues over time for ﬁrms of all sizes.
+r 2002 Elsevier Science B.V. All rights reserved.
+JEL classiﬁcation: G32
+Keywords: Pecking order theory; Capital structure; Financing deﬁcit
+$We would like to thank Mike Barclay (the referee), Ken Bechmann, Robert Chirinko, Sudipto
+Dasgupta, Charles Hadlock, Keith Head, Vojislav Maksimovic, Sheridan Titman, and Karen Wruck, for
+helpful comments. Feedback from the seminar participants at the 2000 European Finance Association
+meetings, the 2000 Financial Management Association meetings, the 11th Annual Financial Economics
+and Accounting Conference (2000) at the University of Michigan, 2001 American Finance Association
+meetings, the 2001 Rutgers Conference on Corporate Finance, the University of Hong Kong, the
+University of Victoria, and the Hong Kong University of Science and Technology are appreciated. Murray
+Frank thanks the B.I. Ghert Family Foundation for ﬁnancial support. We alone are responsible for the
+contents and any errors.
+*Corresponding author. Tel.: +1-604-822-8480; fax: +1-604-822-8477.
+E-mail addresses: murray.frank@commerce.ubc.ca (M.Z. Frank), goyal@ust.hk (V.K. Goyal).
+0304-405X/02/$ - see front matter r 2002 Elsevier Science B.V. All rights reserved.
+PII: S 0 3 0 4 - 4 0 5 X ( 0 2 ) 0 0 2 5 2 - 0
+1. Introduction
+The pecking order theory of capital structure is among the most inﬂuential
+theories of corporate leverage. According to Myers (1984), due to adverse selection,
+ﬁrms prefer internal to external ﬁnance. When outside funds are necessary, ﬁrms
+prefer debt to equity because of lower information costs associated with debt issues.
+Equity is rarely issued. These ideas were reﬁned into a key testable prediction by
+Shyam-Sunder and Myers (1999). The ﬁnancing deﬁcit should normally be matched
+dollar-for-dollar by a change in corporate debt. As a result, if ﬁrms follow the
+pecking order, then in a regression of net debt issues on the ﬁnancing deﬁcit, a slope
+coefﬁcient of one is observed.
+Shyam-Sunder and Myers (1999) ﬁnd strong support for this prediction in a
+sample of 157 ﬁrms that had traded continuously over the period 1971 to 1989. This
+is an attractive and inﬂuential result. The pecking order is offered as a highly
+parsimonious empirical model of corporate leverage that is descriptively reasonable.
+Of course, 157 ﬁrms is a relatively small sample from the set of all publicly traded
+American ﬁrms. It is therefore important to understand whether the pecking order
+theory is broadly applicable.
+In this paper, we study the extent to which the pecking order theory of capital
+structure provides a satisfactory account of the ﬁnancing behavior of publicly traded
+American ﬁrms over the 1971 to 1998 period. Our analysis has three elements. First,
+we provide evidence about the broad patterns of ﬁnancing activity. This provides the
+empirical context for the more formal regression tests. It also serves as a check on the
+signiﬁcance of external ﬁnance and equity issues. Second, we examine a number of
+implications of the pecking order in the context of Shyam-Sunder and Myers’ (1999)
+regression tests. Finally, we check to see whether the pecking order theory receives
+greater support among ﬁrms that face particularly severe adverse selection problems.
+The pecking order theory derives much of its inﬂuence from a view that it ﬁts
+naturally with a number of facts about how companies use external ﬁnance.1 Myers
+(2001) reports that external ﬁnance covers only a small proportion of capital
+formation and that equity issues are minor, with the bulk of external ﬁnance being
+debt. These key claims do not match the evidence for publicly traded American
+ﬁrms, particularly during the 1980s and 1990s. External ﬁnance is much more
+signiﬁcant than is usually recognized in that it often exceeds investments. Equity
+ﬁnance is a signiﬁcant component of external ﬁnance. On average, net equity issues
+commonly exceed net debt issues. Particularly striking is the fact that net equity
+issues track the ﬁnancing deﬁcit much more closely than do net debt issues.
+Shyam-Sunder and Myers (1999) focus on a regression test of the pecking order.
+In this test one needs to construct the ﬁnancing deﬁcit from information in the
+corporate accounts. The ﬁnancing deﬁcit is constructed from an aggregation of
+1The pecking order theory also derives support from indirect sources of evidence. Eckbo (1986) and
+Asquith and Mullins (1986) provide event study evidence that adverse selection is more signiﬁcant for
+equity issues than for debt issues. Cadsby et al. (1990) provide experimental evidence of adverse selection
+in company ﬁnancing.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+218
+dividends, investment, change in working capital and internal cash ﬂows. If the
+pecking order theory is correct, then the construction of the ﬁnancing deﬁcit variable
+is a justiﬁed aggregation. Under the pecking order, each component of ﬁnancing
+deﬁcit should have the predicted dollar-for-dollar impact on corporate debt. The
+evidence does not support this hypothesis.
+Even if a theory is not strictly correct, when compared to other theories it might
+still do a better job of organizing the available evidence. The pecking order is a
+competitor to other mainstream empirical models of corporate leverage. Major
+empirical alternatives such as the model tested by Rajan and Zingales (1995) use a
+different information set to account for corporate leverage. It is therefore of interest
+to see how the ﬁnancing deﬁcit performs in a nested model that also includes
+conventional factors. The pecking order theory implies that the ﬁnancing deﬁcit
+ought to wipe out the effects of other variables. If the ﬁnancing deﬁcit is simply one
+factor among many that ﬁrms tradeoff, then what is left is a generalized version of
+the tradeoff theory.
+We ﬁnd that the ﬁnancing deﬁcit does not wipe out the effects of conventional
+variables. The information in the ﬁnancing deﬁcit appears to be factored in along
+with many other things that ﬁrms take into account. This is true across ﬁrm sizes and
+across time periods.
+Since the pecking order does not explain broad patterns of corporate ﬁnance, it is
+natural to examine narrower sets of ﬁrms. According to the pecking order theory,
+ﬁnancing behavior is driven by adverse selection costs. The theory should perform
+best among ﬁrms that face particularly severe adverse selection problems. Small
+high-growth ﬁrms are often thought of as ﬁrms with large information asymmetries.
+Contrary to this hypothesis, small high-growth ﬁrms do not behave according to
+the pecking order theory. In fact, the pecking order works best in samples of large
+ﬁrms that continuously existed during the 1970s and the 1980s. Large ﬁrms with long
+uninterrupted trading records are not usually considered to be ﬁrms that suffer the
+most acute adverse selection problems.
+To understand the evidence it is important to recognize the changing population
+of public ﬁrms. Compared to the 1970s and 1980s, many more small and
+unproﬁtable ﬁrms became publicly traded during the 1990s. Since small ﬁrms
+generally do not behave according to the pecking order, this accounts for part of the
+reason that the pecking order theory is rejected. But the time period has a stronger
+effect than just this. For ﬁrms of all sizes, the ﬁnancing deﬁcit plays a declining role
+over time.
+Previous literature provides other evidence pertinent to a general assessment of the
+pecking order theory. The pecking order theory predicts that high-growth ﬁrms,
+typically with large ﬁnancing needs, will end up with high debt ratios because of a
+manager’s reluctance to issue equity. Smith and Watts (1992) and Barclay et al.
+(2001) suggest precisely the opposite. High-growth ﬁrms consistently use less debt in
+their capital structure.
+The pecking order theory makes predictions about the maturity and priority
+structure of debt. Securities with the lowest information costs should be issued ﬁrst,
+before the ﬁrm issues securities with higher information costs. This suggests that
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+219
+short-term debt should be exhausted before the ﬁrm issues long-term debt.
+Capitalized leases and secured debt should be issued before any unsecured debt is
+issued. Barclay and Smith (1995a, b) ﬁnd that 50% of their ﬁrm-year observations
+have no debt issued with less than one-year maturity, 23% have no secured debt, and
+54% have no capital leases. It seems difﬁcult to understand this evidence within a
+pure pecking order point of view.
+Chirinko and Singha (2000) question the interpretation of the Shyam-Sunder and
+Myers (1999) regression test. Chirinko and Singha show that equity issues can create
+a degree of negative bias in the Shyam-Sunder and Myers test. Suppose that ﬁrms
+actually follow the pecking order theory, but that these ﬁrms issue an empirically
+observed amount of equity. In that case, they show that the predicted regression
+coefﬁcient is actually 0.74 rather than one. This amount of bias is not trivial, but it
+still leaves the coefﬁcient very far from the magnitudes of slope coefﬁcients that are
+observed. Chirinko and Singha also point out that if, contrary to the pecking order,
+ﬁrms follow a policy of using debt and equity in ﬁxed proportions, then the Shyam-
+Sunder and Myers regression will identify this ratio. As a result, ﬁnding a coefﬁcient
+near one would not disprove the tradeoff theory. Chirinko and Singha’s cautionary
+note reinforces an important methodological point. Most empirical tests have
+various weaknesses. It is therefore important to examine the predictions of a theory
+from a number of points of view rather than relying solely on a single test.
+The structure of the rest of this paper is as follows. Section 2 presents the pecking
+order theory and the associated empirical hypotheses. The data are described in
+Section 3. Section 4 presents the empirical results. Conclusions are presented in
+Section 5.
+2. Theory
+The pecking order theory is from Myers (1984) and Myers and Majluf (1984).
+Since it is well known, we can be brief. Suppose that there are three sources of
+funding available to ﬁrms: retained earnings, debt, and equity. Retained earnings
+have no adverse selection problem. Equity is subject to serious adverse selection
+problems while debt has only a minor adverse selection problem. From the point of
+view of an outside investor, equity is strictly riskier than debt. Both have an adverse
+selection risk premium, but that premium is large on equity. Therefore, an outside
+investor will demand a higher rate of return on equity than on debt. From the
+perspective of those inside the ﬁrm, retained earnings are a better source of funds
+than is debt, and debt is a better deal than equity ﬁnancing. Accordingly, the ﬁrm
+will fund all projects using retained earnings if possible. If there is an inadequate
+amount of retained earnings, then debt ﬁnancing will be used. Thus, for a ﬁrm in
+normal operations, equity will not be used and the ﬁnancing deﬁcit will match the net
+debt issues.
+In reality, company operations and the associated accounting structures are more
+complex than the standard pecking order representation. This implies that in order
+to test the pecking order, some form of aggregation must be used.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+220
+We deﬁne notation as follows:
+DIVt cash dividends in year t;
+It
+net investment in year t (i.e., It ¼capital expenditures+increase in invest-
+ments+acquisitions+other use of fundssale of PPEsale of investment);
+DWt
+change in working capital in year t (i.e., DWt ¼change in operating working
+capital+change in cash and cash equivalents+change in current debt);
+Ct
+cash ﬂow after interest and taxes (i.e., Ct ¼income before extraordinary
+items+depreciation and amortization+extraordinary items and discontinued
+operations+deferred taxes+equity in net lossearnings+other funds from
+operations+gain (loss) from sales of PPE and other investments);
+Rt
+current portion of the long-term debt in year t;
+DDt
+net debt issued in year t; (i.e., DDt=long-term debt issuancelong-term debt
+reduction);
+DEt
+Net equity issued in year t (i.e., DEt ¼sale of common stock minus stock
+repurchases).
+Using this notation, we can use the ﬂow of funds data to provide a partially
+aggregated form of the accounting cash ﬂow identity as,
+DEFt¼ DIVt þ ItþDWt  Ct ¼ D DtþDEt:
+ð1Þ
+Shyam-Sunder and Myers (1999) argue that under the pecking order hypothesis,
+after an Initial Public Offering (IPO), equity issues are only used in extreme
+circumstances. The empirical speciﬁcation is thus given as
+DDit ¼ a þ bPODEFit þ eit;
+ð2Þ
+where eit is a well-behaved error term. In Eq. (2), the pecking order hypothesis is that
+a ¼ 0 and bPO ¼ 1: Shyam-Sunder and Myers (1999) ﬁnd that the pecking order
+model is statistically rejected. However it does provide a good ﬁrst-order
+approximation of their data.
+In contrast to the accounting deﬁnition, Shyam-Sunder and Myers (1999) include
+the current portion of long-term debt as part of the ﬁnancing deﬁcit beyond its role
+in the change in working capital. Following their argument, the relevant ﬂow of
+funds deﬁcit ðDEFSSM
+t
+Þ is deﬁned as
+DEFSSM
+t
+¼ DIVt þ ItþDWt þ Rt  Ct:
+ð3Þ
+If their alternative version of the ﬁnancing deﬁcit is to be used, then replace DEFit
+with DEFSSM
+t
+in Eq. (2). We try both approaches and ﬁnd that empirically the
+current portion of long-term debt does not appear to belong in the deﬁnition of
+DEFit: With the exception of column (7) of Table 5, we report only the results for
+which the current portion of long-term debt is not included as a separate component
+of the ﬁnancing deﬁcit. This choice favors the pecking order, but it does not affect
+our conclusions.
+How is cash to be treated in the ﬁnancing deﬁcit? Changes in cash and cash
+equivalents are included with changes in working capital. Cash could be correlated
+with the amount of debt issued. This could arise in the presence of lumpy debt and
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+221
+equity issues, with excess proceeds parked for some period of time in excess cash
+balances. If this takes place over a number of years, a more complex dynamic theory
+of leverage is needed. We report results in which the change in cash and cash
+equivalents are included. This choice favors the pecking order, but the conclusions
+are not affected.
+In a panel regression, one can treat all year-ﬁrm combinations as equally
+important independent observations. If that is done, then a simple regression can be
+run. If one is willing to accept the classical error term assumptions, then standard
+ﬁxed-effects or random-effects panel estimators may be used. Yet another possibility
+is to downplay the differences across time and focus on the cross-sectional
+differences. One could follow Fama and MacBeth (1973) and use the average of a
+series of annual cross-sectional regressions as the point estimate and use the time
+series of these estimates to construct standard errors. This is the approach taken by
+Fama and French (2002). We have tried these alternatives and our conclusions are
+not sensitive to the choice of approach.
+According to theory, the speciﬁcation in Eq. (2) is deﬁned in levels. When actually
+estimating Eq. (2), it is conventional to scale the variables by assets or by sales. The
+pecking order theory does not require such scaling. Of course, in an algebraic
+equality if the right-hand side and the left-hand side are divided by the same value,
+the equality remains intact. However, in a regression the estimated coefﬁcient can be
+seriously affected if the scaling is by a variable that is correlated with the variables in
+the equation. Scaling is most often justiﬁed as a method of controlling for differences
+in ﬁrm size. The reported results are based on variables scaled by net assets (total
+assets minus current liabilities). We replicate all the tests by scaling variables by total
+book assets, by the sum of book debt plus market equity, and by sales. The results
+are very similar and do not affect our conclusions.
+There is an important econometric issue that needs to be addressed. The pecking
+order theory treats the ﬁnancing deﬁcit as exogenous. The ﬁnancing deﬁcit includes
+investment and dividends. Yet, much ﬁnancial theory is devoted to attempting to
+understand the determinants of these factors. As a result, it is not entirely obvious
+that the components of the ﬁnancing deﬁcit should be properly regarded as
+exogenous. If they are truly endogenous, then the regression in Eq. (2) is
+misspeciﬁed. If a model is misspeciﬁed, then small changes to the speciﬁcation
+may lead to large changes in the coefﬁcient estimates. The model is also likely to be
+unstable across time periods and its performance would likely not generalize to other
+samples of ﬁrms. Such instability would itself be indicative of a failure of the model.
+In order to deal with these concerns, two steps are taken. First, all tests are
+subjected to a large number of robustness checks. In most cases the ﬁndings are
+robust. However, the ﬁndings are not robust on one crucial dimension. Requiring
+ﬁrms to have complete trading records over the period 1971–1989 makes a big
+difference to the coefﬁcient estimates. Second, the ability of the estimated models to
+predict debt issues by a holdout sample of ﬁrms is directly examined. This is a simple
+way to address concerns about model misspeciﬁcation. A model may ﬁt well within
+sample but its performance may not generalize. Such a model is, of course, much less
+interesting than an empirical model that also performs well out of sample.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+222
+The ability of each ﬁtted model to predict is tested on data from the ﬁve years
+subsequent to (or prior to) the time period over which the model is ﬁt. For each ﬁrm
+year in the holdout sample, we plug the actual values of the exogenous variables into
+the ﬁtted equation. This provides a predicted value of the endogenous variable
+(usually net debt issue). In this manner, we obtain ﬁve years of ﬁrm-speciﬁc
+predictions from each ﬁtted model. To assess the quality of these predictions, the
+predicted debt issues are regressed against a constant and the actual debt issues. A
+good ﬁt will be reﬂected in an intercept of zero, a slope of one, and a high R2: In
+order to save space we only report the R2 that is obtained on the hold out sample.
+2.1. Using the same information: disaggregation of the ﬁnancing deﬁcit
+To test the pecking order theory we need to aggregate the accounting data. Is the
+aggregation step justiﬁed? It seems plausible that there could be information in
+DEFit that helps to account for DDit; but not in the manner hypothesized by the
+pecking order theory. An easy way to check whether the aggregation step is justiﬁed
+is to run the equation on a disaggregated basis and then check whether the data
+satisﬁes the aggregation step.
+Consider the following speciﬁcation,
+DDit ¼ a þ bDIVDIVt þ bIIt þ bWDWt  bCCt þ eit:
+ð4Þ
+Under the pecking order theory, it is DEFit itself that matters. A unit increase in any
+of the components of DEFit must have the same unit impact on DDit: The pecking
+order hypothesis is thus bDIV ¼ bI ¼ bW ¼ bC ¼ 1: If that hypothesis is correct, then
+the aggregation in Eq. (1) is justiﬁed. If however, the signiﬁcance is actually only
+driven by some of the individual components, then alternative coefﬁcient patterns
+are possible.
+2.2. Using other information to account for leverage
+The pecking order test implicitly makes different exogeneity assumptions and uses
+a different information set than is conventional in empirical research on leverage and
+leverage-adjusting behavior. Harris and Raviv (1991) explain the conventional set of
+variables and then Rajan and Zingales (1995) distill these variables into a simple
+cross-sectional model.
+The conventional set of explanatory factors for leverage is the conventional set for
+a reason. The variables have survived many tests. As explained below, these variables
+also have conventional interpretations. Excluding such variables from consideration
+is therefore potentially a signiﬁcant omission. It is also true that including such
+variables potentially poses a tough test for the pecking order theory.
+The conventional leverage regression is intended to explain the level of leverage,
+while the pecking order regression is intended to explain the change rather than the
+level. As long as the shocks are uncorrelated across years, we can equally well run the
+conventional speciﬁcation in ﬁrst differences. Of course, a lower R2 will be obtained.
+The assumption of uncorrelated shocks is unlikely literally correct. When we run the
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+223
+conventional regression in ﬁrst differences, we expect to lose some accuracy.
+Running the conventional regression in ﬁrst differences may also bias the variable
+coefﬁcients towards zero. It turns out that this bias is not large enough to alter our
+conclusions about the relative empirical validity of the two approaches. The beneﬁt
+is that we then have an appropriate speciﬁcation in which to nest the ﬁnancing deﬁcit
+variable. Alternatively, one could run a regression that explains the level of leverage,
+then use a cumulated past ﬁnancing deﬁcit variable to represent the pecking order. If
+that is done there is an issue about when to start the cumulating. We try such a
+procedure and obtain results that are very similar to those reported in Table 7.
+At the heart of the conventional empirical analysis is a regression of leverage on
+four factors: tangibility of assets (denoted T), market-to-book ratio (denoted MTB),
+log sales (denoted LS), and proﬁtability (denoted P). Let D denote the ﬁrst
+differences between years. Our version of the basic regression equation is therefore
+DDi ¼ a þ bTDTi þ bMTBDMTBi þ bLSDLSi þ bPDPi þ bDEFDEFi þ ei:
+ð5Þ
+Eq. (5) is simply a conventional regression run in ﬁrst differences but with ﬁnancing
+deﬁcit as an added factor. In the conventional regression, this term is not present.
+From the perspective of testing the pecking order, the most important of the
+conventional variables is tangibility. According to Harris and Raviv (1991), under
+the pecking order theory, one might expect that ﬁrms with few tangible assets would
+have greater asymmetric information problems. Thus, ﬁrms with few tangible assets
+will tend to accumulate more debt over time and become more highly levered. Hence,
+Harris and Raviv argue that the pecking order predicts that bTo0: This is not the
+conventional prediction regarding the role of tangibility. A more common idea is
+based on the hypothesis that collateral supports debt. It is often suggested that
+tangible assets naturally serve as collateral. Hence, collateral is associated with
+increased leverage. The usual prediction is that bT > 0:
+Firms with high market-to-book ratios are often thought to have more future
+growth opportunities. As in Myers (1977), there may be a concern that debt could
+limit a ﬁrm’s ability to seize such opportunities when they appear. Goyal et al. (2002)
+ﬁnd that when growth opportunities of defense ﬁrms decline, these ﬁrms increase
+their use of debt ﬁnancing. Barclay et al. (2001) present a model showing that the
+debt capacity of growth options can be negative. The common prediction is that
+bMTBo0:
+Large ﬁrms are usually more diversiﬁed, have better reputations in debt markets,
+and face lower information costs when borrowing. Therefore, large ﬁrms are
+predicted to have more debt in their capital structures. The prediction is that bLS > 0:
+The predictions on proﬁtability are ambiguous. The tradeoff theory predicts that
+proﬁtable ﬁrms should be more highly levered to offset corporate taxes. Also, in
+many asymmetric information models, such as Ross (1977), proﬁtable ﬁrms are
+predicted to have higher leverage. But Titman and Wessels (1988) and Fama and
+French (2002) show that this is not a common ﬁnding. Instead, the literature ﬁnds
+proﬁts and leverage to be negatively correlated. While MacKay and Phillips (2001)
+challenge this common ﬁnding, we expect to ﬁnd that bPo0:
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+224
+Fama and French (2002) note that the negative relationship between proﬁts and
+leverage is consistent with the pecking order theory. But the pecking order is not the
+only possible interpretation of the relationship. There are at least two issues. First,
+current proﬁtability can also serve as a signal of investment opportunities. There is a
+large macro-ﬁnance literature, including studies by Gilchrist and Himmelberg (1995)
+and Kaplan and Zingales (1997), in which this interpretation issue plays a key role. It
+is well known that it is difﬁcult to construct a convincing proxy for investment
+opportunities. If Tobin’s q or the simpler measure, market-to-book assets, is
+measured with error, then it may not adequately control for the information content
+in a ﬁrm’s proﬁtability. For an analysis of measurement error in this context, see
+Erickson and Whited (2000).
+The second issue is that ﬁrms may face ﬁxed costs of adjustment. Fischer et al.
+(1989) analyze the effect of having ﬁxed costs associated with actively adjusting
+leverage. When a ﬁrm earns proﬁts, debt gets paid off and leverage falls
+automatically. Only periodically will large readjustments be made in order to
+capture the tax beneﬁts of leverage. Empirically, most of the data reﬂects the process
+of paying off the debt by using proﬁts. Thus, proﬁtable ﬁrms will be less levered even
+if the tradeoff theory is at work and the adjustment costs are taken into account.
+3. Data
+We need the data from funds ﬂow statements to test the pecking order theory. This
+restricts the beginning of the sample period to 1971 since that is when American
+ﬁrms started reporting funds ﬂow statements. The data ends with 1998. Variables are
+deﬂated to constant 1992 dollars.
+Following standard practice, ﬁnancial ﬁrms (6000–6999), regulated utilities (4900–
+4999), and ﬁrms involved in major mergers (Compustat footnote code AB) are
+excluded.2 Also excluded are ﬁrms with missing book value of assets and a small
+number of ﬁrms that reported format codes 4, 5, or 6. Compustat does not deﬁne
+format codes 4 and 6. Format code 5 is for the Canadian ﬁle. The balance sheet and
+cash ﬂow statement variables as a percentage of assets are trimmed to remove the
+most extreme 0.50% in either tail of the distribution. This serves to remove outliers
+and the most extremely misrecorded data.3
+The balance sheet presentation of corporate assets and liabilities is reasonably
+consistent over time. Average common-size balance sheets for a number of years
+between 1971 and 1998 are presented in Table 1. The asset side shows signiﬁcant
+changes over time. Cash increases dramatically over the period, going from 5% to
+2Leaving in the data on ﬁrms involved in major mergers had no material effect on our conclusions. We,
+therefore, do not report these results separately.
+3Prior to trimming, several balance sheet and cash ﬂow statement items are recoded as zero if they were
+reported missing or combined with other data items in Compustat. The data is often coded as missing
+when a ﬁrm does not report a particular item or combines it with other data items. After examining
+accounting identities, we determine that recoding missing values on these items as zero respects the
+reported accounting identities.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+225
+Table 1
+Common-size balance sheet for US industrial ﬁrms
+This table presents average balance sheets for US industrial ﬁrms for selected years. Financial ﬁrms and utilities are excluded. The value of each balance-sheet
+item is calculated as a percentage of the book value of total assets and then averaged across each ﬁrm reporting data on Compustat in that year. When ﬁrms
+report combined cash and short-term investments, we include these amounts with cash and recode short-term investments as zero. In addition, the following
+items are recoded as zero when they were either missing or combined with other data items: investment and advances (#31 and #32), intangibles (#33), other
+assets (#69), debt in current liabilities (#34), income taxes payable (#71), other current liabilities (#72), other liabilities (#75), deferred taxes and ITC (#35), and
+minority interest (#38).
+Average balance sheet item as a fraction of total assets
+Year
+1971
+1975
+1980
+1985
+1990
+1995
+1998
+Number of observations
+2,833
+4,889
+4,639
+5,305
+5,243
+7,368
+7,301
+Assets:
++Cash (#162)
+0.053
+0.054
+0.052
+0.083
+0.098
+0.120
+0.135
++Short-term investment (#193)
+0.041
+0.042
+0.051
+0.051
+0.030
+0.043
+0.048
++Receivables—total (#2)
+0.197
+0.206
+0.213
+0.193
+0.190
+0.188
+0.177
++Inventories—total (#3)
+0.239
+0.241
+0.220
+0.179
+0.166
+0.143
+0.122
++Current assets—other (#68)
+0.015
+0.017
+0.019
+0.023
+0.026
+0.032
+0.033
+=Current assets—total (#4)
+0.548
+0.567
+0.566
+0.543
+0.525
+0.542
+0.532
++Net property, plant, and equipment—total (#8)
+0.351
+0.342
+0.351
+0.345
+0.330
+0.300
+0.282
++Investments and advances—equity method (#31)
+0.014
+0.011
+0.011
+0.011
+0.009
+0.007
+0.007
++Investment and advances—other (#32)
+0.022
+0.021
+0.022
+0.025
+0.021
+0.020
+0.018
++Intangibles (#33)
+0.034
+0.030
+0.020
+0.029
+0.049
+0.056
+0.076
++Assets—other (#69)
+0.026
+0.022
+0.024
+0.035
+0.049
+0.055
+0.059
+=Total assets (#6)
+1.000
+1.000
+1.000
+1.000
+1.000
+1.000
+1.000
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+226
+Liabilities:
++Debt in current liabilities (#34)
+0.070
+0.085
+0.084
+0.094
+0.101
+0.078
+0.076
++Account payable (#70)
+0.097
+0.111
+0.120
+0.114
+0.115
+0.113
+0.104
++Income taxes payable (#71)
+0.020
+0.017
+0.016
+0.009
+0.008
+0.007
+0.006
++Current liabilities—other (#72)
+0.060
+0.076
+0.088
+0.094
+0.102
+0.117
+0.123
+=Current liabilities—total (#5)
+0.249
+0.296
+0.315
+0.320
+0.339
+0.324
+0.322
++Long-term debt—total (#9)
+0.191
+0.198
+0.195
+0.183
+0.194
+0.174
+0.184
++Liabilities—other (#75)
+0.011
+0.013
+0.015
+0.021
+0.027
+0.035
+0.030
++Deferred taxes and ITC (#35)
+0.017
+0.019
+0.023
+0.021
+0.018
+0.013
+0.011
++Minority Interest (#38)
+0.003
+0.003
+0.002
+0.003
+0.004
+0.004
+0.004
+=Liabilities—total (#181)
+0.473
+0.534
+0.558
+0.568
+0.611
+0.566
+0.575
++Preferred stock—carrying value (#130)
+0.010
+0.010
+0.010
+0.013
+0.019
+0.025
+0.030
++Common equity—total (#60)
+0.517
+0.453
+0.429
+0.413
+0.351
+0.383
+0.348
+¼Stockholders’ equity—total (#216) ¼(#130+#60)
+0.527
+0.466
+0.442
+0.432
+0.389
+0.435
+0.424
+=Total liabilities and stockholders’ equity (#6)
+1.000
+1.000
+1.000
+1.000
+1.000
+1.000
+1.000
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+227
+13% of total book assets. Intangibles double from 3.4% to 7.6% of the total assets.
+At the same time, inventories, and property, plant, and equipment experience large
+declines. In contrast to the assets side of the balance sheet, the liability side is quite
+stable during this period.
+American ﬁrms report their accounts in a number of different formats over the last
+thirty years. To have a consistent time-series, we merge the different format codes to
+a common format. The data from 1971 to 1987 is from the ‘‘Cash Statement by
+Sources and Use of funds.’’ The standard form of reporting corporate cash ﬂows
+changed in 1988. For ﬁscal years ending before July 15, 1988, there are three distinct
+but closely related formats (Compustat format codes 1, 2, 3) that were permitted for
+companies to report their cash ﬂows. Beginning in 1988, most ﬁrms start reporting
+Statement of Cash Flows (format code 7). In the earlier period, the structure has
+funds from operations plus other sources of funds minus uses of working capital
+equals change in working capital. The cash ﬂows since July 15, 1988 are structured as
+income plus indirect operating activities plus investing activities plus ﬁnancing
+activities equals change in cash and cash equivalents. A disaggregated version of
+these statements is fairly lengthy and is therefore relegated to Appendix A. The fact
+that this statement is lengthy is itself important to recognize. It implies that when
+testing the pecking order, a large number of separate elements are being aggregated.
+It has been suggested that the pecking order hypothesis must be true empirically.
+This is because it is ‘‘well known’’ that, to a ﬁrst approximation, ﬁrms do not issue
+much equity after the IPO. If equity issues are known to be zero, then by the
+accounting identity in Eq. (1), the ﬁnancing deﬁcit must be equal to the debt issue.
+As shown in Table 2, this conjectured ﬁrst approximation to an accounting identity
+is misleading. Much more equity is issued than is sometimes recognized.
+Table 2 presents cash ﬂows in an aggregated form that matches Eq. (1). In this
+table, the ﬁnancing deﬁcit grows over time. To a dramatic degree, net equity issues
+grow at a faster rate than net debt issues. The number of public ﬁrms grows
+signiﬁcantly over the period studied. Therefore, an obvious hypothesis is that the
+magnitude of equity reﬂects a large number of IPOs. To check this, we remove the
+data for each ﬁrm for the ﬁrst year that it appeared in Compustat. The results (not
+reported) show that removing these observations has only a minor effect. The large
+use of net equity is not merely an IPO effect.
+Firm size and discreteness both play a role in understanding the evidence in Table
+2. During the 1980s and especially the 1990s, a signiﬁcant inﬂux of small ﬁrms
+became publicly traded. These small ﬁrms use relatively more equity ﬁnancing than
+do large ﬁrms. Table 2 reports the mean values. Due to discreteness, there is a big
+gap between the mean and the median debt and equity issues. The median net debt
+issue and the median net equity issue are both close to zero despite the large mean
+values. Apparently many ﬁrms remain out of both the debt and equity markets most
+of the time. Occasionally, they enter these markets actively. The magnitudes of the
+interventions are often large relative to the ﬁrm size.
+While the tables provide snapshots in selected years, it is also helpful to consider
+the year-by-year trends in the relative use of debt and equity. Fig. 1 shows the
+changing roles of net debt and net equity relative to the ﬁnancing deﬁcit over assets
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+228
+Table 2
+Corporate cash ﬂows
+Average funds ﬂow and ﬁnancing as a fraction of total assets
+1971
+1975
+1980
+1985
+1990
+1995
+1998
+Number of observations
+2,823
+4,838
+4,561
+5,129
+5,069
+7,052
+6,931
+Cash dividendsa
+0.015
+0.011
+0.012
+0.009
+0.009
+0.007
+0.006
+Investmentsb
+0.094
+0.079
+0.114
+0.122
+0.079
+0.104
+0.109
+D Working capitalc
+0.037
+0.016
+0.033
+0.003
+0.007
+0.034
+0.011
+Internal cash ﬂowd
+0.103
+0.096
+0.095
+0.042
+0.020
+0.017
+0.032
+Financing deﬁcita + b + c  d
+0.043
+0.010
+0.064
+0.085
+0.061
+0.129
+0.135
+Net debt issues (#111–#114)
+0.016
+0.005
+0.019
+0.019
+0.007
+0.021
+0.034
+Net equity issues (#108–#115)
+0.027
+0.005
+0.045
+0.066
+0.053
+0.108
+0.101
+Net external ﬁnancing (net debt issues + net equity issues)
+0.043
+0.010
+0.064
+0.085
+0.061
+0.129
+0.135
+aItem 127.
+bFor ﬁrms reporting format codes 1 to 3, investments equal Item 128+Item 113+Item 129+Item 219Item 107Item 109. For ﬁrms reporting format
+code 7, investments equal Item 128+Item 113+Item 129Item 107Item 109Item 309Item 310.
+cFor ﬁrms reporting format code 1, Change in net working capital equals Item 236+Item 274+Item 301. For ﬁrms reporting format codes 2 and 3, change
+in net working capital equalsItem 236+Item 274Item 301. For ﬁrms reporting format code 7, change in net working capital equalsItem 302Item
+303Item 304Item 305Item 307+Item 274Item 312Item 301.
+dFor ﬁrms reporting format codes 1 to 3, internal cash ﬂow equals Item 123+Item 124+Item 125+Item 126+Item 106+Item 213+Item 217+Item 218.
+For ﬁrms reporting format code 7, internal cash ﬂow equals Item 123+Item 124+Item 125+Item 126+Item 106+Item 213+Item 217+Item 314.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+229
+for the full 1971–1998 period. Because of the accounting cash ﬂow identity, it is
+natural to expect that net debt and net equity ought to track the ﬁnancing deﬁcit.
+Under the pecking order, one would expect that the debt would track the ﬁnancing
+deﬁcit much more closely than would net equity. Empirically, the reverse is observed.
+Adding the currently maturing debt to the ﬁnancing deﬁcit and omitting IPO ﬁrms
+have only very minor impacts on the picture. The correlation between net equity and
+the ﬁnancing deﬁcit is 0.80, while the correlation between the ﬁnancing deﬁcit and
+net long-term debt is only 0.48.
+The information reported in Table 2 and depicted in Fig. 1 conveys an important
+message. According to Myers (2001) a major advantage of the pecking order is that it
+explains why the bulk of external ﬁnancing takes the form of debt. What Table 2
+shows is that this is empirically not observed. A great deal of external ﬁnancing takes
+the form of equity. Graham (2000) shows that some ﬁrms use debt conservatively
+and that these ﬁrms employ more equity than debt. The low debt levels employed by
+some ﬁrms remain theoretically challenging. Minton and Wruck (2001) and
+1971
+1974
+1977
+1980
+1983
+1986
+1989
+1992
+1995
+1998
+Year
+-0.05
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+Financing deficit/net assets
+Net debt issued/net assets
+Net equity issued/net assets
+Fig. 1. Average ﬁnancing deﬁcit to net assets, net debt issued to net assets, and net equity issued to net
+assets, 1971–1998. The ﬁgure plots annual averages of the ratios of ﬁnancing deﬁcit to net assets, net debt
+issued to net assets, and net equity issued to net assets for the period between 1971 and 1998. The sample
+comprises U.S. ﬁrms on the Compustat ﬁles. Financial ﬁrms and regulated utilities are excluded. The
+ﬁnancing deﬁcit is calculated as cash dividends plus investments plus change in working capital minus
+internal cash ﬂow. Net debt issued is long-term debt issuance minus long-term debt redemption. Net equity
+issued is the issue of stock minus the repurchase of stock. The variables are constructed using data from
+Compustat funds-ﬂow statements.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+230
+Lemmon and Zender (2001) provide further evidence. In many years more equity
+than debt is used on average.
+A second important aspect of Table 2 concerns the importance of retained
+earnings relative to external ﬁnancing. According to Myers (2001), typically most
+investment is ﬁnanced by internal cash ﬂow. Table 2 shows that during the 1980s and
+1990s, this is not the typical pattern. Over time, the internal cash ﬂow declines in
+relative importance as a source of ﬁnancing.
+4. Empirical tests
+Shyam-Sunder and Myers (1999) study data from the period 1971 to 1989. Results
+are presented separately for their sample period (1971–1989) and for subsequent
+years (1990–1998) for many speciﬁcations. This facilitates comparisons.
+Table 3 provides the results of regressions for the same time period as Shyam-
+Sunder and Myers (1999). We follow their approach of reporting results separately
+for net debt issued, gross debt issued, and the change in the debt ratio. We also
+attempt to match their sample selection criteria. The most signiﬁcant of their criteria
+is the requirement that ﬁrms report continuously on the necessary variables. These
+criteria result in a sample with 768 ﬁrms and 19 years of data for each ﬁrm. This is
+signiﬁcantly larger than their sample of 157 ﬁrms.
+Many other restrictions are tried. Examples include requiring ﬁrms to report
+continuously on a variety of other variables or only considering ﬁrms for inclusion
+based on speciﬁc Compustat format codes. Adding more restrictions does result in
+sample sizes becoming smaller. However, we did not manage to exactly identify their
+157 ﬁrms. These further restrictions lead to samples for which the empirical results
+are very similar to those reported in Table 3. We therefore place minimum
+restrictions consistent with our understanding of the treatment of data in their paper.
+The results in Table 3 start with net debt issued as the dependent variable in a
+sample of ﬁrms with no gaps permitted. Despite the differences in sample size, we do
+replicate the coefﬁcients on the ﬁnancing deﬁcit reported by Shyam-Sunder and
+Myers (1999). As reported in column (1) of Table 3, the estimated coefﬁcient for this
+sample is 0.75 and the R2 is 0.71. Support for the pecking order theory is strong in
+this case. The ﬁndings for gross debt and change in debt ratio departs somewhat
+from their results.
+For the holdout sample R2s, there is a choice of whether to use the same restricted
+set of ﬁrms or instead to examine the broader population of ﬁrms. It is not a case of
+one being right and the other being wrong. These two alternatives provide different
+information about what the ﬁtted equation tells us. The full sample holdout test
+shows whether the ﬁtted model accounts for the broad population of ﬁrms that exist
+over the subsequent ﬁve years. The restricted sample holdout test shows whether the
+ﬁtted model accounts for the debt issuing decisions of the surviving members of the
+selected sample over the next ﬁve years. The attrition rate among the selected sample
+of ﬁrms is rather high in the next ﬁve years. For the survivors, the predictability is
+very good. Of course, the pecking order theory does not predict which ﬁrms will
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+231
+Table 3
+Pecking order tests for the time period 1971–1989
+The sample period is 1971–1989. Financial ﬁrms and utilities are excluded. The sample in columns (1)–(3) additionally excludes ﬁrms with gaps in reporting of
+relevant ﬂow of funds data. The following regression is estimated: DDit ¼ a þ bPODEFit þ eit; where DDt is the net or gross amount of debt issued, and the
+ﬁnancing deﬁcit, DEFt; is the sum of dividends, investment, change in working capital (change in operating working capital + changes in cash + changes in
+short term debt), minus the cash ﬂow after interest and taxes. All variables are scaled by net assets. The dependent variable in Columns (3) and (6) is the change
+in long-term debt to net assets ratio. The holdout sample period is from 1990 to 1994. Standard errors are reported in parentheses.
+1971–1989
+1971–1989
+Data with no gaps permitted in the
+reporting of ﬂow of funds data
+Data with gaps permitted in the
+reporting of ﬂow of funds data
+Net debt issued
+Gross debt issued
+Change in debt ratio
+Net debt issued
+Gross debt issued
+Change in debt ratio
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Constant
+0.001b
+0.060a
+0.005a
+0.002a
+0.080a
+0.003a
+(o0.001)
+(0.001)
+(0.001)
+(o0.001)
+(0.001)
+(o0.001)
+Financing deﬁcit
+0.748a
+0.601a
+0.426a
+0.283a
+0.267a
+0.147a
+(0.004)
+(0.008)
+(0.006)
+(0.002)
+(0.002)
+(0.002)
+N
+14,592
+14,592
+14,592
+89,883
+89,735
+83,463
+R2
+0.708
+0.296
+0.270
+0.265
+0.159
+0.055
+R2—Holdout sample (full)
+0.135
+0.039
+0.001
+0.135
+0.039
+0.001
+R2—Holdout sample (restricted)
+0.678
+0.085
+0.115
+aIndicates signiﬁcance at the 0.01 level.
+bIndicates signiﬁcance at 0.10 level.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+232
+survive. For the broader population of ﬁrms, the predictability is poor. The full
+population out-of-sample results show that the model results do not generalize.
+There is nothing in the pecking order theory that requires the use of balanced
+panels of ﬁrms. Comparison of columns (1)–(3) with columns (4)–(6) shows that
+requiring ﬁrms to have no reporting gaps has a nontrivial impact on the results. Both
+the estimated coefﬁcient on the ﬁnancing deﬁcit, and the R2; decline sharply when we
+examine the broader population of U.S. ﬁrms over the period 1971–1989. As column
+(4) of Table 3 shows, the coefﬁcient on ﬁnancing deﬁcit in the net debt issued
+regression is 0.28 with an R2 of 0.27. The results from regressions that explain gross
+debt issued and change in debt ratio as a function of ﬁnancing deﬁcit similarly show
+substantial declines in both coefﬁcient estimates and R2s when the focus shifts from
+the 768 ﬁrm sample that traded continuously to the broader population of publicly
+traded U.S. ﬁrms.4
+How did the ﬁrms with no gaps in the reporting of funds ﬂow data differ from the
+broader population? The 768 ﬁrms that reported continuously during 1971–1989
+were large. Their book value of assets is almost twice that of the broader population
+of ﬁrms. These ﬁrms also issue signiﬁcantly higher amounts of debt and signiﬁcantly
+lower amounts of equity. The R2 on the hold out samples show that ﬁtted equations
+from the period 1971–1989 have a very limited ability to forecast leverage behavior
+during the next ﬁve years.
+Are the results speciﬁc to a particular time period? To address this question,
+Table 4 uses the data from the 1990s and initially requires the included ﬁrms to report
+continuous data on the ﬂow of funds. We then relax the continuous reporting criteria
+to examine whether the results are sensitive to the period, the requirement that ﬁrms
+report continuous funds ﬂow data or both. The coefﬁcient estimates and the R2s are
+now uniformly lower, even when we require that ﬁrms have no reporting gaps.
+During 1990–1998 the no-reporting-gap ﬁrms were large equity issuers. The
+average ratio of net equity issued to net assets was 0.033 and the average ratio of net
+debt issued over net assets was 0.008. Thus, we see that time period plays a major
+role. Comparing Table 3 to Table 4 shows that support for the pecking order theory
+was weaker in the 1990s.
+4.1. Disaggregating the ﬁnancing deﬁcit
+The aggregation step embodied in the pecking order is a nontrivial imposition of
+structure on the data. Is that structure justiﬁed empirically? Table 5 reports
+disaggregated deﬁcit component regressions for the earlier period.
+4We tried a great many additional variations to see if greater support could be found for the pecking
+order theory. To save space, we do not report the details of most of these variations. We tried different
+ways of constructing the deﬁcit variable. We experimented with including current maturities of long-term
+debt at the beginning of period to the deﬁcit variable. We also experimented with excluding changes in
+cash and changes in current debt from the change in working capital. In every case, the magnitude of the
+estimated coefﬁcient and the R2 appeared marginally worse, without affecting our overall conclusion. We
+also examined a simple deﬁcit variable that excludes extraordinary and non-operating ﬂows. As expected,
+the estimated coefﬁcients and R2s worsen signiﬁcantly.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+233
+Table 4
+Pecking order tests for the time period 1990–1998
+The sample period is 1990–1998. Financial ﬁrms and utilities are excluded. The sample in Columns (1)–(3) additionally excludes ﬁrms with gaps in reporting of
+relevant ﬂow of funds data. The following regression is estimated: DDit ¼ a þ bPODEFit þ eit; where DDt is the net or gross amount of debt issued, and the
+ﬁnancing deﬁcit, DEFt, is the sum of dividends, investment, change in working capital (change in operating working capital + changes in cash + changes in
+short term debt), minus the cash ﬂow after interest and taxes. All variables are scaled by net assets. The dependent variable in Columns (3) and (6) is the change
+in long-term debt to net assets ratio. The holdout sample period is from 1985 to 1989. Standard errors are reported in parentheses.
+1990–1998
+1990–1998
+Data with no gaps permitted in the
+reporting of ﬂow of funds data
+Data with gaps permitted in the
+reporting of ﬂow of funds data
+Net debt issued
+Gross debt issued
+Change in debt ratio
+Net debt issued
+Gross debt issued
+Change in debt ratio
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Constant
+0.004a
+0.086a
+0.004a
+0.007a
+0.112a
+0.006a
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+Financing deﬁcit
+0.325a
+0.234a
+0.125a
+0.148a
+0.152a
+0.025a
+(0.004)
+(0.008)
+(0.005)
+(0.002)
+(0.003)
+(0.002)
+N
+18,225
+18,225
+18,225
+57,687
+57,616
+52,861
+R2
+0.283
+0.048
+0.041
+0.120
+0.046
+0.002
+R2—holdout sample (full)
+0.217
+0.119
+0.032
+0.217
+0.119
+0.032
+R2—holdout sample (restricted)
+0.252
+0.145
+0.042
+aIndicates signiﬁcance at the 0.01 level.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+234
+Table 5
+Disaggregating the ﬂow of funds deﬁcit
+The following regression is estimated: DDit ¼ a þ bDIVDIVt þ bIIt þ bWDWtbCCt þ eit; where DDt ¼amount of net or gross debt issued, Divt is the amount
+of cash dividends paid, It is the investments, DWt is the change in working capital, and Ct is the internal cash ﬂow after interest and taxes. In Columns (3), (6),
+and (8), the dependent variable is the change in the long-term debt to net assets ratio. The sample period is 1971–1993 in Columns (1) to (3), and the period is
+1971–1989 for Columns (4)–(9). Results in Columns (4)–(6) are based on data with no gaps permitted in the reporting of the relevant ﬂow of funds data. The
+holdout sample period is the ﬁve-year period beginning the end of the estimation period. Financial ﬁrms and utilities have been removed. Standard errors are
+reported in parentheses.
+1971–1989
+1971–1989
+Data with no gaps permitted in the
+reporting of ﬂow of funds data
+Data with gaps permitted in the
+reporting of ﬂow of funds data
+Net debt
+issued
+Gross debt
+issued
+Change in
+debt ratio
+Net debt
+issued
+Gross debt
+issued
+Change in
+debt ratio
+Net debt
+issued
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Constant
+0.006a
+0.072a
+0.003b
+0.030a
+0.062a
+0.007a
+0.020a
+(0.001)
+(0.002)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+Cash dividends
+0.884a
+0.209a
+0.678a
+0.372a
+0.516a
+0.294a
+0.339a
+(0.020)
+(0.037)
+(0.028)
+(0.018)
+(0.024)
+(0.020)
+(0.018)
+Investments
+0.774a
+0.631a
+0.450a
+0.393a
+0.391a
+0.189a
+0.431a
+(0.005)
+(0.009)
+(0.007)
+(0.002)
+(0.003)
+(0.003)
+(0.002)
+D Working capital
+0.723a
+0.529a
+0.360a
+0.246a
+0.141a
+0.068a
+0.296a
+(0.005)
+(0.009)
+(0.007)
+(0.002)
+(0.002)
+(0.002)
+(0.002)
+Internal cash ﬂow
+0.739a
+0.564a
+0.527a
+0.190a
+0.161a
+0.176a
+0.245a
+(0.005)
+(0.010)
+(0.008)
+(0.002)
+(0.002)
+(0.002)
+(0.002)
+Current maturity of long-term debt
+0.167a
+(0.005)
+N
+14,565
+14,565
+14,565
+88,892
+88,826
+82,969
+81,588
+R2
+0.705
+0.322
+0.301
+0.289
+0.187
+0.095
+0.339
+R2—holdout sample (full)
+0.125
+0.034
+0.004
+0.155
+0.040
+0.010
+0.164
+R2—holdout sample (restricted)
+0.695
+0.097
+0.136
+aIndicates signiﬁcance at the 0.01 level.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+235
+Column (1) in Table 5 is relatively supportive of the pecking order aggrega-
+tion step. If this column is examined in isolation, one could conclude that the
+evidence, while rejecting aggregation, is actually reasonably favorable to the theory.
+However, this result is a function of the requirement that ﬁrms have no gaps in funds
+ﬂow data over the entire period from 1971 to 1989. When we include ﬁrms that do
+not have complete records (in columns (4)–(7)), the sample becomes much larger and
+the observed coefﬁcients change dramatically. During the 1990s, the evidence moves
+further away from supporting the pecking order aggregation hypothesis.
+How should we interpret the coefﬁcients on the components of the ﬁnancing
+deﬁcit? We start with cash dividends. Table 5 shows that when net debt issues are
+considered the coefﬁcient on cash dividends is positive, but when gross debt issues
+are considered it is negative. This stems from the fact that dividend-paying ﬁrms
+issue less long-term debt but they also redeem less when compared to non-dividend
+paying ﬁrms. It is worth noting that the tradeoff theory also predicts a positive
+relation between dividends and debt. High dividend paying ﬁrms are likely to be
+those that expect to continue to generate large cash ﬂows and have small investment
+needs in relation to cash ﬂows.
+The pecking order theory predicts a positive sign and a unit coefﬁcient on
+investments in both ﬁxed assets and working capital. According to the theory, after
+controlling for internal cash ﬂows, investments in ﬁxed assets and working capital
+should be matched dollar for dollar by increases in debt issues. But this is not the
+only idea. The tradeoff theory also predicts a positive relation between investments
+and debt. Higher investments add to assets in place, increasing tangible assets. This
+increases debt capacity. The positive relation between changes in working capital
+and net debt issues might also reﬂect timing issues. If a ﬁrm issues long-term debt
+then it receives cash. Until the ﬁrm spends that cash, it can be put into bank accounts
+or other short-term investments that are included in working capital.
+At the typical ﬁrm, internal cash ﬂow does lead to some reduction in debt issues,
+but the magnitude of the effect is surprisingly small once one includes the behavior of
+ﬁrms that do not have complete trading records. There is a large literature showing a
+negative relation between leverage and proﬁtability. However, as noted earlier, if
+internal cash ﬂow measures future growth opportunities, then the tradeoff theory
+also predicts the observed negative relation on cash ﬂows.
+In column (7) of Table 5, the current portion of long-term debt is added as a
+further explanatory variable. As previously discussed, Shyam-Sunder and Myers
+(1999) include the current portion of long-term debt as a component of the ﬁnancing
+deﬁcit. The ﬁnancing deﬁcit variable studied in this paper does not include it.
+Column (7) illustrates why it was dropped. The sign is negative and the magnitude is
+fairly small. This is not at all what is predicted by the pecking order theory. This
+evidence is consistent with a model in which transaction costs play a signiﬁcant role.
+When long-term debt comes due, it is not automatically replaced with new debt.
+4.2. A priori selection criteria for pecking order ﬁrms
+The evidence presented so far has shown that the pecking order theory does not
+account for the broad patterns in the ﬁnancing of American ﬁrms. This does not rule
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+236
+out the possibility that some ﬁrms have the hypothesized unit slope coefﬁcient in
+Eq. (2). The theory suggests looking for ﬁrms prone to adverse selection problems.
+Table 3 suggests looking at large ﬁrms.
+The pecking order theory is based on a difference of information between
+corporate insiders and the market. The driving force is adverse selection.
+Accordingly, it is natural to examine ﬁrms that are commonly thought to be
+particularly subject to adverse selection problems, such as small ﬁrms and high-
+growth ﬁrms. Table 6 shows that the evidence strongly rejects this hypothesis. The
+pecking order performs much worse for these ﬁrms. This evidence is consistent with
+Helwege and Liang (1996), who study a sample of ﬁrms that had an IPO in 1983, and
+thus were fairly small on average. Helwege and Liang (1996) ﬁnd that the use of
+external ﬁnancing by these ﬁrms did not match the pecking order prediction.
+Since small ﬁrms do not generally follow the pecking order, consideration next
+turns to large ﬁrms. Consideration is also given to ﬁrms that are likely to have less
+severe adverse selection problems, such as ﬁrms paying dividends and ﬁrms with
+moderate leverage. The results show that the pecking order theory does in fact
+perform much better for large ﬁrms. Neither moderate leverage nor the payment of
+dividends substitutes for the effect of ﬁrm size.
+This evidence shows that ﬁrm size is critical.5 There is a monotonic improvement
+of the performance of the pecking order predictions as the ﬁrm size increases. For the
+largest quartile, there is reasonable support for the pecking order prediction. For the
+smallest set of ﬁrms, the pecking order is rejected. In the middle, the support for the
+theory grows with ﬁrm size.
+Overall, the results based on data from the period 1971–1989 show that the
+smallest ﬁrms do not follow the pecking order, but the largest ﬁrms do, and the
+medium size categories are somewhat pecking order-like over this time period. There
+is strong evidence that at least some aspects of the ﬁnancing patterns have changed
+over time. Does this have an effect on the interpretation of the role of ﬁrm size?
+The last four columns of Table 6 provide evidence from the period 1990–1998.
+Support for the pecking order declines signiﬁcantly. During the 1990s, it is only the
+top quartile of ﬁrms that are at all supportive. Even for the top quartile of ﬁrms, the
+numerical coefﬁcients move further from the pecking order predictions. In columns
+(5) and (6) the holdout sample predictions are considerably poorer than the in
+sample R2 would suggest. This is consistent with the evidence in columns (9) and (10)
+showing that corporate-debt-issuing behavior changes during the 1990s. This shows
+that, in addition to ﬁrm size, the time period also matters for the tests of the pecking
+order. Large ﬁrms in earlier decades are most supportive of the pecking order theory,
+while smaller, high-growth ﬁrms provide the strongest rejections of the theory.
+Support for pecking order declines even for larger ﬁrms in the 1990s.
+The results on large ﬁrms match well with the results from the survey of ﬁnancial
+managers carried out by Graham and Harvey (2001). They report that some
+5We treat ﬁrm size as exogenous. This is quite common in corporate ﬁnance studies. Of course, there is a
+deeper level of consideration at which ﬁrm size itself might be explained. Kumar et al. (2001) study some
+aspects of this question.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+237
+Table 6
+Pecking order tests for sub-samples of small and large ﬁrms
+Firms are sorted into quartiles based on total assets. The table presents pecking order tests on ﬁrms that pay strictly positive dividends, ﬁrms with moderate
+leverage, and high-growth ﬁrms. Moderate leverage is deﬁned by the omission of the top two and bottom two deciles. High growth ﬁrms are those with a
+market-to-book ratio in excess of the 75th percentile of the distribution. The following regression is estimated: DDit ¼ a þ bPODEFit þ eit; where DDt ¼ the
+amount of net debt issued, and DEFt is the sum of dividends, investment, change in working capital (change in working capital+change in cash+change in
+short term debt), minus the cash ﬂow after interest and taxes. All variables are scaled by net assets. Standard errors are reported in parentheses.
+1971–1989
+1971–1989
+1990–1998
+High
+growth
+Strictly
+positive
+dividends
+Moderate
+leverage
+Smallest
+ﬁrms
+Medium
+small
+ﬁrms
+Medium
+large
+ﬁrms
+Largest
+ﬁrms
+Smallest
+ﬁrms
+Medium
+small
+ﬁrms
+Medium
+large
+ﬁrms
+Largest
+ﬁrms
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+Constant
+0.003b
+0.002a
+0.001
+0.017a
+0.014a
+0.006a
+o0.000
+0.021a
+0.021a
+0.015a
+o0.000
+(0.001)
+(o0.001)
+(o0.001)
+(0.001)
+(0.001)
+(0.001)
+(o0.001)
+(0.002)
+(0.001)
+(0.001)
+(0.001)
+Financing deﬁcit
+0.127a
+0.558a
+0.244a
+0.164a
+0.428a
+0.623a
+0.753a
+0.087a
+0.162a
+0.355a
+0.675a
+(0.003)
+(0.002)
+(0.002)
+(0.003)
+(0.003)
+(0.003)
+(0.003)
+(0.003)
+(0.003)
+(0.005)
+(0.004)
+N
+17,440
+44,606
+55,438
+21,218
+22,754
+22,808
+22,623
+13,131
+14,886
+14,768
+14,472
+R2
+0.096
+0.535
+0.220
+0.151
+0.414
+0.598
+0.740
+0.075
+0.133
+0.280
+0.626
+R2—holdout sample
+0.041
+0.187
+0.111
+0.093
+0.152
+0.274
+0.615
+0.112
+0.365
+0.569
+0.718
+aIndicates signiﬁcance at the 0.01 level.
+bIndicates signiﬁcance at the 0.05 level.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+238
+ﬁnancial managers expressed views similar to the pecking order, but apparently not
+due to adverse selection.
+4.3. Conventional leverage regressions
+Even if a theory is wrong, it could still be helpful if it does a better job of
+accounting for the evidence than competing theories. The pecking order is a
+competitor to more conventional empirical leverage speciﬁcations. Accordingly, the
+next test of the theory is to see how the ﬁnancing deﬁcit works when added to a
+conventional leverage regression. To provide a suitable structure to nest both the
+pecking order theory and the conventional variables, the regressions are run in ﬁrst
+differences. As explained in Section 2.2, ﬁrst differences can bias the conventional
+variables towards zero. The dependent variable in these regressions is the change in
+market leverage. Using book leverage yields similar results.
+Table 7 presents the results. The estimated coefﬁcients on the market-to-book
+assets ratio, tangibility, ﬁrm size, and proﬁtability have the usual signs. The
+coefﬁcient signs are negative on the market-to-book ratio, positive on tangibility,
+positive on log of sales, and negative on proﬁtability.
+In column (2), the leverage regression is estimated with ﬁnancing deﬁcit as an
+additional explanatory variable. If the pecking order were the key driver, it should
+have wiped out the effects of the conventional variables. It did not do so. Adding the
+deﬁcit variable to the regression did not have much effect on the magnitudes and
+signiﬁcance of the coefﬁcients on the conventional variables. However, the ﬁnancing
+deﬁcit is empirically relevant.
+In column (3), the leverage regressions are re-estimated with lagged leverage as an
+additional explanatory variable. The coefﬁcient on lagged leverage is fairly large in
+magnitude and statistically signiﬁcant. The negative sign on lagged leverage suggests
+that mean reversion is at work as predicted by the tradeoff theory. Inclusion of
+lagged leverage does not affect the sign and signiﬁcance of most of the other
+variables in the regression.
+While the pecking order theory is rejected, this does not mean that the ﬁnancing
+deﬁcit is ignored. As shown in columns (4)–(9), the information contained in the
+ﬁnancing deﬁcit appears to be factored in, along with many other considerations,
+particularly when large ﬁrms adjust leverage. But as shown in column (8) of Table 7,
+even for the largest set of ﬁrms, it is easy to reject the hypothesized unit coefﬁcient on
+the ﬁnancing deﬁcit.
+It is interesting to consider the R2 on the hold out samples. Adding the ﬁnancing
+deﬁcit and adding lagged leverage adds remarkably little to the performance of the
+ﬁtted equations once account is taken of the conventional factors. This is consistent
+with Fama and French (2002) who argue that mean reversion in corporate leverage is
+surprisingly weak.
+Most studies report on levels of leverage rather than on changes in leverage.
+Accordingly, for completeness, we also estimate analogous regressions run in levels.
+The results (omitted in order to save space) show that the cumulative ﬁnancing
+deﬁcit added about 1% to the explanatory power of the regressions. The estimated
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+239
+Table 7
+Leverage regressions with conventional variables and deﬁcit for small and large ﬁrms, 1971–1993
+The basic regression is DDi ¼ a þ bTDTi þ bMTBDMTBi þ bLSDLSi þ bPDPi þ ei: Here D is deﬁned as the ratio of total debt to market capitalization,
+T ¼Tangibility is deﬁned as the ratio of ﬁxed assets to total assets. MTB is the market-to-book ratio deﬁned as the ratio of the market value of assets (book
+value of assets plus the difference between market value of equity and book value of equity) to the book value of assets. LS is log sales deﬁned as the natural
+logarithm of constant sales. P is proﬁt deﬁned as the ratio of operating income to book value of assets. In several speciﬁcations, the basic regression is
+augmented with the ﬁnancing deﬁcit. Regressions are estimated with ﬁxed ﬁrm effects, both with and without a lagged dependent variable. The sample period
+is 1971–1993. Financial ﬁrms and utilities are excluded. Small ﬁrms are those with book value of assets less than the 25th percentile of the distribution. Large
+ﬁrms are those with book value of assets greater than the 75th percentile of the distribution. Standard errors are reported in parentheses.
+All ﬁrms
+Small ﬁrms
+Large ﬁrms
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+Constant
+0.019a
+0.021a
+0.025a
+0.001
+0.011
+0.024a
+0.022a
+0.018a
+0.028a
+(0.002)
+(0.002)
+(0.002)
+(0.007)
+(0.007)
+(0.007)
+(0.003)
+(0.003)
+(0.003)
+D Tangibility
+0.155a
+0.176a
+0.156a
+0.112a
+0.123a
+0.098a
+0.118a
+0.181a
+0.176a
+(0.007)
+(0.007)
+(0.007)
+(0.017)
+(0.018)
+(0.018)
+(0.012)
+(0.012)
+(0.012)
+D Market-to-book
+0.031a
+0.029a
+0.028a
+0.021a
+0.021a
+0.020a
+0.054a
+0.050a
+0.050a
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+D Log sales
+0.025a
+0.017a
+0.008a
+0.002
+0.001
+0.006b
+0.077a
+0.035a
+0.030a
+(0.001)
+(0.002)
+(0.002)
+(0.003)
+(0.003)
+(0.003)
+(0.003)
+(0.003)
+(0.003)
+D Proﬁtability
+0.217a
+0.221a
+0.183a
+0.079a
+0.082a
+0.058a
+0.718a
+0.580a
+0.535a
+(0.004)
+(0.004)
+(0.004)
+(0.006)
+(0.007)
+(0.007)
+(0.013)
+(0.013)
+(0.013)
+Financing deﬁcit
+0.125a
+0.125a
+0.028a
+0.039a
+0.230a
+0.218a
+(0.002)
+(0.002)
+(0.005)
+(0.005)
+(0.005)
+(0.005)
+Lagged leverage
+0.124a
+0.115a
+0.104a
+(0.002)
+(0.007)
+(0.004)
+N
+82,613
+79,317
+79,207
+11,197
+10,328
+10,301
+24,590
+23,797
+23,772
+R2
+0.190
+0.219
+0.208
+0.126
+0.133
+0.128
+0.300
+0.360
+0.349
+R2—Holdout sample
+0.094
+0.115
+0.103
+0.080
+0.080
+0.072
+0.217
+0.290
+0.281
+aIndicates signiﬁcance at the 0.01 level.
+bIndicates signiﬁcance at the 0.10 level.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+240
+coefﬁcients on the conventional variables had the usual signs including positive on
+tangibility, negative on the market-to-book assets, positive on log of sales, and
+negative on proﬁtability. In this case, lagged leverage is signiﬁcant and has a positive
+sign. It also has a signiﬁcant impact both within sample and in the hold out sample.
+5. Conclusions
+The pecking order theory is tested on a broad cross-section of publicly traded
+American ﬁrms over the period 1971–1998. In contrast to what is often suggested,
+internal ﬁnancing is not sufﬁcient to cover investment spending on average. External
+ﬁnancing is heavily used. Debt ﬁnancing does not dominate equity ﬁnancing in
+magnitude. Net equity issues track the ﬁnancing deﬁcit quite closely, while net debt does
+not do so. The current portion of long-term debt is not treated as part of the ﬁnancing
+deﬁcit. These facts are surprising from the perspective of the pecking order theory.
+The pecking order theory is a competitor to the conventional leverage regressions.
+It is thus important to examine the relative importance of the two approaches. In
+speciﬁcations that nest the two approaches, the ﬁnancing deﬁcit adds a small amount
+of extra explanatory power. But the ﬁnancing deﬁcit does not challenge the role of
+the conventional leverage factors.
+When narrower samples of ﬁrms are considered the greatest support for the
+pecking order is found among large ﬁrms in earlier years. Over time, support for the
+pecking order declines for two reasons. More small ﬁrms are publicly traded during
+the 1980s and 1990s than during the 1970s. Since small ﬁrms do not follow the
+pecking order, the overall average moves further from the pecking order. However,
+the time period effect is not entirely due to more small ﬁrms in the 1990s. Even when
+attention is restricted to the largest quartile of ﬁrms, support for the pecking order
+theory declines over time. Equity becomes more important.
+Many aspects of the evidence pose serious problems for the pecking order. But this
+does not mean that the information contained in the ﬁnancing deﬁcit is completely
+irrelevant. The components of the ﬁnancing deﬁcit appear factored in to some
+degree, particularly by large ﬁrms, when they adjust their leverage.
+Appendix A
+Statement of disaggregated cash ﬂows is given in Table 8.
+Appendix B
+Data on economic variables are provided in Table 9.
+Appendix C
+Pair-wise correlations among key variables is given in Table 10.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+241
+Table 8
+Average corporate statement of disaggregated cash ﬂows
+This table presents average cash ﬂow statement for US industrial ﬁrms for selected years. The data is from Compustat. For years up to and including 1985
+Compustat format codes 1, 2, and 3 are used. Starting in year 1990 format code 7 is used. These formats have different standard presentations. We have
+followed format 7 to the extent possible. Financial ﬁrms and utilities are excluded. Also excluded are ﬁrms involved in major mergers. The value of each
+income statement and cash ﬂow item is expressed as a fraction of total assets for each ﬁrm and then averaged across ﬁrms. Other fund from operation
+aggregates extraordinary items, deferred tax, equity in net loss, loss (gain) on sale of PPE and sale of investments, and funds from operations—other.
+Average statement of cash ﬂow items as a fraction of total assets
+1971
+1975
+1980
+1985
+1990
+1995
+1998
+Number of observations
+2,833
+4,889
+4,639
+5,297
+5,231
+7,352
+7,277
+Income
++ Sales (#12)
+1.426
+1.563
+1.525
+1.298
+1.293
+1.250
+1.119
+ Cost of goods sold (#41)
+1.046
+1.140
+1.105
+0.932
+0.910
+0.869
+0.784
+ Selling, general and admin. expenses (#189)n
+0.259
+0.297
+0.302
+0.328
+0.348
+0.355
+0.372
+= Operating income before depreciation (#13)
+0.135
+0.128
+0.119
+0.035
+0.034
+0.022
+0.043
+ Depreciation and amortization (#14)
+0.038
+0.041
+0.041
+0.051
+0.053
+0.050
+0.053
+= Operating income after depreciation (#178)
+0.096
+0.086
+0.077
+0.022
+0.020
+0.030
+0.099
+ Interest expense (#15)n
+0.018
+0.027
+0.034
+0.031
+0.035
+0.025
+0.024
++ Non operating income and special items (#61+ #17)n
+0.009
+0.009
+0.019
+0.008
+0.001
+0.005
+0.011
+= Pre tax income (#170)
+0.087
+0.068
+0.062
+0.048
+0.060
+0.067
+0.141
+ Income taxes—total (#16)
+0.044
+0.041
+0.039
+0.026
+0.019
+0.019
+0.016
+ Minority interest (#49)
+o0.001
+o0.001
+o0.001
+o0.001
+o0.001
+o0.001
+o0.001
+= Income before extra ordinary items (#18)
+0.042
+0.026
+0.023
+0.072
+0.079
+0.086
+0.157
+ Dividend: preferred (#19)
+0.001
+0.001
+0.001
+0.001
+0.001
+0.001
+0.002
++ Common Stock equivalents—dollar savings (#191)n
+o0.001
+o0.001
+o0.001
+o0.001
+o0.001
+o0.001
+o0.001
++ Extraordinary items and discontinued operations (#48)n
+0.003
+0.003
+0.002
+0.002
+0.001
+0.001
+0.001
+Net Income (#172)
+0.037
+0.028
+0.024
+0.071
+0.080
+0.087
+0.157
+Indirect operating activities
+= Income before extra ordinary items (#123)
+0.042
+0.026
+0.023
+0.071
+0.079
+0.086
+0.157
++ Depreciation and amortization (#125)n
+0.040
+0.042
+0.042
+0.053
+0.058
+0.055
+0.058
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+242
++ Other funds from operation (#124+#126+#106+#213+#217)n
+0.006
+0.013
+0.011
+0.020
+0.024
+0.025
+0.039
+= Funds from operations—total (#110)
+0.088
+0.081
+0.076
+0.008
+0.007
+0.001
+0.052
++ Accounts receivables—dec. (Inc.) (#302)n
+—
+—
+—
+—
+0.010
+0.026
+0.017
++ Inventory—decrease (increase) (#303)n
+—
+—
+—
+—
+0.004
+0.014
+0.007
++ Accounts payable and accrued liabilities—increase (decrease) (#304)n
+—
+—
+—
+—
+0.013
+0.021
+0.015
++ Income taxes-accrued—increase (decrease) (#305)n
+—
+—
+—
+—
+o0.001
+0.001
+o0.001
++ Asset & liabilities—other (net change) (#307)n
+—
+—
+—
+—
+0.001
+0.002
+0.003
+= Operating activities—net cash ﬂow (#308)
+—
+—
+—
+—
+0.003
+0.022
+0.062
+Investing activities
+—
+—
+—
+—
+ Increase in investment (#113)n
+0.006
+0.006
+0.010
+0.011
+0.008
+0.011
+0.013
++ Sale of investment (#109)n
+0.001
+0.004
+0.005
+0.006
+0.007
+0.010
+0.010
+ Capital expenditure (#128)n
+0.071
+0.070
+0.094
+0.086
+0.069
+0.075
+0.075
++ Sale of property, plant, and equipment (#107)n
+0.007
+0.008
+0.011
+0.011
+0.006
+0.005
+0.005
+ Acquisitions (#129)n
+0.008
+0.004
+0.006
+0.014
+0.010
+0.017
+0.028
++ Short term investment—change, and investing activities — other (#309 + #310)n
+—
+—
+—
+—
+0.002
+0.005
+0.002
+= Investing activities—net cash ﬂow (#311)
+—
+—
+—
+—
+0.075
+0.101
+0.104
+Financing activities
++ Sale of common and preferred stock (#108)
+0.030
+0.009
+0.053
+0.079
+0.061
+0.121
+0.117
+ Purchase of common and preferred stock (#115)n
+0.003
+0.003
+0.004
+0.006
+0.006
+0.005
+0.011
+ Cash dividends (#127)n
+0.015
+0.011
+0.012
+0.009
+0.009
+0.007
+0.005
++ Long term debt—issuance (#111)
+0.055
+0.054
+0.066
+0.078
+0.077
+0.096
+0.112
+ Long term debt—reduction (#114)n
+0.038
+0.047
+0.047
+0.056
+0.066
+0.069
+0.070
++ Changes in current debt (#301)n
+o0.001
+o0.001
+o0.001
+0.011
+0.003
+0.006
+0.006
++ Financing activities—other (#312)n
+—
+—
+—
+—
+0.001
+o0.001
+o0.001
+= Financing activities—net cash ﬂow (#313)
+—
+—
+—
+—
+0.061
+0.145
+0.156
++ Exchange rate effect (#314)n
+—
+—
+—
+—
+o0.001
+o0.001
+o0.001
+= Cash and cash equivalent—Inc. (Dec.) (#274)
+—
+—
+—
+—
+0.001
+0.024
+0.003
+Sources of funds—other (#218)n
+0.015
+0.014
+0.015
+0.025
+—
+—
+—
+Uses of funds—other (#219)n
+0.017
+0.013
+0.016
+0.026
+—
+—
+—
+Working capital change—other (#236)n
+0.036
+0.017
+0.032
+0.008
+—
+—
+—
+nIndicates that the item has been recoded as zero if it were either missing or combined with other data items.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+243
+Table 9
+The sample period is 1971–1998 Financial ﬁrms and utilities are excluded.
+The variables are as follows (Compustat data item numbers in parentheses). Book value of assets is total assets (#6). Sales is net sales (12). Book value of debt is
+the sum of debt in current liabilities (#34) plus long-term debt (#9). Dividend is cash dividend (#127). Capital investments is capital expenditures (#128) +
+increase in investments (#113) + acquisitions (#129) + other use of funds (#219)  sale of PPE (#107)  sale of investment (#109). Change in working capital
+is the working capital change-other (#236) plus change in cash (#274) plus change in short term debt (#301). Internal cash ﬂow is income before extraordinary
+items (#123) plus depreciation and amortization (#124) and some other extraordinary ﬂows. Financing deﬁcit is dividend, plus investments, plus change in
+working capital minus operating cash ﬂow after interest and taxes. Net debt issued is issuance of long-term debt (#111) minus reduction of long-term debt
+(#114). Net equity issued is sale of common stock (#108) minus purchase of common stock (#115). Book leverage is deﬁned as the ratio of book value of debt
+divided by book debt plus book equity.
+Variable
+Observation
+Mean
+Standard deviation
+Minimum
+Maximum
+Book value of assets (in millions of 1992 $)
+114,994
+657.18
+2,306.69
+0.18
+31,535.86
+Sales (in millions of 1992 $)
+115,049
+714.20
+2,232.51
+0.00
+29,950.10
+Book value of debt (in millions of 1992 $)
+115,089
+180.93
+638.63
+0.00
+8,126.32
+Dividends (in millions of 1992 $)
+115,041
+12.96
+55.07
+0.00
+790.14
+Capital investments (in millions of 1992 $)
+114,672
+66.17
+246.13
+88.17
+3,326.06
+D Working capital (in millions of 1992 $)
+114,662
+7.57
+57.16
+469.44
+650.93
+Internal cash ﬂow (in millions of 1992 $)
+114,689
+75.99
+276.75
+38.69
+3,725.55
+Financing deﬁcit (in millions of 1992 $)
+114,647
+10.57
+72.44
+467.35
+889.64
+Issuance of long-term debt (in millions of 1992 $)
+111,970
+33.97
+131.79
+0.00
+1,829.01
+Reduction of long-term debt (in millions of 1992 $)
+115,064
+23.92
+93.52
+0.00
+1,384.43
+Net debt issued (in millions of 1992 $)
+111,754
+8.10
+63.84
+373.25
+808.03
+Sale of common stock (in millions of 1992 $)
+112,663
+5.95
+24.82
+0.00
+351.78
+Purchase of common stock (in millions of 1992 $)
+115,084
+2.46
+16.37
+0.00
+315.86
+Net equity issued (in millions of 1992 $)
+112,363
+3.33
+23.72
+235.44
+300.56
+Total net external ﬁnancing (in millions of 1992 $)
+109,702
+11.40
+72.51
+430.07
+903.19
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+244
+Cash dividend/net assets
+115,173
+0.01
+0.03
+0.00
+0.29
+Capital investment/net assets
+114,961
+0.15
+0.20
+0.98
+1.84
+Net increase in working capital/net assets
+114,921
+0.02
+0.31
+3.85
+1.39
+Internal cash ﬂow/net assets
+114,949
+0.09
+0.33
+4.65
+1.34
+Financing deﬁcit/net assets
+115,611
+0.09
+0.32
+1.04
+3.37
+Gross debt issued/net assets
+112,147
+0.11
+0.21
+0.00
+2.71
+Net debt issued/net assets
+112,325
+0.02
+0.16
+1.14
+1.14
+Net equity issued/net assets
+112,799
+0.08
+0.26
+0.27
+2.95
+Net external ﬁnancing/net assets
+110,609
+0.09
+0.32
+1.02
+3.37
+Current maturity of long-term debt/net assets
+105,574
+0.04
+0.10
+0.00
+1.52
+Change in long-term debt/net assets ratio
+104,042
+0.00
+0.15
+1.07
+1.13
+Long-term debt/total assets
+115,310
+0.19
+0.19
+0.00
+1.32
+Book leverage
+115,338
+0.37
+0.33
+2.58
+4.64
+Tangibility (net ﬁxed assets/total assets)
+115,029
+0.34
+0.23
+0.00
+0.95
+Market value of assets/book value of assets
+90,721
+1.66
+1.54
+0.46
+18.44
+Proﬁtability (operating income/assets)
+114,872
+0.09
+0.20
+2.58
+0.52
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+245
+Table 10
+This table presents pair-wise correlations among key variables
+p-values are provided in parentheses. Table 4 provides variable deﬁnitions.
+Variable
+DIV
+X
+DWC
+CF
+DEF
+GD
+ND
+NE
+NT
+LEV
+TNG
+MBK
+SLS
+PROF
+Cash dividend/net assets
+DIV
+1.00
+Investment/net assets
+X
+0.04
+(0.00)
+1.00
+DWorking capital/net assets
+DWC
+0.01
+0.18
+(0.00)
+(0.00)
+1.00
+Internal cash ﬂow/net assets
+CF
+0.16
+0.06
+0.53
+(0.00)
+(0.00)
+(0.00)
+1.00
+Financing deﬁcit/net assets
+DEF
+0.11
+0.37
+0.27
+0.37
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Gross LT debt issued/net assets
+GD
+0.10
+0.28
+0.01
+0.10
+0.34
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Net LT debt issued/net assets
+ND
+0.02
+0.35
+0.13
+0.05
+0.48
+0.52
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Net Equity issued/net assets
+NE
+0.11
+0.22
+0.25
+0.35
+0.80
+0.03
+0.05
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Net external ﬁnancing/net assets NT
+0.11
+0.38
+0.27
+0.38
+1.00
+0.34
+0.47
+0.81
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Total debt/book capitalization
+LEV
+0.17
+0.09
+0.16
+0.12
+0.04
+0.41
+0.15
+0.08
+0.04
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Tangibility
+TNG
+0.09
+0.17
+0.11
+0.08
+0.07
+0.07
+0.05
+0.12
+0.07
+0.16
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Market/book assets
+MBK
+0.01
+0.14
+0.02
+0.22
+0.36
+0.00
+0.01
+0.41
+0.36
+0.14
+0.11
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.25)
+(0.06)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Log Sales
+SLS
+0.32
+0.08
+0.06
+0.28
+0.26
+0.04
+0.00
+0.31
+0.27
+0.06
+0.13
+0.31
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.62)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+1.00
+Proﬁtability
+PROF
+0.25
+0.02
+0.34
+0.74
+0.40
+0.08
+0.04
+0.41
+0.40
+0.06
+0.12
+0.29
+0.43
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00)
+(0.00) (0.00)
+1.00
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+246
+References
+Asquith, P., Mullins Jr., D.W., 1986. Equity issues and offering dilution. Journal of Financial Economics
+15, 61–89.
+Barclay, M.J., Morellec, E., Smith, C.W., 2001. On the debt capacity of growth options. Unpublished
+working paper. University of Rochester, NY.
+Barclay, M.J., Smith, C.W., 1995a. The maturity structure of corporate debt. Journal of Finance 50,
+609–631.
+Barclay, M.J., Smith, C.W., 1995b. The priority structure of corporate liabilities. Journal of Finance 50,
+899–917.
+Cadsby, C.B., Frank, M., Maksimovic, V., 1990. Pooling, separating, and semiseparating equilibria in
+ﬁnancial markets. Review of Financial Studies 3, 341–367.
+Chirinko, R.S., Singha, A.R., 2000. Testing static tradeoff against pecking order models of capital
+structure: a critical comment. Journal of Financial Economics 58, 417–425.
+Eckbo, E., 1986. The valuation effects of corporate debt offerings. Journal of Financial Economics 15,
+119–152.
+Erickson, T., Whited, T., 2000. Measurement error and the relationship between investment and q.
+Journal of Political Economy 108, 1027–1057.
+Fama, E., French, K., 2002. Testing tradeoff and pecking order predictions about dividends and debt.
+Review of Financial Studies 15, 1–33.
+Fama, E., MacBeth, J.D., 1973. Risk, return, and equilibrium: empirical tests. Journal of Political
+Economy 81, 607–636.
+Fischer, E.O., Heinkel, R., Zechner, J., 1989. Dynamic capital structure choice: theory and tests. Journal
+of Finance 44, 19–40.
+Gilchrist, S., Himmelberg, C.P., 1995. Evidence on the role of cash ﬂow for investment. Journal of
+Monetary Economics 36, 541–572.
+Goyal, V.K., Lehn, K., Racic, S., 2002. Growth opportunities and corporate debt policy: the case of the
+U.S. defense industry. Journal of Financial Economics 64, 35–59.
+Graham, J., 2000. How big are the tax beneﬁts of debt? Journal of Finance 55, 1901–1941.
+Graham, J., Harvey, C.R., 2001. The theory and practice of corporate ﬁnance: evidence from the ﬁeld.
+Journal of Financial Economics 60, 187–243.
+Harris, M., Raviv, A., 1991. The theory of capital structure. Journal of Finance 46, 297–356.
+Helwege, J., Liang, N., 1996. Is there a pecking order? Evidence from a panel of IPO ﬁrms. Journal of
+Financial Economics 40, 429–458.
+Kaplan, S.N., Zingales, L., 1997. Do investment-cash ﬂow sensitivities provide useful measures of
+ﬁnancing constraints? Quarterly Journal of Economics 112, 167–215.
+Kumar, K., Rajan, R., Zingales, L., 2001. What determines ﬁrm size? Unpublished working paper.
+University of Chicago.
+Lemmon, M.L., Zender, J.F., 2001. Looking under the lamppost: An empirical examination of the
+determinants of capital structure. Unpublished working paper. University of Utah and University of
+Arizona.
+MacKay, P., Phillips, G., 2001. Is there an optimal industry ﬁnancial structure? Unpublished working
+paper. University of Maryland.
+Minton, B.A., Wruck, K.H., 2001. Financial conservatism: Evidence on capital structure from low
+leverage ﬁrms. Unpublished working paper. Ohio State University.
+Myers, S.C., 1977. Determinants of corporate borrowing. Journal of Financial Economics 5,
+147–175.
+Myers, S.C., 1984. The capital structure puzzle. Journal of Finance 39, 575–592.
+Myers, S.C., 2001. Capital structure. Journal of Economic Perspectives 15, 81–102.
+Myers, S.C., Majluf, N., 1984. Corporate ﬁnancing and investment decisions when ﬁrms have information
+that investors do not have. Journal of Financial Economics 13, 187–221.
+Rajan, R.G., Zingales, L., 1995. What do we know about capital structure? Some evidence from
+international data. Journal of Finance 50, 1421–1460.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+247
+Ross, S., 1977. The determination of ﬁnancial structure: the incentive signaling approach. The Bell Journal
+of Economics 8, 23–40.
+Shyam-Sunder, L., Myers, S.C., 1999. Testing static tradeoff against pecking order models of capital
+structure. Journal of Financial Economics 51, 219–244.
+Smith, C.W., Watts, R.L., 1992. The investment opportunity set and corporate ﬁnancing, dividend and
+compensation policies. Journal of Financial Economics 32, 263–292.
+Titman, S., Wessels, R., 1988. The determinants of capital structure choice. Journal of Finance 43, 1–21.
+M.Z. Frank, V.K. Goyal / Journal of Financial Economics 67 (2003) 217–248
+248

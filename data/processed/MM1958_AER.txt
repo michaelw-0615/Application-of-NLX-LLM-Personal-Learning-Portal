@@ -1,0 +1,1922 @@
+The
+American
+economic
+Revlew
+VOLUME XLVIII
+JUNE 1958
+NUMBER THREE
+THE COST OF CAPITAL, CORPORATION FINANCE
+AND THE THEORY OF INVESTMIENT
+By FRANCO
+MODIGLIAN1
+AND MERTON
+H.
+MILLER*
+What is the "cost of capital" to a firm in a world in which funds are
+used to acquire assets whose yields are uncertain; and in which capital
+can be obtained by many different media, ranging from pure debt instru-
+ments, representing money-fixed claims, to pure equity issues, giving
+holders only the right to a pro-rata share in the uncertain venture.?
+This question has vexed at least three classes of economists: (1) the cor-
+poration finance specialist concerned with the techniques of financing
+firms so as to ensure their survival and growth; (2) the managerial
+economist concerned with capital budgeting; and (3) the economic
+theorist concerned with explaining investment behavior at both the
+micro and macro levels.'
+In much of his formal analysis, the economic theorist at least has
+tended to side-step the essence of this cost-of-capital problem by pro-
+ceeding as though physical assets-like
+bonds-could
+be regarded as
+yielding known, sure streams. Given this assumption, the theorist has
+concluded that the cost of capital to the owners of a firm is simply the
+rate of interest on bonds; and has derived the familiar proposition that
+the firm, acting rationally, will tend to push investmnent to the point
+* The authors are, respectively, professor and associate professor of economics in the Grad-
+uate School of Industrial Administration, Carnegie Institute of Technology. This article is a
+revised version of a paper delivered at the annual meeting of the Econometric Society, Decem-
+ber 1956. The authors express thanks for the comments and suggestions made at that time
+by the discussants of the paper, Evsey Domar, Robert Eisner and John Lintner, and subse-
+quently by J'ames Duesenberry. They are also greatly indebted to many of their present and
+former colleagues and students at Carnegie Tech who served so often and with such remark-
+able patience as a critical forum for the ideas here presented.
+1 The literature bearing on the cost-of-capital problem is far too extensive for listing here.
+Numerous references to it will be found throughout the paper though we make no claim to
+completeness. One phase of the problem which we do not consider explicitly, but which has a
+considerable literature of its own is the relation between the cost of capital and public utility
+rates. For a recent summary of the "cost-of-capital theory" of rate regulation and a brief dis-
+cussion of some of its implications, the reader may refer to H. M. Somers [201.
+262
+THE AMERICAN ECONOMIC REVIEW
+where the marginal yield on physical assets is equal to the market rate
+of interest.2 This proposition can be shown to follow from either of two
+criteria of rational decision-making which are equivalent under certain-
+ty, namely (1) the maximization of profits and (2) the maximization of
+market value.
+According to the first criterion, a physical asset is worth acquiring if
+it will increase the net profit of the owners of the firm. But net profit
+will increase only if the expected rate of return, or yield, of the asset
+exceeds the rate of interest. According to the second criterion, an asset
+is worth acquiring if it increases the value of the owners' equity, i.e., if
+it adds more to the market value of the firm than the costs of acquisi-
+tion. But what the asset adds is given by capitalizing the stream it gen-
+erates at the market rate of interest, and this capitalized value will
+exceed its cost if and only if the yield of the asset exceeds the rate of
+interest. Note that, under either formulation, the cost of capital is equal
+to the rate of interest on bonds, regardless of whether the funds are
+acquired through debt instruments or through new issues of common
+stock. Indeed, in a world of sure returns, the distinction between debt
+and equity funds reduces largely to one of terminology.
+It must be acknowledged that some attempt is usually made in this
+type of analysis to allow for the existence of uncertainty. This attempt
+typically takes the form of superimposing on the results of the certainty
+analysis the notion of a "risk discount" to be subtracted from the ex-
+pected yield (or a "risk premium" to be added to the market rate of
+interest). Investment decisions are then supposed to be based on a com-
+parison of this "risk adjusted" or "certainty equivalent" yield with the
+market rate of interest.3 No satisfactory explanation has yet been pro-
+vided, however, as to what determines the size of the risk discount and
+how it varies in response to changes in other variables.
+Considered as a convenient approximation, the model of the firm
+constructed via this certainty-or certainty-equivalent-approach has
+admittedly been useful in dealing with some of the grosser aspects of
+the processes of capital accumulation and economic fluctuations. Such
+a model underlies, for example, the familiar Keynesian aggregate invest-
+ment function in which aggregate investment is written as a function of
+the rate of interest-the same riskless rate of interest which appears
+later in the system in the liquidity-preference equation. Yet few would
+maintain that this approximation is adequate. At the macroeconomic
+level there are ample grounds for doubting that the rate of interest has
+2 Or, more accurately, to the marginal cost of borrowed funds since it is customary, at least
+in advanced analysis, to draw the supply curve of borrowed funds to the firm as a rising one.
+For an advanced treatment of the certainty case, see F. and V. Lutz [131.
+a The classic examples of the certainty-equivalent approach are found in J. R. Hicks [8] and
+0. Lange [11].
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+263
+as large and as direct an influence on the rate of investment as this
+analysis would lead us to believe. At the microeconomic level the cer-
+tainty model has little descriptive value and provides no real guidance
+to the finance specialist or managerial economist whose main problems
+cannot be treated in a framework which deals so cavalierly with uncer-
+tainty and ignores all forms of financing other than debt issues.4
+Only recently have economists begun to face up seriously to the prob-
+lem of the cost of capital cum risk. In the process they have found their
+interests and endeavors merging with those of the finance specialist and
+the managerial economist who have lived with the problem longer and
+more intimately. In this joint search to establish the principles which
+govern rational investment and financial policy in a world of uncer-
+tainty two main lines of attack can be discerned. These lines represent,
+in effect, attempts to extrapolate to the world of uncertainty each of the
+two criteria-profit maximization and market value maximization-
+which were seen to have equivalent implications in the special case of
+certainty. With the recognition of uncertainty this equivalence vanishes.
+In fact, the profit maximization criterion is no longer even well defined.
+Under uncertainty there corresponds to each decision of the firm not a
+unique profit outcome, but a plurality of mutually exclusive outcomes
+which can at best be described by a subjective probability distribution.
+The profit outcome, in short, has become a random variable and as such
+its maximization no longer has an operational meaning. Nor can this
+difficulty generally be disposed of by using the mathematical expecta-
+tion of profits as the variable to be maximized. For decisions which
+affect the expected value will also tend to affect the dispersion and other
+characteristics of the distribution of outcomes. In particular, the use of
+debt rather than equity funds to finance a given venture may well in-
+crease the expected return to the owners, but only at the cost of in-
+creased dispersion of the outcomes.
+Under these conditions the profit outcomes of alternative investment
+and financing decisions can be compared and ranked only in terms of a
+subjective "utility function" of the owners which weighs the expected
+yield against other characteristics of the distribution. Accordingly, the
+extrapolation of the profit maximization criterion of the certainty model
+has tended to evolve into utility maximization, sometimes explicitly,
+more frequently in a qualitative and heuristic form.5
+The utility approach undoubtedly represents an advance over the
+certainty or certainty-equivalent approach. It does at least permit us
+4 Those who have taken a "case-method" couirse in finance in recent years will recall in this
+connection the famous Liquigas case of Hunt and Williams, 19, pp. 193-961 a case which is
+often used to introduce the student to the cost-of-capital problem and to poke a bit of fun at
+the economist's certainty-model.
+6 For an attempt at a rigorous explicit development of this line of attack, see F. Modigliani
+and M. Zeman [141.
+264
+THE AMERICAN ECONOMIC REVIEW
+to explore (within limits) some of the implications of different financing
+arrangements, and it does give some meaning to the "cost" of different
+types of funds. However, because the cost of capital has become an
+essentially subjective concept, the utility approach has serious draw-
+backs for normative as well as analytical purposes. How, for example,
+is management to ascertain the risk preferences of its stockholders and
+to compromise among their tastes? And how can the economist build a
+meaningful investment function in the face of the fact that any given
+investment opportunity might or might not be worth exploiting depend-
+ing on precisely who happen to be the owners of the firm at the moment?
+Fortunately, these questions do not have to be answered; for the alter-
+native approach, based on market value maximization, can provide the
+basis for an operational definition of the cost of capital and a workable
+theory of investment. Under this approach any investment project and
+its concomitant financing plan must pass only the following test: Will
+the project, as financed, raise the market value of the firm's shares? If
+so, it is worth undertaking; if not, its return is less than the marginal
+cost of capital to the firm. Note that such a test is entirely independent
+of the tastes of the current owners, since market prices will reflect not
+only their preferences but those of all potential owners as well. If any
+current stockholder disagrees with management and the market over
+the valuation of the project, he is free to sell out and reinvest elsewhere,
+but will still benefit from the capital appreciation resulting from man-
+agement's decision.
+The potential advantages of the market-value approach have long
+been appreciated; yet analytical results have been meager. What ap-
+pears to be keeping this line of development from achieving its promise
+is largely the lack of an adequate theory of the effect of financial struc-
+ture on market valuations, and of how these effects can be inferred from
+objective market data. It is with the development of such a theory and
+of its implications for the cost-of-capital problem that we shall be con-
+cerned in this paper.
+Our procedure will be to develop in Section I the basic theory itself
+and to give some brief account of its empirical relevance. In Section II,
+we show how the theory can be used to answer the cost-of-capital ques-
+tion and how it permits us to develop a theory of investment of the
+firm under conditions of uncertainty. Throughout these sections the
+approach is essentially a partial-equilibrium one focusing on the firm
+and "industry." Accordingly, the "prices" of certain income streams
+will be treated as constant and given from outside the model, just as in
+the standard Marshallian analysis of the firm and industry the prices of
+all inputs and of all other products are taken as given. We have chosen
+to focus at this level rather than on the economy as a whole because it
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+265
+is at the level of the firm and the industry that the interests of the vari-
+ous specialists concerned with the cost-of-capital problem come most
+closely together. Although the emphasis has thus been placed on partial-
+equilibrium analysis, the results obtained also provide the essential
+building blocks for a general equilibrium model which shows how those
+prices which are here taken as given, are themselves determined. For
+reasons of space, however, and because the material is of interest in its
+own right, the presentation of the general equilibrium model which
+rounds out the analysis must be deferred to a subsequent paper.
+I. Tihe Valuation of Securities, Leverage, and tihe Cost of Capital
+A. T'he Capitalization Rate for Uncertain Streams
+As a starting point, consider an economy in which all physical assets
+are owned by corporations. For the moment, assume that these corpora-
+tions can finance their assets by issuing common stock only; the intro-
+duction of bond issues, or their equivalent, as a source of corporate funds
+is postponed until the next part of this section.
+The physical assets held by each firm will yield to the owners of the
+firm-its stockholders-a stream of "profits" over time; but the ele-
+ments of this series need not be constant and in any event are uncertain.
+This stream of income, and hence the stream accruing to any share of
+common stock, will be regarded as extending indefinitely into the future.
+WTe assume, however, that the mean value of the stream over time, or
+average profit per unit of time, is finite and represents a random vari-
+able subject to a (subjective) probability distribution. We shall refer to
+the average value over time of the stream accruing to a given share as
+the return of that share; and to the mathematical expectation of this
+average as the expected return of the share.6 Although individual inves-
+tors may have different views as to the shape of the probability distri
+6 These propositions can be restated analytically as follows: The assets of the ith firm gener-
+ate a stream:
+Xi (I), Xi (2) ...
+Xi (T)
+whose elements are random variables subject to the joint probability distribution:
+Xi [Xi (1), Xi (2) .. *X\i (t)J.
+The return to the ith firm is defined as:
+liT
+Xi-=
+lim -
+Xsit).
+7--co T t=
+Xi is itself a random variable with a probability distribution diW(Xi)
+whose form is determined
+uniquely by Xi. The expected return Xi is defined as Xi=E(Xi) =fxXib(X,)dX;.
+If Ni is
+the number of shares outstanding, the return of the ith share is xi= (1/N)X; with probability
+distribution Oi(xi)dx1=4i(Nxi)d(Nxi) and expected value 9i=(1/N)X,.
+266
+THE AMERICAN ECONOMIC
+REVIEW
+bution of the return of any share, we shall assume for simplicity that
+they are at least in agreement as to the expected return.7
+This way of characterizing uncertain streams merits brief comment.
+Notice first that the stream is a stream of profits, not dividends. As will
+become clear later, as long as management is presumed to be acting in
+the best interests of the stockholders, retained earnings can be regarded
+as equivalent to a fully subscribed, pre-emptive issue of common stock.
+Hence, for present purposes, the division of the stream between cash
+dividends and retained earnings in any period is a mere detail. Notice
+also that the uncertainty attaches to the mean value over time of the
+stream of profits and should not be confused with variability over time
+of the successive elements of the stream. That variability and uncer-
+tainty are two totally different concepts should be clear from the fact
+that the elements of a stream can be variable even though known with
+certainty. It can be shown, furthermore, that whether the elements of a
+stream are sure or uncertain, the effect of variability per se on the valua-
+tion of the stream is at best a second-order one which can safely be neg-
+lected for our purposes (and indeed most others too).8
+The next assumption plays a strategic role in the rest of the analysis.
+We shall assume that firms can be divided into "equivalent return"
+classes such that the return on the shares issued by any firm in any
+given class is proportional to (and hence perfectly correlated with) the
+return on the shares issued by any other firm in the same class. This
+assumption implies that the various shares within the same class differ,
+at most, by a "scale factor." Accordingly, if we adjust for the difference
+in scale, by taking the ratio of the return to the expected return, the
+probability distribution of that ratio is identical for all shares in the
+class. It follows that all relevant properties of a share are uniquely char-
+acterized by specifying (1) the class to which it belongs and (2) its
+expected return.
+The significance of this assumption is that it permits us to classify
+firms into groups within which the shares of different firms are "homoge-
+neous," that is, perfect substitutes for one another. We have, thus, an
+analogue to the familiar concept of the industry in which it is the com-
+modity produced by the firms that is taken as homogeneous. To com-
+plete this analogy with Marshallian price theory, we shall assume in the
+7To deal adequately with refinements such as differences among investors in estimates of
+expected returns would require extensive discussion of the theory of portfolio selection. Brief
+references to these and related topics will be made in the succeeding article on the general
+equilibrium model.
+8 The reader may convince himself of this by asking how much he would be willing to rebate
+to his employer for the privilege of receiving his annual salary in equal monthly installments
+rather than in irregular amounts over the year. See also J. M. Keynes [10, esp. pp. 53-541.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+267
+analysis to follow that the shares concerned are traded in perfect mar-
+kets under conditions of atomistic competition.9
+From our definition of homogeneous classes of stock it follows that
+in equilibrium in a perfect capital market the price per dollar's worth of
+expected return must be the same for all shares of any given class. Or,
+equivalently, in any given class the price of every share must be propor-
+tional to its expected return. Let us denote this factor of proportionality
+for any class, say the kth class, by l/Pk. Then if pi denotes the price and
+sj is the expected return per share of the jth firm in class k, we must
+have:
+(1)
+pj =-xj;
+Pk
+or, equivalently,
+(2)
+=
+Pk a constant for all firms j in class k.
+pi
+The constants Pk (one for each of the k classes) can be given several
+economic interpretations: (a) From (2) we see that each Pk iS the ex-
+pected rate of return of any share in class k. (b) From (1) l/Pk is the
+price which an investor has to pay for a dollar's worth of expected re-
+turn in the class k. (c) Again from (1), by analogy with the terminology
+for perpetual bonds, Pk can be regarded as the market rate of capitaliza-
+tion for the expected value of the uncertain streams of the kind gen-
+erated by the kth class of firms.10
+B. Debt Financing and Its Effects on Security Prices
+Having developed an apparatus for dealing with uncertain streams
+we can now approach the heart of the cost-of-capital problem by drop-
+ping the assumption that firms cannot issue bonds. The introduction of
+debt-financing changes the market for shares in a very fundamental
+way. Because firms may have different proportions of debt in their capi-
+9 Just what our classes of stocks contain and how the different classes can be identified by
+outside observers are empirical questions to which we shall return later. For the present, it is
+sufficient to observe: (1) Our concept of a class, while not identical to that of the industry is
+at least closely related to it. Certainly the basic characteristics of the probability distributions
+of the returns on assets will depend to a significant extent on the product sold and the tech-
+nology used. (2) What are the appropriate class boundaries will depend on the particular prob-
+lem being studied. An economist concerned with general tendencies in the market, for example,
+might well be prepared to work with far wider classes than would be appropriate for an inves-
+tor planning his portfolio, or a firm planning its financial strategy.
+10 We cannot, on the basis of the assumptions so far, make any statements about the rela-
+tionship or spread between the various p's or capitalization rates. Before we could do so we
+would have to make further specific assumptions about the way investors believe the proba-
+bility distributions vary from class to class, as well as assumptions about investors' preferences
+as between the characteristics of different distributions.
+268
+THE AMERICAN ECONOMIC REVIEW
+tal structure, shares of different companies, even in the same class, can
+give rise to different probability distributions of returns. In the language
+of finance, the shares will be subject to different degrees of filancial risk
+or "leverage" and hence they will no longer be perfect substitutes for
+one another.
+To exhibit the mechanism determining the relative prices of shares
+under these conditions, we make the following two assumptions about
+the nature of bonds and the bond market, though they are actually
+stronger than is necessary and will be relaxed later: (1) All bonds (in-
+cluding any debts issued by households for the purpose of carrying
+shares) are assumed to yield a constant income per unit of time, and
+this income is regarded as certain by all traders regardless of the issuer.
+(2) Bonds, like stocks, are traded in a perfect market, where the term
+perfect is to be taken in its usual sense as implying that any two com-
+modities which are perfect substitutes for each other must sell, in equi-
+librium, at the same price. It follows from assumption (1) that all bonds
+are in fact perfect substitutes up to a scale factor. It follows from as-
+sumption (2) that they must all sell at the same price per dollar's worth
+of return, or what amounts to the same thing must yield the same rate
+of return. This rate of return will be denoted by r and referred to as the
+rate of interest or, equivalently, as the capitalization rate for sure
+streams. We now can derive the following two basic propositions with
+respect to the valuation of securities in companies with different capital
+structures:
+Proposition I. Consider any company j and let Xi stand as before for
+the expected return on the assets owned by the company (that is, its
+expected profit before deduction of interest). Denote by Di the market
+value of the debts of the company; by Sj the market value of its com-
+mon shares; and by Vj=Sj+Dj
+the market value of all its securities or,
+as we shall say, the market value of the firm. Then, our Proposition I
+asserts that we must have in equilibrium:
+(3)
+Vi
+(Sj + Dj) =
+Xjl/pk,
+for any firm j in class k.
+That is, the market value of any firm is indepezdentt of its capital structure
+and is given by capitalizinzg its expected return at the rate Pk appropriate to
+its class.
+This proposition can be stated in an equivalent way in terms of the
+firm's "average cost of capital," Xj/Vj, which is the ratio of its expected
+return to the market value of all its securities. Our proposition then is:
+xj
+Xj
+(4)
+-
+= Pk, for any firm j, in class k.
+(Sj + Di)
+Va
+That is, thec average cost of capital, to any firm 'IS comipletely independent of
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+269
+its capital structure and is equal to the capitalization rate of a pure equity
+stream of its class.
+To establish Proposition I we will show that as long as the relations
+(3) or (4) do not hold between any pair of firms in a class, arbitrage will
+take place and restore the stated equalities. We use the term arbitrage
+advisedly. For if Proposition I did not hold, an investor could buy and
+sell stocks and bonds in such a way as to exchange one income stream
+for another stream, identical in all relevant respects but selling at a
+lower price. The exchange would therefore be advantageous to the inves-
+tor quite independently of his attitudes toward risk.1' As investors
+exploit these arbitrage opportunities, the value of the overpriced shares
+will fall and that of the underpriced shares will rise, thereby tending to
+eliminate the discrepancy between the market values of the firms.
+By way of proof, consider two firms in the same class and assume for
+simplicity only, that the expected return, X, is the same for both firms.
+Let company 1 be financed entirely with common stock while company
+2 has some debt in its capital structure. Suppose first the value of the
+levered firm, V2, to be larger than that of the unlevered one, Vi. Con-
+sider an investor holding S2 dollars' worth of the shares of company 2,
+representing a fraction a of the total outstanding stock, S2. The return
+from this portfolio, denoted by Y2, will be a fraction ac of the income
+available for the stockholders of company 2, which is equal to the total
+return X2 less the interest charge, rD2. Since under our assumption of
+homogeneity, the anticipated total return of company 2, X2, is, under
+all circumstances, the same as the anticipated total return to company
+1, XI, we can hereafter replace X2 and Xi by a common symbol X.
+Hence, the return from the initial portfolio can be written as:
+(5)
+Y2-
+a(X -
+rD2).
+Now suppose the investor sold his aS2 worth of company 2 shares and
+acquired instead an amount Sl= a(S2+D2) of the shares of company 1.
+He could do so by utilizing the amount aS2 realized from the sale of his
+initial holding and borrowing an additional amount aD2 on his own
+credit, pledging his new holdings in company 1 as a collateral. He would
+thus secure for himself a fraction sl/S = a(S2+?D2)/S, of the shares and
+earnings of company 1. Making proper allowance for the interest pay-
+ments on his personal debt aD2, the return from the new portfolio, Y1, is
+given by:
+11 In the language of the theory of choice, the exchanges are movements from inefficient
+points in the interior to efficient points on the boundary of the investor's opportunity set; and
+not movements between efficient points along the boundary. Hence for this part of the analysis
+nothing is involved in the way of specific assumptions about investor attitudes or behavior
+other than that investors behave consistently and prefer more income to less income, ceteris
+paribus.
+270
+THE AMERICAN ECONOMIC REVIEW
+(6)
+-
+cx~(S2
++ D2)
+V2
+(6)
+Y, = t(S2
+X - raD2 = a -
+X -
+raD2.
+Si
+V1
+Comparing (5) with (6) we see that as long as V2> V1 we must have
+Y1 > Y2, so that it pays owners of company 2's shares to sell their hold-
+ings, thereby depressing S2 and hence V2; and to acquire shares of com-
+pany 1, thereby raising Si and thus V1. We conclude therefore that
+levered companies cannot command a premium over unlevered com-
+panies because investors have the opportunity of putting the equivalent
+leverage into their portfolio directly by borrowing on personal account.
+Consider now the other possibility, namely that the market value of
+the levered company V2 is less than V1. Suppose an investor holds ini-
+tially an amount s1 of shares of company 1, representing a fraction cx of
+the total outstanding stock, Si. His return from this holding is-
+Si
+Y
+-S
+X = agx.
+Si
+Suppose he were to exchange this initial holding for another portfolio,
+also worth s1, but consisting of S2 dollars of stock of company 2 and of
+d dollars of bonds, where s2 and d are given by:
+S2
+D2
+(7)
+S2=-
+1,
+d =-s.
+V2
+V2
+In other words the new portfolio is to consist of stock of company 2 and
+of bonds in the proportions S2/V2 and D2/V2, respectively. The return
+from the stock in the new portfolio will be a fraction S2/S2 of the total
+return to stockholders of company 2, which is (X- rD2), and the return
+from the bonds will be rd. Making use of (7), the total return from the
+portfolio, Y2, can be expressed as follows:
+S2
+D2
+s1
+S
+Y2=
+-
+(X -
+rD2) + rd = -
+(X - rD2)
++ r V-S
+=-
+X =
+-
+X
+S2
+V2
+V2
+V2
+V2
+(since si = aSi). Comparing Y2 with Yi we see that, if V2 <SI
+V1, then
+Y2 will exceed Y1. Hence it pays the holders of company l's shares to
+sell these holdings and replace them with a mixed portfolio containing
+an appropriate fraction of the shares of company 2.
+The acquisition of a mixed portfolio of stock of a levered company j
+and of bonds in the proportion Sj/Vj and D1/Vj respectively, may be
+regarded as an operation which "undoes" the leverage, giving access to
+an appropriate fraction of the unlevered return Xj. It is this possibility
+of undoing leverage which prevents the value of levered firms from be-
+ing consistently less than those of unlevered firms, or more generally
+prevents the average cost of capital
+jl/Vj from being systematically
+higher for levered than for nonlevered companies in the same class.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+271
+Since we have already shown that arbitrage will also prevent V2 from
+being larger than VI, we can conclude that in equilibrium we must have
+V2= VI, as stated in Proposition I.
+Proposition II. From Proposition I we can derive the following propo-
+sition concerning the rate of return on common stock in companies
+whose capital structure includes some debt: the expected rate of return
+or yield, i, on the stock of any company j belonging to the kth class is a
+linear function of leverage as follows:
+(8)
+= pk + (Pk - r) DJ/Sj.
+That is, the expected yield of a share of stock is equal to the appropriate
+capitalization rate pk for a pure equity stream in the class, plus a premium
+related to financial risk equal to the debt-to-equity ratio times the spread
+between
+pk and r. Or equivalently, the market price of any share of stock
+is given by capitalizing its expected return at the continuously variable
+rate ij of (8).12
+A number of writers have stated close equivalents of our Proposition
+I although by appealing to intuition rather than by attempting a proof
+and only to insist immediately that the results were not applicable to the
+actual capital markets.'3 Proposition II, however, so far as we have been
+able to discover is new.14 To establish it we first note that, by definition,
+the expected rate of return, i, is given by:
+Xi2-
+rD.
+(9)ij
+-
+Si
+From Proposition I, equation (3), we know that:
+Xi = pk(Sj + Dj).
+Substituting in (9) and simplifying, we obtain equation (8).
+12 To illustrate, suppose X= 1000, D=4000, r= 5 per cent and pk= 10 per cent. These values
+imply that V= 10,000 and S= 6000 by virtue of Proposition I. The expected yield or rate of
+return per share is then:
+1000 - 200
+4000
+6000
+6000
+3
+'s See, for example, J. B. Williams [21, esp. pp. 72-73]; David Durand [3]; and W. A.
+Morton [15]. None of these writers describe in any detail the mechanism which is supposed to
+keep the average cost of capital constant under changes in capital structure. They seem, how-
+ever, to be visualizing the equilibrating mechanism in terms of switches by investors between
+stocks and bonds as the yields of each get out of line with their "riskiness." This is an argu-
+ment quite different from the pure arbitrage mechanism underlying our proof, and the differ-
+ence is crucial. Regarding Proposition I as resting on investors' attitudes toward risk leads
+inevitably to a misunderstanding of many factors influencing relative yields such as, for ex-
+ample, limitations on the portfolio composition of financial institutions. See below, esp.
+Section I.D.
+14 Morton does make reference to a linear yield function but only" ..
+for the sake of sim-
+plicity and because the particular function used makes no essential difference in my conclu-
+sions" [15, p. 443, note 21.
+272
+THE AMERICAN ECONOMIC REVIEW
+C. Some Qualifications and Extensions of the Basic Propositions
+The methods and results developed so far can be extended in a num-
+ber of useful directions, of which we shall consider here only three: (1)
+allowing for a corporate profits tax under which interest payments are
+deductible; (2) recognizing the existence of a multiplicity of bonds and
+interest rates; and (3) acknowledging the presence of market imperfec-
+tions which might interfere with the process of arbitrage. The first two
+will be examined briefly in this section with some further attention
+given to the tax problem in Section II. Market imperfections will be dis-
+cussed in Part D of this section in the course of a comparison of our re-
+sults with those of received doctrines in the field of finance.
+Effects of the Present Method of Taxing Corporations. The deduction of
+interest in computing taxable corporate profits will prevent the arbi-
+trage process from making the value of all firms in a given class propor-
+tional to the expected returns generated by their physical assets. In-
+stead, it can be shown (by the same type of proof used for the original
+version of Proposition I) that the market values of firms in each class
+must be proportional in equilibrium to their expected return net of
+taxes (that is, to the sum of the interest paid and expected net stock-
+holder income). This means we must replace each Xi in the original ver-
+sions of Propositions I and II with a new variable Xj7 representing the
+total income net of taxes generated by the firm:
+(10)
+XJr--(Xi
+- rDi)(1 - T) + rDi
+7jT + rDj,
+where fr-t represents the expected net income accruing to the common
+stockholders and r stands for the average rate of corporate income tax.'5
+After making these substitutions, the propositions, when adjusted for
+taxes, continue to have the same form as their originals. That is, Propo-
+sition I becomes:
+27
+(11)
+_=
+Pk, for any firm in class k,
+and Proposition II becomes
+(12)
+rP + (Pkr -
+r) Dl,/S
+Si
+where Pkl is the capitalization rate for income net of taxes in class k.
+Although the form of the propositions is unaffected, certain interpre-
+tations must be changed. In particular, the after-tax capitalization rate
+15 For simplicity, we shall ignore throughout the tiny element of progression in our present
+corporate tax and treat r as a constant independent of (Xi-rD,).
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+273
+PkT can no longer be identified with the "average cost of capital" which
+iS Pk = XjVTIj. The difference between Pk and the "true" average cost of
+capital, as we shall see, is a matter of some relevance in connection with
+investment planning within the firm (Section II). For the description of
+market behavior, however, which is our immediate concern here, the dis-
+tinction is not essential. To simplify presentation, therefore, and to pre-
+serve continuity with the terminology in the standard literature we
+shall continue in this section tQ refer to Pk as the average cost of capital,
+though strictly speaking this identification is correct only in the absence
+of taxes.
+Effects of a Plurality of Bonds and Interest Rates. In existing capital
+markets we find not one, but a whole family of interest rates varying
+with maturity, with the technical provisions of the loan and, what is
+most relevant for present purposes, with the financial condition of the
+borrower.16 Economic theory and market experience both suggest that
+the yields demanded by lenders tend to increase with the debt-equity
+ratio of the borrowing firm (or individual). If so, and if we can assume
+as a first approximation that this yield curve, r = r (D/S), whatever its
+precise form, is the same for all borrowers, then we can readily extend
+our propositions to the case of a rising supply curve for borrowed
+funds.'7
+Proposition I is actually unaffected in form and interpretation by the
+fact that the rate of interest may rise with leverage; while the average
+cost of borrowed funds will tend to increase as debt rises, the average cost
+of funds from all sources will still be independent of leverage (apart
+from the tax effect). This conclusion follows directly from the ability of
+those who engage in arbitrage to undo the leverage in any financial
+structure by acquiring an appropriately mixed portfolio of bonds and
+stocks. Because of this ability, the ratio of earnings (before interest.
+charges) to market value--i.e.,
+the average cost of capital from all
+16 We shall not consider here the extension of the analysis to encompass the time structure of
+interest rates. Although some of the problems posed by the time structure can be handled with-
+in our comparative statics framework, an adequate discussion would require a separate paper.
+17 We can also develop a theory of bond valuation along lines essentially parallel to those fol-
+lowved for the case of shares. We conjecture that the curve of bond yields as a function of lever-
+age will turn out to be a nonlinear one in contrast to the linear function of leverage developed
+for common shares. However, we would also expect that the rate of increase in the yield on
+new issues would not be substantial in practice. This relatively slow rise would reflect the fact
+that interest rate increases by themselves can never be completely satisfactory to creditors as
+compensation for their increased risk. Such increases may simply serve to raise r so high rela-
+tive to p that they become self-defeating by giving rise to a situation in which even norrmal
+fluctuations in earnings may force the company into bankruptcy. The difficulty of borrowing
+more, therefore, tends to show up in the usual case not so much in higher rates as in the form
+of increasingly stringent restrictions imposed on the company's management and finances by
+the creditors; and ultimately in a comnplete inability to obtain new borrowed funds, at least
+from the instituitional investors who normally set the standar(ds in the market for bonds.
+274
+THE AMERICAN ECONOMIC REVIEW
+sources-must be the same for all firms in a given class."8 In other words,
+the increased cost of borrowed funds as leverage increases will tend to
+be offset by a corresponding reduction in the yield of common stock.
+This seemingly paradoxical result will be examined more closely below
+in connection with Proposition II.
+A significant modification of Proposition I would be required only if
+the yield curve r=r(D/S)
+were different for different borrowers, as
+might happen if creditors had marked preferences for the securities of a
+particular class of debtors. If, for example, corporations as a class were
+able to borrow at lower rates than individuals having equivalent per-
+sonal leverage, then the average cost of capital to corporations might
+fall slightly, as leverage increased over some range, in reflection of this
+differential. In evaluating this possibility, however, remember that the
+relevant interest rate for our arbitrage operators is the rate on brokers'
+loans and, historically, that rate has not been noticeably higher than
+representative corporate rates.19 The operations of holding companies
+and investment trusts which can borrow on terms comparable to operat-
+ing companies represent still another force which could be expected to
+wipe out any marked or prolonged advantages from holding levered
+stocks.20
+Although Proposition I remains unaffected as long as the yield curve
+is the same for all borrowers, the relation between common stock yields
+and leverage will no longer be the strictly linear one given by the original
+Proposition II. If r increases with leverage, the yield i will still tend to
+18 One normally minor qualification might be noted. Once we relax the assumption that all
+bonds have certain yields, our arbitrage operator faces the danger of something comparable to
+"gambler's ruin." That is, there is always the possibility that an otherwise sound concern-
+one whose long-run expected income is greater than its interest liability-might
+be forced into
+liquidation as a result of a run of temporary losses. Since reorganization generally involves
+costs, and because the operation of the firm may be hampered during the period of reorganiza-
+tion with lasting unfavorable effects on earnings prospects, we might perhaps expect heavily
+levered companies to sell at a slight discount relative to less heavily indebted companies of the
+same class.
+19 Under normal conditions, moreover, a substantial part of the arbitrage process could be
+expected to take the form, not of having the arbitrage operators go into debt on personal
+account to put the required leverage into their portfolios, but simply of having them reduce
+the amount of corporate bonds they already hold when they acquire underpriced unlevered
+stock. Margin requirements are also somewhat less of an obstacle to maintaining any desired
+degree of leverage in a portfolio than might be thought at first glance. Leverage could be
+largely restored in the face of higher margin requirements by switching to stocks having more
+leverage at the corporate level.
+20 An extreme form of inequality between borrowing and lending rates occurs, of course, in
+the case of preferred stocks, which can not be directly issued by individuals on personal
+account. Here again, however, we would expect that the operations of investment corporations
+plus the ability of arbitrage operators to sell off their holdings of preferred stocks would act to
+prevent the emergence of any substantial premiums (for this reason) on capital structures con-
+taining preferred stocks. Nor are preferred stocks so far removed from bonds as to make it
+impossible for arbitrage operators to approximate closely the risk and leverage of a corporate
+preferred stock by incurriing a somewhat smaller debt on personal account.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+275
+rise as D/S increases, but at a decreasing rather than a constant rate.
+Beyond some high level of leverage, depending on the exact form of the
+interest function, the yield may even start to fall.21 The relation between
+i and D/S could conceivably take the form indicated by the curve MD
+-
+Y-4.
+0
+o
+a:
+e
+W
+_
+cr.
+RATlO
+OF D:EST
+TO TOTAL MARiKET VALUE- DjlVj
+FIGURE 1
+~~~~~~~~~~~~~~~~~~~.,t
+I>
+-,
+cj
+~ ~
+~
+~
+~
+~~-
+X
+i~
+0
+FIGURE 1
+w~~~~~~~~~~~~~~~~~~~~~~
+0
+0
+I-~~~~~~~
+in Figure 2, although in practice the curvature would be much less pro-
+nounced. By contrast, with a constant rate of interest, the relation
+would be linear throughout as shown by line MM', Figure 2.
+The dovvnward sloping part of the curve MD perhaps requires some
+21 Since new lenders are unlikely to permit this much leverage (cf. note 17), this range of the
+curve is likely to be occupied by companies whose earnings prospects have fallen substantially
+since the time when their debts were issued.
+276
+THE AMIERICAN ECONOMIC REVIEW
+comment since it may be hard to imagine why investors, other than
+those who like lotteries, would purchase stocks in this range. Remember,
+however, that the yield curve of Proposition II is a consequence of the
+more fundamental Proposition I. Should the demand by the risk-lovers
+prove insufficient to keep the market to the peculiar yield-curve MD,
+this demand would be reinforced by the action of arbitrage operators.
+The latter would find it profitable to own a pro-rata share of the firm as
+a whole by holding its stock and bonds, the lower yield of the shares
+being thus offset by the higher return on bonds.
+D. The Relation of Propositions I and II to Current Doctrines
+The propositions we have developed with respect to the valuation of
+firms and shares appear to be substantially at variance with current
+doctrines in the field of finance. The main differences between our view
+and the current view are summarized graphically in Figures 1 and 2.
+Our Proposition I [equation (4)] asserts that the average cost of capital,
+`j,/V, is a constant for all firms j in class k, independently of their fi-
+nancial structure. This implies that, if we were to take a samnple of firms
+in a given class, and if for each firm we were to plot the ratio of expected
+returni to market value against some measure of leverage or financial
+structure, the points would tend to fall on a horizontal straight line
+with intercept PkJ, like the solid line mm' in Figure 1 .22 From Proposition
+I we derived Proposition II [equation (8)] which, taking the simplest
+version with r constant, asserts that, for all firms in a class, the relation
+between the yield on common stock and financial structure, measured
+by DjlSj, will approximate a straight line with slope (pk7-r)
+and inter-
+cept PkT. This relationship is shown as the solid line MM' in Figure 2, to
+which reference has been made earlier.23
+By contrast, the conventional view among finance specialists appears
+to start from the proposition that, other things equal, the earnings-
+price ratio (or its reciprocal, the times-earnings multiplier) of a firm's
+common stock will normally be only slightly affected by "moderate"
+amounts of debt in the firm's capital structure.24 Translated into our no
+-2 In Figure 1 the measure of leverage used is Di/lVy (the ratio of debt to market value)
+rather than Dj/Sj (the ratio of debt to equity), the concept used in the analytical develop-
+ment. The Dj/Vj measure is introduced at this point because it simplifies comparison and con-
+trast of our view with the traditional position.
+23 The line MM' in Figure 2 has been drawn with a positive slope on the assumption that
+pk>r,
+a condition which will normally obtain. Our Proposition II as given in equation (8)
+would continue to be valid, of course, even in the unlikely event that pk'<r, but the slope of
+MM' would be negative.
+24 See, e.g., Graham and Dodd [6, pp. 464-66]. Without doing violence to this position, we
+can bring out its implications more sharply by ignoring the qualification and treating the yield
+as a virtual constant over the relevant range. See in this connection the discussion in Durand
+[3, esp. pp. 225-37] of what he calls the "net income method" of valuationi.
+MODiGLIANI AND MILLER: 'THEORY OF INVESTMEN'T
+277
+tation, it asserts that for any firm j in the class k,
+X+T - rDj
+#j'
+Dj
+(13)
+-
+=
+ik*, a constant for-<
+Lk
+Si
+S,
+S4
+or, equivalently,
+(14)
+S,= =j"lik*
+Here ik* represents the capitalization rate or earnings-price ratio on the
+common stock and Lk denotes some amount of leverage regarded as the
+maximum "reasonable" amount for firms of the class k. This assumed
+relationship between yield and leverage is the horizontal solid line ML'
+of Figure 2. Beyond L', the yield will presumably rise sharply as the
+market discounts "excessive" trading on the equity. This possibility of a
+rising range for high leverages is indicated by the broken-line segment
+L'G in the figure.25
+If the value of shares were really given by (14) then the over-all mar-
+ket value of the firm must be:
+xir -
+rDj
+X*T
+(ik*
+-
+r) D,
+(16)
+Vj1S? + Dj
+ik*
++ Dj-i*
+-+
+.i*
+That is, for any given level of expected total returns after taxes (Y7j)
+and assuming, as seems natural, that ik*> r, the value of the firm must
+tend to rise with debt ;26 whereas our Proposition I asserts that the value
+of the firm is completely independent of the capital structure. Another
+way of contrasting our position with the traditional one is in terms of the
+cost of capital. Solving (16) for Y;/ Vj yields:
+(17)
+Xil
+Vj = ik* -
+(j1* - r) D,/17V.
+According to this equation, the average cost of capital is not indepen-
+dent of capital structure as we have argued, but should tend to fall with
+increasing leverage, at least within the relevant range of moderate debt
+ratios, as shown by the line ms in Figure 1. Or to put it in more familiar
+terms, debt-financing should be "cheaper" than equity-financing if not
+carried too far.
+When we also allow for the possibility of a rising range of stock yields
+for large values of leverage, we obtain a U-shaped curve like nst in
+26 To make it easier to see some of the implications of this hypothesis as well as to prepare
+the ground for later statistical testing, it will be helpful to assume that the notion of a critical
+limit on leverage beyond which yields rise rapidly, can be epitomized by a quadratic relation of
+the form:
+(15)
+*,Sii=
+i* + 13(D,/S,) + a(Dj/Sj)2,
+a > 0.
+21 For a typical discussion of how a promoter can, supposedly, increase the market value of a
+firm by recourse to debt issues, see W. J. Eiteman [4, esp. pp. 11-131.
+278
+THE AMERICAN ECONOMIC
+REVIEW
+Figure 1 .27 That a yield-curve for stocks of the form ML'G in Figure 2
+implies a U-shaped cost-of-capital curve has, of course, been recognized
+by many writers. A natural further step has been to suggest that the
+capital structure corresponding to the trough of the U is an "optimal
+capital structure" towards which management ought to strive in the
+best interests of the stockholders.28 According to our model, by contrast,
+no such optimal structure exists-all structures being equivalent from
+the point of view of the cost of capital.
+Although the falling, or at least U-shaped, cost-of-capital function is
+in one form or another the dominant view in the literature, the ultimate
+rationale of that view is by no means clear. The crucial element in the
+position-that the expected earnings-price ratio of the stock is largely
+unaffected by leverage up to some conventional limit-is rarely even
+regarded as something which requires explanation. It is usually simply
+taken for granted or it is merely asserted that this is the way the market
+behaves.29 To the extent that the constant earnings-price ratio has a
+rationale at all we suspect that it reflects in most cases the feeling that
+moderate amounts of debt in "sound" corporations do not really add
+very much to the "riskiness" of the stock. Since the extra risk is slight,
+it seems natural to suppose that firms will not have to pay noticeably
+higher yields in order to induce investors to hold the stock.30
+A more sophisticated line of argument has been advanced by David
+Durand [3, pp. 231-33]. He suggests that because insurance companies
+and certain other important institutional investors are restricted to debt
+securities, nonfinancial corporations are able to borrow from them at
+interest rates which are lower than would be required to compensate
+27 The U-shaped nature of the cost-of-capital curve can be exhibited explicitly if the yield
+curve for shares as a function of leverage can be approximated by equation (15) of footnote 25.
+From that equation, multiplying both sides by Si we obtain: Trj= X,T_-rD;=ik*Si+?fDi+aD2
+/S, or, adding and subtracting ik*Dk from the right-hand side and collecting terms,
+(18)
+xi' = ik*(Si + Di) + (, + r - ik*)Di + aDD2/S1.
+Dividing (18) by Vi gives an expression for the cost of capital:
+(19)
+X,T/V, = ik* -
+(ik* - r - O)Di/Vi + aD,2/SiVi
+= ik* - (ik* - r - O)DilVJ
++ a(Di/Vi)2/(1
+- D3/Vj)
+which is clearly U-shaped since a is supposed to be positive.
+28 For a typical statement see S. M. Robbins [16, p. 307]. See also Graham and Dodd [6,
+pp. 468-74].
+29 See e.g., Graham and Dodd [6, p. 466].
+80 A typical statement is the following by Guthmann and Dougall [7, p. 245]: "Theoretically
+it might be argued that the increased hazard from using bonds and preferred stocks would
+counterbalance this additional income and so prevent the common stock from being more
+attractive than when it had a lower return but fewer prior obligations. In practice, the extra
+earnings from 'trading on the equity' are often regarded by investors as more than sufficient to
+serve as a 'premium for risk' when the proportions of the several securities are judiciously
+mixed."
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+279
+creditors in a free market. Thus, while he would presumably agree with
+our conclusions that stockholders could not gain from leverage in an un-
+constrained market, he concludes that they can gain under present insti-
+tutional arrangements. This gain would arise by virtue of the "safety
+superpremium" which lenders are willing to pay corporations for the
+privilege of lending.3'
+The defective link in both the traditional and the Durand version of
+the argument lies in the confusion between investors' subjective risk
+preferences and their objective market opportunities. Our Propositions
+I and II, as noted earlier, do not depend for their validity on any as-
+sumption about individual risk preferences. Nor do they involve any as-
+sertion as to what is an adequate compensation to investors for assum-
+ing a given degree of risk. They rely merely on the fact that a given
+commodity cannot consistently sell at more than one price in the mar-
+ket; or more precisely that the price of a commodity representing a
+"bundle" of two other commodities cannot be consistently different
+from the weighted average of the prices of the two components (the
+weights being equal to the proportion of the two commodities in the
+bundle).
+An analogy may he helpful at this point. The relations between l/pk,
+the price per dollar of an unlevered stream in class k; 1/r, the price per
+dollar of a sure stream, and 1/ij, the price per dollar of a levered stream
+j, in the kth class, are essentially the same as those between, respective-
+ly, the price of whole milk, the price of butter fat, and the price of milk
+which has been thinned out by skimming off some of the butter fat. Our
+Proposition I states that a firm cannot reduce the cost of capital-i.e.,
+increase the market value of the stream it generates-by securing part
+of its capital through the sale of bonds, even though debt money ap-
+pears to be cheaper. This assertion is equivalent to the proposition that,
+under perfect markets, a dairy farmer cannot in general earn more for
+the milk he produces by skimming some of the butter fat and selling
+it separately, even though butter fat per unit weight, sells for more
+than whole milk. The advantage from skimming the milk rather than
+selling whole milk would be purely illusory; for what would be gained
+from selling the high-priced butter fat would be lost in selling the low-
+priced residue of thinned milk. Similarly our Proposition II-that
+the
+price per dollar of a levered stream falls as leverage increases-is an ex-
+31 Like Durand, Morton [15] contends "that the actual market deviates from [Proposition
+I] by giving a changing over-all cost of money at different points of the [leverage] scale"' (p.
+443, note 2, inserts ours), but the basis for this contention is nowhere clearly stated. Judging
+by the great emphasis given to the lack of mobility of investment funds between stocks and
+bonds and to the psychological and institutional pressures toward debt portfolios (see pp. 444-
+51 and especially his discussion of the optimal capital structure on p. 453) he would seem to be
+taking a position very similar to that of Durand above.
+280
+THE AMERICAN ECONOMIC REVIEW
+act analogue of the statement that the price per gallon of thinned milk
+falls continuously as more butter fat is skimmed off.32
+It is clear that this last assertion is true as long as butter fat is worth
+more per unit weight than whole milk, and it holds even if, for many
+consumers, taking a little cream out of the milk (adding a little leverage
+to the stock) does not detract noticeably from the taste (does not add
+noticeably to the risk). Furthermore the argument remains valid even
+in the face of instituional limitations of the type envisaged by Durand.
+For suppose that a large fraction of the population habitually dines in
+restaurants which are required by law to serve only cream in lieu of
+milk (entrust their savings to institutional investors who can only buy
+bonds). To be sure the price of butter fat will then tend to be higher in
+relation to that of skimmed milk than in the absence such restrictions
+(the rate of interest will tend to be lower), and this will benefit people
+who eat at home and who like skim milk (who manage their own port-
+folio and are able and willing to take risk). But it will still be the case
+that a farmer cannot gain by skimming some of the butter fat and sell-
+ing it separately (firm cannot reduce the cost of capital by recourse to
+borrowed funds).3
+Our propositions can be regarded as the extension of the classical
+theory of markets to the particular case of the capital markets. Those
+who hold the current view-whether
+they realize it or not-must
+as-
+32 Let M denote the quantity of whole milk, B/Alf the proportion of butter fat in the whole
+milk, and let PM, PB and pa denote, respectively, the price per unit weight of whole milk, butter
+fat and thinned milk from which a fraction a of the butter fat has been skimmed off. We then
+have the fundamental perfect market relation:
+(a)
+Pa(M-
+aB) + PBoiB = pMM,
+O < a < 1,
+stating that total receipts will be the same amount pMM, independently of the amount aLB of
+butter fat that may have been sold separately. Since pm corresponds to 1ip, PB to l/r, Pa to
+1/i, M to Z and a-B to rD, (a) is equivalent to Proposition I, S+D=X/p.
+From (a) we derive:
+(b)
+Pa =
+Mi
+- aB -PB
+M-B
+which gives the price of thinned milk as an explicit function of the proportion of buitter fat
+skimmed off; the function decreasing as long as PB>pM. From (a) also follows:
+(c)
+I/pa = I/PM + (I/PM - I/PB)
+Pa(M B)
+which is the exact analogue of Proposition II, as given by (8).
+33 The reader who likes parables will find that the analogy with interrelated commodity
+markets can be pushed a good deal farther than we have done in the text. For instance, the
+effect of changes in the market rate of interest on the over-all cost of capital is the same as the
+effect of a change in the price of butter on the price of whole milk. Similarly, just as the rela-
+tion between the prices of skim milk and butter fat influences the kind of cows that will be
+reared, so the relation between i and r influences the kind of ventures that will be undertaken.
+If people like butter we shall have Guernseys; if they are willing to pay a high price for safety,
+this will encourage ventures which promise smaller but less uncertain streams per dollar of
+physical assets.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+281
+sume not merely that there are lags and frictions in the equilibrating
+process-a feeling we certainly share,34 claiming for our propositions
+only that they describe the central tendency around which observations
+will scatter-but also that there are large and systematic imperfections
+in the market which permanently bias the outcome. This is an assump-
+tion that economists, at any rate, will instinctively eye with some skep-
+ticism.
+In any event, whether such prolonged, systematic departures from
+equilibrium really exist or whether our propositions are better descrip-
+tions of long-run market behavior can be settled only by empirical re-
+search. Before going on to the theory of investment it may be helpful,
+therefore, to look at the evidence.
+E. Some Prelimtinary Evidentce on5 the Basic Propositions
+Unfortunately the evidence which has been assembled so far is amaz-
+ingly skimpy. Indeed, we have been able to locate only two recent stud-
+ies-and these of rather limited scope-which were designed to throw
+light on the issue. Pending the results of more comprehensive tests which
+we hope will soon be available, we shall review briefly such evidence as is
+provided by the two studies in question: (1) an analysis of the relation
+between security yields and financial structure for some 43 large electric
+utilities by F. B. Allen [1], and (2) a parallel (unpublished) study by
+Robert Smith [19], for 42 oil companies designed to test whether Allen's
+rather striking results would be found in an industry with very differ-
+ent characteristics.3Y The Allen study is based on average figures for the
+years 1947 and 1948, while the Smith study relates to the single year
+1953.
+The Effect of Leverage on the Cost of Capital. According to the received
+view, as shown in equation (17) the average cost of capital, Yr/V,
+should decline linearly with leverage as measured by the ratio D/V, at
+least through most of the relevant range.36 According to Proposition I,
+the average cost of capital within a given class k should tend to have
+the same value PkT independently of the degree of leverage. A simple test
+Several specific examples of the failure of the arbitrage mechanism can be found in Graham
+anid Dodd [6, e.g.. pp. 646-481. The price discrepancy described on pp. 646-47 is particularly
+curious since it persists even today despite the fact that a whole generation of security analysts
+has been brought up on this book!
+3 We wish to express our thanks to both writers for making available to us some of their
+original worksheets. In addition to these recent studies there is a frequently cited (but appar-
+ently seldom read) study by the Federal Communications Commission in 1938 [22] which
+purports to show the existence of an optimal capital structure or range of structures (in the
+sense defined above) for public utilities in the 1930's. By current standards for statistical in-
+vestigations. however, this study cannot be regarded as having any real evidential value for
+the problem at hand.
+36 We shall simplify our notation in this section by dropping the subscriptj used to denote a
+particular firm wherever this will not lead to confusion.
+282
+THE AMERICAN ECONOMIC REVIEW
+of the merits of the two alternative hypotheses can thus be carried out
+by correlating
+,I/V with D/V. If the traditional view is correct, the
+correlation should be significantly negative; if our view represents a bet-
+ter approximation to reality, then the correlation should not be signifi-
+cantly different from zero.
+Both studies provide information about the average value of D-the
+market value of bonds and preferred stock-and of V-the market
+value of all securities.37 From these data we can readily compute the
+ratio D/V and this ratio (expressed as a percentage) is represented by
+the symbol d in the regression equations below. The measurement of
+the variable YT/V, however, presents serious difficulties. Strictly speak-
+ing, the numerator should measure the expected returns net of taxes,
+but this is a variable on which no direct information is available. As an
+approximation, we have followed both authors and used (1) the average
+value of actual net returns in 1947 and 1948 for Allen's utilities; and (2)
+actual net returns in 1953 for Smith's oil companies. Net return is de-
+fined in both cases as the sum of interest, preferred dividends and stock-
+holders' income net of corporate income taxes. Although this approxima-
+tion to expected returns is undoubtedly very crude, there is no reason to
+believe that it will systematically bias the test in so far as the sign of the
+regression coefficient is concerned. The roughness of the approximation,
+however, will tend to make for a wide scatter. Also contributing to the
+scatter is the crudeness of the industrial classification, since especially
+within the sample of oil companies, the assumption that all the firms be-
+long to the same class in our sense, is at best only approximately valid.
+Denoting by x our approximation to Yr/V (expressed, like d, as a
+percentage), the results of the tests are as follows:
+Electric Utilities x = 5.3 + .006d
+r = .12
+(? .008)
+Oil Companies
+x = 8.5 + .006d
+r = .04.
+(+ .024)
+The data underlying these equations are also shown in scatter diagram
+form in Figures 3 and 4.
+The results of these tests are clearly favorable to our hypothesis.
+17 Note that for purposes of this test preferred stocks, since they represent an expected fixed
+obligation, are properly classified with bonds even though the tax status of preferred dividends
+is different from that of interest payments and even though preferred dividends are really
+fixed only as to their maximum in any year. Some difficulty of classification does arise in the
+case of convertible preferred stocks (and convertible bonds) selling at a substantial premium,
+but fortunately very few such issues were involved for the companies included in the two
+studies. Smith included bank loans and certain other short-term obligations (at book values)
+in his data on oil company debts and this treatment is perhaps open to some question. How-
+ever, the amounts involved were relatively small and check computations showed that their
+elimination would lead to only minor differences in the test results.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+283
+0
+3
+-t----X
+e
+0
+20
+30
+40
+a0
+60e
+70
+a0
+0
+t
+F;NANCAL STRAOTURE-(MARKET VALUE Or SENIOR StCURIT1ES$"ARXET 'kLUE OF ALL SECURmSE 100
+FIGURE 3. COST OF CAPITAL IN RELATION TO FINA.NCIAL STRUCTURE
+FOR 43 ELECTRIC UTILITIES, 1947-48
+Lg4
+X
+0~~~~~~~
+X8 .8 + 0.006
+0
+0 Loo
+?
+2-
+X
+X-
+8.
++ 0.0
+0
+rD}~
+r
+0
+10
+20
+30
+40
+50
+60
+70
+80
+D:
+FINKANCIAL
+STRUCTURE-(MARKET VALt
+OF SENIOR SECUrMES/(NAARKET VALUE OF ALL SECURITIESII 100
+FIGURE 4. COSTr OF CAPITAL IN RELATION TO FINANCIAL STRUCTURE
+FOR 42 OIL COMPANIES, 1953
+284
+THE AMERICAN ECONOMIC REVIEW
+Both correlation coefficients are very close to zero and not statistically
+significant. Furthermore, the implications of the traditional view fail to
+be supported even with respect to the sign of the correlation. The data
+in short provide no evidence of any tendency for the cost of capital to
+fall as the debt ratio increases.38
+It should also be apparent from the scatter diagrams that there is no
+hint of a curvilinear, U-shaped, relation of the kind which is widely be-
+lieved to hold between the cost of capital and leverage. This graphical
+impression was confirmed by statistical tests which showed that for
+both industries the curvature was not significantly different from zero,
+its sign actually being opposite to that hypothesized.39
+Note also that according to our model, the constant terms of the re-
+gression equations are measures of PkT, the capitalization rates for un-
+levered streams and hence the average cost of capital in the classes in
+question. The estimates of 8.5 per cent for the oil companies as against
+5.3 per cent for electric utilities appear to accord well with a priori ex-
+pectations, both in absolute value and relative spread.
+The Effect of Leverage on Common Stock Yields. According to our Prop-
+osition II-see equation 12 and Figure 2-the expected yield on com-
+mon stock, r1/S, in any given class, should tend to increase with lever-
+age as measured by the ratio D/S. The relation should tend to be linear
+and with positive slope through most of the relevant range (as in the
+curve MM' of Figure 2), though it might tend to flatten out if we move
+38 It may be argued that a test of the kind used is biased against the traditional view. The
+fact that both sides of the regression equation are divided by the variable V which may be
+subject to random variation might tend to impart a positive bias to the correlation. As a check
+on the results presented in the text, we have, therefore, carried out a supplementary test
+based on equation (16). This equation shows that, if the traditional view is correct, the market
+value of a company should, foi given X, increase with debt through most of therelevant range;
+according to our model the market value should be uncorrelated with D, given Y. Because
+of wide variations in the size of the firms included in our samples, all variables must be divided
+by a suitable scale factor in order to avoid spurious results in carrying out a test of equation
+(16). The factor we have used is the book value of the firm denoted by A. The hypothesis
+tested thus takes the specific form:
+V/A = a + b(XT/A) + c(D/A)
+and the numerator of the ratio XT/A is again approximated by actual net returns. The partial
+correlation between V/A and DIA should now be positive according to the traditional view
+and zero according to our model. Although division by A should, if anything, bias the results
+in favor of the traditional hypothesis, the partial correlation turns out to be only .03 for the oil
+companies and -.28 for the electric utilities. Neither of these coefficients is significantly differ-
+ent from zero and the larger one even has the wrong sign.
+39 The tests consisted of fitting to the data the equation (19) of footnote 27. As shown
+there, it follows from the U-shaped hypothesis that the coefficient a of the variable (D/V)2
+/(1 -DIV),
+denoted hereafter by d*, should be significant and positive. The following regres-
+sion equations and partials were obtained:
+Electric Utilities x = 5.0 + .017d - .003d*; rxd* .d =-
+.15
+Oil Companies
+x = 8.0 + .05d - .03d*; rzd* .d = -.14.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+285
+far enough to the right (as in the curve MD'), to the extent that high
+leverage tends to drive up the cost of senior capital. According to the
+conventional view, the yield curve as a function of leverage should be a
+horizontal straight line (like MVL') through most of the relevant range;
+far enough to the right, the yield may tend to rise at an increasing rate.
+Here again, a straight-forward correlation-in
+this case between *#/S
+and D/S-can
+provide a test of the two positions. If our view is correct,
+the correlation should be significantly positive; if the traditional view is
+correct, the correlation should be negligible.
+Subject to the same qualifications noted above in connection with
+XT, we can approximate fr by actual stockholder net income.40 Letting
+z denote in each case the approximation to fr#/S (expressed as a per-
+centage) and letting h denote the ratio DIS (also in percentage terms)
+the following results are obtained:
+Electric Utilities z
+6.6 + .017/i
+r
+.53
+(+ .004)
+Oil Companies
+z
+8.9 + .051h
+r = .53.
+(? .012)
+These results are shown in scatter diagram form in Figures 5 and 6.
+Here again the implications of our analysis seem to be borne out by
+the data. Both correlation coefficients are positive and highly significant
+when account is taken of the substantial sample size. Furthermore, the
+estimates of the coefficients of the equations seem to accord reasonably
+well with our hypothesis. According to equation (12) the constant term
+should be the value Of pk' for the given class while the slope should be
+(per-
+r). From the test of Proposition I we have seen that for the oil
+companies the mean value of pkT could be estimated at around 8.7.
+Since the average yield of senior capital during the period covered was
+in the order of 3' per cent, we should expect a constant term of about
+8.7 per cent and a slope of just over 5 per cent. These values closely ap-
+proximate the regression estimates of 8.9 per cent and 5.1 per cent re-
+spectively. For the electric utilities, the yield of senior capital was also
+on the order of 332 per cent durinn the test years, but since the estimate
+of the mean value of Pkr from the test of Proposition I was 5.6 per cent,
+40 As indicated earlier, Snnm'Ith's
+data were for the single year 1953. Since the use of a single
+year's profits as a measure of expected profits might be open to objection we collected profit
+data for 1952 for the same companies and based the computation of Fr/S on the average of the
+two years. The value of 7T/S was obtained from the formula:
+(net earnings in 1952 -s
++ net earnings in '1953 2
+assets in '522
+* (average market value of common stock in '53).
+The asset adjustment was introduced as rough allowance for the effects of possible growth in
+the size of the firm. It might be added that the correlation computed with 7r/S based on net
+profits in 1953 alone was found to be only slightly smaller, namely .50.
+286
+THE AMERICAN ECONOMIC REVIEW
+6
+o
+4
+W&
+12_
+0~~~~~~~*
+*12
+04 E
+2-
+uo-
+uw
+20
+w
+.1
+0
+0
+25
+I0
+750
+200
+1250
+160
+350
+200
+H:- LEVERAGE - [(MARKET VALUE OF SENIOR SErURITIESVtMARKET VALUE. OF
+COMMON STOCKS)] 00
+FIGURE 6. YIELD ON COMMON STOCK IN RELATION To LEVERAGE FOR
+42 OLCRCUILICO
+TAIES,
+1952-538
+zo
+W
+g
+_
+co
+S0-o
+O
+o f
+0
+7
+O
+1
+6
+7
+H: LvEtRAE
+-[(MARKET VALUE
+Of SENIOR SECURITIEqAMARKET
+VALUE
+OF COkMON0 STOCKS
+100
+FIGu-RE 6. YIELD ON COMMON
+STOCK IN RELATION TO LEVERAGE FOR
+42 OIL COH-PANIES, 1952-53
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+287
+the slope should be just above 2 per cent. The actual regression estimate
+for the slope of 1.7 per cent is thus somewhat low, but still within one
+standard error of its theoretical value. Because of this underestimate of
+the slope and because of the large mean value of leverage (h = 160 per
+cent) the regression estimate of the constant term, 6.6 per cent, is some-
+what high, although not significantly different from the value of 5.6
+per cent obtained in the test of Proposition I.
+When we add a square term to the above equations to test for the
+presence and direction of curvature we obtain the following estimates:
+Electric Utilities z = 4.6 + .004h - .007h2
+Oil Companies
+z = 8.5 + .072h - .016z2.
+For both cases the curvature is negative. In fact, for the electric utili-
+ties, where the observations cover a wider range of leverage ratios, the
+negative coefficient of the square term is actually significant at the 5
+per cent level. Negative curvature, as we have seen, runs directly coun-
+ter to the traditional hypothesis, whereas it can be readily accounted
+for by our model in terms of rising cost of borrowed funds.4'
+In summary, the empirical evidence we have reviewed seems to be
+broadly consistent with our model and largely inconsistent with tradi-
+tional views. Needless to say much more extensive testing will be re-
+quired before we can firmly conclude that our theory describes market
+behavior. Caution is indicated especially with regard to our test of
+Proposition IT, partly because of possible statistical pitfalls42 and partly
+because not all the factors that might have a systematic effect on stock
+yields have been considered. In particular, no attempt was made to test
+the possible influence of the dividend pay-out ratio whose role has
+tended to receive a great deal of attention in current research and think-
+ing. There are two reasons for this omission. First, our main objective
+has been to assess the prima facie tenability of our model, and in this
+model, based as it is on rational behavior by investors, dividends per se
+play no role. Second, in a world in which the policy of dividend stabiliza-
+tion is widespread, there is no simple way of disentangling the true ef-
+fect of dividend payments on stock prices from their apparent effect,
+4 That the yield of senior capital tended to rise for utilities as leverage increased is clearly
+shown in several of the scatter diagrams presented in the published version of Allen's study.
+This significant negative curvature between stock yields and leverage for utilities may be part-
+ly responsible for the fact, previously noted, that the constant in the linear regression is some-
+what higher and the slope somewhat lower than implied by equation (12). Note also in connec-
+tion with the estimate of Pk' that the introduction of the quadratic term reduces the constant
+considerably, pushing it in fact below the a priori expectation of 5.6, though the difference is
+again not statistically significant.
+42 In our test, e.g., the two variables z and h are both ratios with S appearing in the denomi-
+nator, which may tend to impart a positive bias to the correlation (cf. note 38). Attempts were
+made to develop alternative tests, but although various possibilities were explored, we have
+so far been unable to find satisfactory alternatives.
+288
+THE AMERICAN ECONOMIC REVIEW
+the latter reflecting only the role of dividends as a proxy measure of
+long-term earning anticipations.43 The difficulties just mentioned are
+further compounded by possible interrelations between dividend policy
+and leverage.44
+II. Imtplications of the Analysis for the Theory of Investment
+A. Capital Structure and Investment Policy
+On the basis of our propositions with respect to cost of capital and
+financial structure (and for the moment neglecting taxes), we can derive
+the following simple rule for optimal investment policy by the firm:
+Proposition III. If a firm in class k is acting in the best interest of the
+stockholders at the time of the decision, it will exploit an investment op-
+portunity if and only if the rate of return on the investment, say p*,
+is as large as or larger than pk. That is, the cut-off point for investment
+in the firm will in all cases be Pk and will be completely unaffected by the
+type of security used to finance the investment. Equivalently, we may say
+that regardless of the financing used, the marginal cost of capital to a
+firm is equal to the average cost of capital, which is in turn equal to the
+capitalization rate for an unlevered stream in the class to which the
+firm belongs.45
+To establish this result we will consider the three major financing al-
+ternatives open to the firm--bonds,
+retained earnings, and common
+stock issues-and
+show that in each case an investment is worth under-
+taking if, and only if, p =pk.46
+Consider first the case of an investment financed by the sale of bonds.
+We know from Proposition I that the market value of the firm before the
+investment was undertaken was:47
+(20)
+V0 = Xo/pk
+43We suggest that failure to appreciate this difficulty is responsible for many fallacious, or
+at least unwarranted, conclusions about the role of dividends.
+44 In the sample of electric utilities, there is a substantial negative correlation between yields
+and pay-out ratios, but also between pay-out ratios and leverage, suggesting that either the
+association of yields and leverage or of yields and pay-out ratios may be (at least partly)
+spurious. These difficulties however do not arise in the case of the oil industry sample. A pre-
+liminary analysis indicates that there is here no significant relation between leverage and
+pay-out ratios and also no significant correlation (either gross or partial) between yields and
+pay-out ratios.
+45 The analysis developed in this paper is essentially a comparative-statics, not a dynamic
+analysis. This note of caution applies with special force to Proposition III. Such problems as
+those posed by expected changes in r and in pk over time will not be treated here. Although
+they are in principle amenable to analysis within the general framework we have laid out, such
+an undertaking is sufficiently complex to deserve separate treatment. Cf. note 17.
+" The extension of the proof to other types of financing, such as the sale of preferred stock or
+the issuance of stock rights is straightforward.
+47 Since no confusion is likely to arise, we have again, for simplicity, eliminated the subscripts
+identifying the firm in the eqtuations to follow. Except for Pk, the subscripts now refer to time
+periods.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+289
+and that the value of the common stock was:
+(21)
+S0 - V0 -
+Do.
+If now the firm borrows I dollars to finance an investment yielding p* its
+market value will become:
+To + P*
+_
+*
+(22)
+VI=
+-
++ p*Ip*
+Pk
+Pk
+and the value of its common stock will be:
+P*I
+(23)
+S1 = V1 - (Do + 1)
+V1' +
+Do - I
+Pk
+or using equation 21,
+p*I
+(24)
+KSi
+= So + --- -I.
+Pk/
+Hence S1iS0 as p*<pk.48
+To illustrate, suppose the capitalization rate for uncertain streams in
+the kth class is 10 per cent and the rate of interest is 4 per cent. Then if
+a given company had an expected income of 1,000 and if it were financed
+entirely by common stock we know from Proposition I that the market
+value of its stock would be 10,000. Assume now that the managers of the
+firm discover an investment opportunity which will require an outlay of
+100 and which is expected to yield 8 per cent. At first sight this might
+appear to be a profitable opportunity since the expected return is double
+the interest cost. If, however, the management borrows the necessary
+100 at 4 per cent, the total expected income of the company rises to
+1,008 aind the market value of the firm to 10,080. But the firm now will
+have 100 of bonds in its capital structure so that, paradoxically, the
+market value of the stock must actually be reduced from 10,000 to
+9,980 as a consequence of this apparently profitable investment. Or, to
+put it another way, the gains from being able to tap cheap, borrowed
+funds are more than offset for the stockholders by the market's discount-
+ing of the stock for the added leverage assumed.
+Consider next the case of retained earnings. Suppose that in the course
+of its operations the firm acquired I dollars of cash (without impairing
+48 In the case of bond-financing the rate of interest on bonds does not enter explicitly into
+the decision (assuming the firm borrows at the market rate of interest). This is true, more-
+over, given the conditions outlined in Section I.C, even though interest rates may be
+an increasing function of debt outstanding. To the extent that the firm borrowed at a rate
+other than the market rate the two I's in equation (24) would no longer be identical and an
+additional gain or loss, as the case might be, would accrue to the shareholders. It might also
+be noted in passing that permitting the two I's in (24) to take on different values provides a
+simple method for introducing underwriting expenses into the analysis.
+290
+THE AMERICAN ECONOMIC REVIEW
+the earning power of its assets). If the cash is distributed as a dividend
+to the stockholders their wealth Wo, after the distribution will be:
+XO
+(25)
+Wo = So + I =
+- Do + I
+Pk
+where Xo represents the expected return from the assets exclusive of the
+amount I in question. If however the funds are retained by the company
+and used to finance new assets whose expected rate of return is p*, then
+the stockholders' wealth would become:
+Xo + P*I
+p*S
+(26)
+WI = S1 =
+-Do
+= So +
+-
+Pk
+PIC
+Clearly Wi-Wo as p*<pk
+so that an investment financed by retained
+earnings raises the net worth of the owners if and only if p* > Pk.49
+Consider finally, the case of common-stock financing. Let Po denote
+the current market price per share of stock and assume, for simplicity,
+that this price reflects currently expected earnings only, that is, it does
+not reflect any future increase in earnings as a result of the investment
+under consideration.50 Then if N is the original number of shares, the
+price per share is:
+(27)
+Po = SO/N
+and the number of new shares, M, needed to finance an investment of I
+dollars is given by:
+(28)
+M
+PO
+As a result of the investment the market value of the stock becomes:
+XO + P*I
+p*I
+p*I
+Si -
+- Do = So +
+-NPo +
+-
+pk
+Pk
+Pk
+and the price per share:
+(29)
+p
+S
+1
+[NPo +
+-
+N + M
+N + M
+PC
+c
+49 The conclusion that pk is the cut-off point for investments financed from internal funds
+applies not only to undistributed net profits, but to depreciation allowances (and even to the
+funds represented by the current sale value of any asset or collection of assets). Since the
+owners can earn Pk by investing funds elsewhere in the class, partial or total liquidating distri-
+butions should be made whenever the firm cannot achieve a marginal internal rate of return
+equal to pk.
+60 If we assumed that the market price of the stock did reflect the expected higher future
+earnings (as would be the case if our original set of assumptions above were strictly followed)
+the analysis would differ slightly in detail, but not in essentials. The cut-off point for new in-
+vestment would still be pk, but where p*>pk the gain to the original owners would be larger
+than if the stock price were based on the pre-investment expectations only.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+291
+Since by equation (28), 1 = MPo, we can add MPO and subtract I from
+the quantity in bracket, obtaining:
+P1
+N+
+L
+)
+Pkc1
+Pi-
+[(N7 + M)PO +-I
+(30)
+1
+*Pf
+=Po + N -
+P
+I > Po if7
+and only if, p*>pk.
+Thus an investment financed by common stock is advantageous to the
+current stockholders if and only if its yield exceeds the capitalization
+rate Pk-
+Once again a numerical example may help to illustrate the result and
+make it clear why the relevant cut-off rate is Pk and not the current yield
+on common stock, i. Suppose that Pk iS 10 per cent, r is 4 per cent, that
+the original expected income of our company is 1,000 and that manage-
+ment has the opportunity of investing 100 having an expected yield of
+12 per cent. If the original capital structure is 50 per cent debt and 50
+per cent equity, and 1,000 shares of stock are initially outstanding,
+then, by Proposition I, the market value of the common stock must be
+5,000 or 5 per share. Furthermore, since the interest bill is .04X5,000
+= 200, the yield on common stock is 800/5,000=16 per cent. It may
+then appear that financing the additional investment of 100 by issuing
+20 shares to outsiders at 5 per share would dilute the equity of the origi-
+nal owners since the 100 promises to yield 12 per cent whereas the com-
+mon stock is currently yielding 16 per cent. Actually, however, the
+income of the company would rise to 1,012; the value of the firm to
+10,120; and the value of the common stock to 5,120. Since there are
+now 1,020 shares, each would be worth 5.02 and the wealth of the origi-
+nal stockholders would thus have been increased. What has happened
+is that the dilution in expected earnings per share (from .80 to .796) has
+been more than offset, in its effect upon the market price of the shares,
+by the decrease in leverage.
+Our conclusion is, once again, at variance with conventional views,5'
+so much so as to be easily misinterpreted. Read hastily, Proposition III
+seems to imply that the capital structure of a firm is a matter of indiffer-
+ence; and that, consequently, one of the core problems of corporate
+finance-the problem of the optimal capital structure for a firm-is no
+problem at all. It may be helpful, therefore, to clear up such possible
+misundertandings.
+51 In the matter of investment policy under uncertainty there is no single position which
+represents "accepted" doctrine. For a sample of current formulationis, all very different from
+ours, see Joel Dean [2, esp. Ch. 3], M. Gordon and E. Shapiro [51, and Harry Roberts [171.
+292
+THE AMERICAN ECONOMIC REVIEW
+B. Proposition III and Financial Planning by Firms
+Misinterpretation of the scope of Proposition III can be avoided by
+remembering that this Proposition tells us only that the type of instru-
+ment used to finance an investment is irrelevant to the question of
+whether or not the investment is worth while. This does not mean that
+the owners (or the managers) have no grounds whatever for preferring
+one financing plan to another; or that there are no other policy or tech-
+nical issues in finance at the level of the firm.
+That grounds for preferring one type of financial structure to another
+will still exist within the framework of our model can readily be seen
+for the case of common-stock financing. In general, except for some-
+thing like a widely publicized oil-strike, we would expect the market to
+place very heavy weight on current and recent past earnings in forming
+expectations as to future returns. Hence, if the owners of a firm dis-
+covered a major investment opportunity which they felt would yield
+much more than Pk, they might well prefer not to finance it via common
+stock at the then ruling price, because this price may fail to capitalize
+the new venture. A better course would be a pre-emptive issue of stock
+(and in this connection it should be remembered that stockholders are
+free to borrow and buy). Another possibility would be to finance the
+project initially with debt. Once the project had reflected itself in in-
+creased actual earnings, the debt could be retired either with an equity
+issue at much better prices or through retained earnings. Still another
+possibility along the same lines might be to combine the two steps by
+mneans of a convertible debenture or preferred stock, perhaps with a
+progressively declining conversion rate. Even such a double-stage
+financing plan may possibly be regarded as yielding too large a share
+to outsiders since the new stockholders are, in effect, being given an
+interest in any similar opportunities the firm may discover in the future.
+If there is a reasonable prospect that even larger opportunities may arise
+in the near future and if there is some danger that borrowing now would
+preclude more borrowing later, the owners might find their interests
+best protected by splitting off the current opportunity into a separate
+subsidiary with independent financing. Clearly the problems involved
+in making the crucial estimates and in planning the optimal financial
+strategy are by no means trivial, even though they should have no bear-
+ing on the basic decision to invest (as long as p*>pkP).52
+Another reason why the alternatives in financial plans may not be a
+matter of indifference arises from the fact that managers are concerned
+62 Nor can w e rule out the possibility that the existing owners, if unable to use a financing
+plan which protects their interest, may actually prefer to pass Up an otherwise profitable ven-
+ture rather than give outsiders an "excessive" share of the business. It is presumably in situa-
+tions of this kind that we could justifiably speak of a shortage of "equity capital," though this
+kind of market imperfection is likely to be of significance only for small or new firms.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+293
+with more than simply furthering the interest of the owners. Such other
+objectives of the management-which need not be necessarily in con-
+flict with those of the owners-are much more likely to be served by
+some types of financing arrangements than others. In many forms of
+borrowing agreements, for example, creditors are able to stipulate terms
+which the current management may regard as infringing on its preroga-
+tives or restricting its freedom to maneuver. The creditors might even
+be able to insist on having a direct voice in the formation of policy.53 To
+the extent, therefore, that financial policies have these implications for
+the management of the firm, something like the utility approach de-
+scribed in the introductory section becomes relevant to financial (as
+opposed to investment) decision-making. It is, however, the utility func-
+tions of the managers per se and not of the owners that are now in-
+volved.14
+In summary, many of the specific considerations which bulk so large
+in traditional discussions of corporate finance can readily be superim-
+posed on our simple framework without forcing any drastic (and cer-
+tainly no systematic) alteration of the conclusion which is our principal
+concern, namely that for investment decisions, the marginal cost of
+capital is Pk.
+C. TUhe Effect of the Corporate Income T'ax on Investment Decisions
+In Section I it was shown that when an unintegrated corporate inconme
+tax is introduced, the original version of our Proposition I,
+X/V
+=
+Pk = a constant
+must be rewritten as:
+(X-rD)(l-T)+rD
+X7
+(11)
+Pk=
+a constant.
+V
+V
+Throughout Section I we found it convenient to refer to XlV
+as the
+cost of capital. The appropriate measure of the cost of capital relevant
+Similar considerations are involved in the matter of dividend policy. Even though the
+stockholders may be indifferent as to payout policy as long as investment policy is optimal,
+the management need not be so. Retained earnings involve far fewer threats to control than
+any of the alternative sources of funds and, of course, involve no underwriting expense or risk.
+But against these advantages management must balance the fact that sharp changes in divi-
+dend rates, which heavy reliance on retained earnings might imply, may give the impression
+that a firm's finances are being poorly managed, with consequent threats to the control and
+professional standing of the management.
+54 In principle, at least, this introduction of management's risk preferences with respect to
+financing methods would do much to reconcile the apparent conflict between Proposition Ill
+and such empirical findings as those of Modigliani and Zeman [141 on the close relation between
+interest rates and the ratio of new debt to new equity issues; or of John Lintner [121 on the
+considerable stability in target and actual dividend-payout ratios.
+294
+THE AMERICAN ECONOMIC
+REVIEW
+to investment decisions, however, is the ratio of the expected return
+before taxes to the market value, i.e., X/V. From (11) above we find:
+(31)
+-
+- Tr(D/V)
+-
+Pk_
+[
+TrD]
+V
+1 - 7r
+I
+-_
+_
+Pk'V
+which shows that the cost of capital now depends on the debt ratio,
+decreasing, as D/V rises, at the constant rate rr/(1 -T).5 Thus, with
+a corporate income tax under which interest is a deductible expense,
+gains can accrue to stockholders from having debt in the capital struc-
+ture, even when capital marKets are perfect. The gains however are
+small, as can be seen from (31), and as will be shown more explicitly
+below.
+From (31) we can develop the tax-adjusted counterpart of Proposi-
+tion III by interpreting the term DIV in that equation as the proportion
+of debt used in any additional financing of V dollars. For example, in
+the case where the financing is entirely by new common stock, D=0
+and the required rate of return pkS on a venture so financed becomes:
+(32)
+PkS
+Pk
+For the other extreme of pure debt financing D= V and the required
+rate of return, pkD, becomes:
+Pk
+r
+l
+F
+rl
+(33\
+Pk D =
+[
+p
+=
+PkT
+-
+_
+r._
+1 - '
+Pk7
+JL
+PkC r
+For investments financed out of retained earnings, the problem of defin-
+ing the required rate of return is more difficult since it involves a com-
+parison of the tax consequences to the individual stockholder of receiv-
+ing a dividend versus having a capital gain. Depending on the time of
+realization, a capital gain produced by retained earnings may be taxed
+either at ordinary income tax rates, 50 per cent of these rates, 25 per
+56 Equation (31) is amenable, in principle, to statistical tests similar to those described in
+Section I.E. However we have not made any systematic attempt to carry out such tests so far,
+because neither the Allen nor the Smith study provides the required information. Actually,
+Smith's data included a very crude estimate of tax liability, and, using this estimate, we did in
+fact obtain a negative relation between X/V and DIV. However, the correlation (-.28) turned
+out to be significant only at about the 10 per cent level. While this result is not conclusive, it
+should be remembered that, according to our theory, the slope of the regression equation should
+be in any event quite smiall. In fact, with a value of r in the order of .5, and values of pkJ and
+r in the order of 8.5 and 3.5 per cent respectively (cf. Section I.E) an increase in DIV from
+0 to 60 per cent (which is, approximately, the range of variation of this variable in the sample)
+should tend to reduce the average cost of capital only from about 17 to about 15 per cent.
+56 This conclusion does not extend to preferred stocks even though they have been classed
+with debt issues previously. Since preferred dividends except for a portion of those of public
+utilities are not in general deductible from the corporate tax, the cut-off point for new financing
+via preferred stock is exactly the same as that for common stock.
+MODIGLIANI AND MILLER: THEORY OF INVESTMENT
+295
+cent, or zero, if held till death. The rate on any dividends received in the
+event of a distribution will also be a variable depending on the amount
+of other income received by the stockholder, and with the added com-
+plications introduced by the current dividend-credit provisions. If we
+assume that the managers proceed on the basis of reasonable estimates
+as to the average values of the relevant tax rates for the owners, then
+the required return for retained earnings PkR can be shown to be:
+1
+1i- Td
+l-Td
+(34)
+PkR _ Pkt
+Pk
+where Td is the assumed rate of personal income tax on dividends and
+Ir is the assumed rate of tax on capital gains.
+A numerical illustration may perhaps be helpful in clarifying the rela-
+tionship betwveen these required rates of return. If we take the following
+round numbers as representative
+order-of-magnitude values under
+present conditions: an after-tax capitalization rate Pkr of 10 per cent, a
+rate of interest on bonds of 4 per cent, a corporate tax rate of 50 per cent,
+a marginal personal income tax rate on dividends of 40 per cent (cor-
+responding to an income of about $25,000 on a joint return), and a capi-
+tal gains rate of 20 per cent (one-half the marginal rate on dividends),
+then the required rates of return would be: (1) 20 per cent for invest-
+ments financed entirely by issuance of new common shares; (2) 16 per
+cent for investments financed entirely by new debt; and (3) 15 per cent
+for investments financed wholly from internal funds.
+These results would seem to have considerable significance for current
+discussions of the effect of the corporate income tax on financial policy
+and on investment. Although we cannot explore the implications of the
+results in any detail here, we should at least like to call attention to the
+remarkably small difference between the "cost" of equity funds and
+debt funds. With the numerical values assumed, equity money turned
+out to be only 25 per cent more expensive than debt money, rather than
+something on the order of 5 times as expensive as is commonly supposed
+to be the case.57 The reason for the wide difference is that the traditional
+57 See e.g.. D. T. Smith [18]. It should also be pointed out that our tax system acts in other
+ways to reduce the gains from debt financing. Heavy reliance on debt in the capital structure,
+for example, commits a company to paying out a substantial proportion of its income in the
+form of interest payments taxable to the owners under the personal income tax. A debt-free
+company, bv contrast, can reinvest in the business all of its (smaller) net income and to this
+extent subject the owners only to the low capital gains rate (or possibly no tax at all by virtue
+of the loophole at death). Thus, we should expect a high degree of leverage to be of value to
+the owners, even in the case of closely held corporations, primarily in cases where their firm
+was not expected to have much need for additional funds to expand assets and earnings in the
+future. To the extent that opportunities for growth were available, as they presumably would
+be for most successful corporations, the interest of the stockholders would tend to be better
+served by a structure which permitted maximum use of retained earnings.
+296
+THE AMERICAN ECONOMIC REVIEW
+view starts from the position that debt funds are several times cheaper
+than equity funds even in the absence of taxes, with taxes serving sim-
+ply to magnify the cost ratio in proportion to the corporate rate. By
+contrast, in our model in which the repercussions of debt financing on
+the value of shares are taken into account, the only difference in cost is
+that due to the tax effect, and its magnitude is simply the tax on the
+"grossed up" interest payment. Not only is this magnitude likely to be
+small but our analysis yields the further paradoxical implicationi that
+the stockholders' gain from, and hence incentive to use, debt financing is
+actually smaller the lower the rate of interest. In the extreme case
+where the firm could borrow for practically nothing, the advantage of
+debt financing would also be practically nothing.
+III. Conclusion
+With the development of Proposition III the main objectives we out-
+lined in our introductory discussion have been reached. We have in our
+Propositions I and II at least the foundations of a theory of the valua-
+tion of firms and shares in a world of uncertainty. We have shown,
+moreover, how this theory can lead to an operational definition of the
+cost of capital and how that concept can be used in turn as a basis for
+rational investment decision-making within the firm. Needless to say,
+however, much remains to be done before the cost of capital can be
+put away on the shelf among the solved problems. Our approach has
+been that of static, partial equilibrium analysis. It has assumed among
+other things a state of atomistic competition in the capital markets and
+an ease of access to those markets which only a relatively small (though
+important) group of firms even come close to possessing. These and
+other drastic simplifications have been necessary in order to come to
+grips with the problem at all. Having served their purpose they can now
+be relaxed in the direction of greater realism and relevance, a task in
+which we hope others interested in this area will wish to share.
+REFERENCES
+1. F. B. ALTLEN, "Does Going into Debt Lower the 'Cost of Capital'?,"
+A nalysts Jour., Aug. 1954, 10, 57-61.
+2. J. DEAN, Capital Budgeting. New York 1951.
+3. D. DURAND, "Costs of Debt and Equity Funds for Business: Trends
+and Problems of Measurement" in Nat. Bur. Econ. Research, Confer-
+ence on Research in Business Finance. New York 1952, pp. 215-47.
+4. W. J. EITEMAN, "Financial Aspects of Promotion," in Essays on Busi-
+ness Finance by M. W. Waterford and W. J. Eiteman. Ann Arbor,
+Mich. 1952, pp. 1-17.
+5. M. J. GORDON and E. SHAPIRO, "Capital Equipment Analysis: The
+Requfired Rate of Profit," Manag. Sci., Oct. 1956, 3, 102-10.
+MODIGLIANI AND MILLER: THEORY OF liNVESTMENT
+297
+6. B. GRAHAM and L. DODD, Security Analysis, 3rd ed. New York 1951.
+7. G. GUTHMANN and H. E. DOUGALL, Corporate Financial Policy, 3rd ed.
+New York 1955.
+8. J. R. HICKS, Value and Capital, 2nd ed. Oxford 1946.
+9. P.
+UIUNT and M. WILLIAMS, Case Problems in Finance, rev. ed. Home-
+wood, Ill. 1954.
+10. J. M. KEYNES, The Genzeral Theory of Employment, Interest and Money.
+New York 1936.
+11. 0. LANGE, Price Flexibility and Employment. Bloomington, Ind. 1944.
+12. J. LINTNER, "Distribution of Incomes of Corporations among Divi-
+dends, Retained Earnings and Taxes," Am.. Econ. Rev., Mfay 1956, 46,
+97-113.
+13. F. LUTZ and V". LUTZ, The Theory of Investment of the Firm. Princeton
+1951.
+14. F. MODIGLIANI and M. ZEMAN, "The Effect of the Availability of
+Funds, and the Terms Thereof, on Business Investment" in Nat. Bur.
+Econ. Research, Conference on Research in Business Finance. New
+York 1952, pp. 263-309.
+15. WV. A. MORTON, "The Structure of the Capital Market and the Price of
+Money," Am. Econ. Rev., May 1954, 44, 440-54.
+16. S. M. ROBBINS, Managing Securities. Boston 1954.
+17. H. V. ROBERTS, "Current Problems in the Economics of Capital Bud-
+geting," Jour. Bus., 1957, 30 (1), 12-16.
+18. D. T. SMITH, Effects of Taxation on Corporate Finiancial Policy. Boston
+1952.
+19. R. SMITH, "Cost of Capital in the Oil Industry," (hectograph). Pitts-
+burgh: Carnegie Inst. Tech. 1955.
+20. H. M. SOMERS, " 'Cost of MAoney' as the Determinant of Public Utility
+Rates," Buffalo Law Rev., Spring 1955, 4, 1-28.
+21. J. B. WILLIAMS, The Theory of Investment Value. Cambridge, Mass.
+1938.
+22. U. S. Federal Communicatiolns Commission, The Problem of the "Rate
+of Return" in Public Utility Regulation. Washington 1938.

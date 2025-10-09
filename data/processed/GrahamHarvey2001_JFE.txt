@@ -1,0 +1,5303 @@
+Journal of Financial Economics 60 (2001) 187}243
+The theory and practice of corporate "nance:
+evidence from the "eld
+John R. Graham, Campbell R. Harvey*
+Fuqua School of Business, Duke University, Durham, NC 27708, USA
+National Bureau of Economic Research, Cambridge, MA 02912, USA
+Received 2 August 1999; received in revised form 10 December 1999
+Abstract
+We survey 392 CFOs about the cost of capital, capital budgeting, and capital structure.
+Large "rms rely heavily on present value techniques and the capital asset pricing model,
+while small "rms are relatively likely to use the payback criterion. A surprising number of
+"rms use "rm risk rather than project risk in evaluating new investments. Firms are
+concerned about "nancial #exibility and credit ratings when issuing debt, and earnings
+We thank Franklin Allen for his detailed comments on the survey instrument and the overall
+project. We appreciate the input of Chris Allen, J.B. Heaton, Craig Lewis, Cli! Smith, Jeremy Stein,
+Robert Taggart, and Sheridan Titman on the survey questions and design. We received expert
+survey advice from Lisa Abendroth, John Lynch, and Greg Stewart. We thank Carol Bass, Frank
+Ryan, and Fuqua MBA students for help in gathering the data, and Kathy Benton, Steve Fink, Anne
+Higgs, Ken Rona, and Ge Zhang for computer assistance. The paper has bene"ted from comments
+made by an anonymous referee, the editor (Bill Schwert), as well as Michael Bradley, Alon Brav,
+Susan Chaplinsky, Magnus Dahlquist, Gene Fama, Paul Gompers, Ravi Jagannathan, Tim Opler,
+Todd Pulvino, Nathalie Rossiensky, Rick Ruback, David Smith, ReneH Stulz, and seminar partici-
+pants at the Harvard Business School/Journal of Financial Economics Conference on the interplay
+between theoretical, empirical, and "eld research in "nance, the 2000 Utah Winter Finance
+Conference, the University of Wisconsin and the 2001 American Finance Association Meetings.
+Finally, we thank the executives who took the time to "ll out the survey. This research is partially
+sponsored by the Financial Executives Institute (FEI). The opinions expressed in the paper do not
+necessarily represent the views of FEI. Graham acknowledges "nancial support from the Alfred P.
+Sloan
+Research
+Foundation.
+Some
+supplementary
+research
+results
+are
+available
+at
+http://www.duke.edu/&charvey/Research/indexr.htm.
+* Corresponding author. Fuqua School of Business, Duke University, Durham, NC 27708, USA.
+Tel.: #1-919-660-7768; fax: #1-919-660-7971.
+E-mail address: cam.harvey@duke.edu (C.R. Harvey).
+0304-405X/00/$- see front matter  2001 Published by Elsevier Science S.A.
+PII: S 0 3 0 4 - 4 0 5 X ( 0 1 ) 0 0 0 4 4 - 7
+ See, for example, Lintner (1956), Gitman and Forrester (1977), Moore and Reichert (1983),
+Stanley and Block (1984), Baker et al. (1985), Pinegar and Wilbricht (1989), Wansley et al. (1989),
+Sangster (1993), Donaldson (1994), Epps and Mitchem (1994), Poterba and Summers (1995),
+Billingsley and Smith (1996), Shao and Shao (1996), Bodnar et al. (1998), Bruner et al. (1998) and
+Block (1999).
+per share dilution and recent stock price appreciation when issuing equity. We "nd some
+support for the pecking-order and trade-o! capital structure hypotheses but little
+evidence that executives are concerned about asset substitution, asymmetric information,
+transactions costs, free cash #ows, or personal taxes.  2001 Published by Elsevier
+Science S.A.
+JEL classixcation: G31; G32; G12
+Keywords: Capital structure; Cost of capital; Cost of equity; Capital budgeting; Discount
+rates; Project valuation; Survey
+1. Introduction
+In this paper, we conduct a comprehensive survey that describes the current
+practice of corporate "nance. Perhaps the best-known "eld study in this area is
+John Lintner's (1956) path-breaking analysis of dividend policy. The results of
+that study are still quoted today and have deeply a!ected the way that dividend
+policy research is conducted. In many respects, our goals are similar to Lin-
+tner's. We hope that researchers will use our results to develop new theories
+} and potentially modify or abandon existing views. We also hope that practi-
+tioners will learn from our analysis by noting how other "rms operate and by
+identifying areas where academic recommendations have not been fully imple-
+mented.
+Our survey di!ers from previous surveys in a number of dimensions. First,
+the scope of our survey is broad. We examine capital budgeting, cost of capital,
+and capital structure. This allows us to link responses across areas. For example,
+we investigate whether "rms that consider "nancial #exibility to be a capital
+structure priority are also likely to value real options in capital budgeting
+decisions. We explore each category in depth, asking more than 100 total
+questions.
+Second, we sample a large cross-section of approximately 4,440 "rms. In total,
+392 chief "nancial o$cers responded to the survey, for a response rate of 9%.
+The next largest survey that we know of is Moore and Reichert (1983) who study
+298 large "rms. We investigate for possible nonresponse bias and conclude that
+our sample is representative of the population.
+188
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Third, we analyze the responses conditional on "rm characteristics. We
+examine the relation between the executives' responses and "rm size, P/E ratio,
+leverage, credit rating, dividend policy, industry, management ownership, CEO
+age, CEO tenure, and the education of the CEO. By testing whether responses
+di!er across these characteristics, we shed light on the implications of various
+corporate "nance theories related to "rm size, risk, investment opportunities,
+transaction costs, informational asymmetry, and managerial incentives. This
+analysis allows for a deeper investigation of corporate "nance theories. For
+example, we go beyond asking whether "rms follow a "nancial pecking order
+(Myers and Majluf, 1984). We investigate whether the "rms that most strongly
+support the implications of the pecking-order theory are also the "rms most
+a!ected by informational asymmetries, as suggested by the theory.
+Survey-based analysis complements other research based on large samples
+and clinical studies. Large sample studies are the most common type of empiri-
+cal analysis, and have several advantages over other approaches. Most large-
+sample studies o!er, among other things, statistical power and cross-sectional
+variation. However, large-sample studies often have weaknesses related to
+variable speci"cation and the inability to ask qualitative questions. Clinical
+studies are less common but o!er excellent detail and are unlikely to `average
+awaya unique aspects of corporate behavior. However, clinical studies use small
+samples and their results are often sample-speci"c.
+The survey approach o!ers a balance between large sample analyses and
+clinical studies. Our survey analysis is based on a moderately large sample and
+a broad cross-section of "rms. At the same time, we are able to ask very speci"c
+and qualitative questions. The survey approach is not without potential prob-
+lems, however. Surveys measure beliefs and not necessarily actions. Survey
+analysis faces the risk that the respondents are not representative of the popula-
+tion of "rms, or that the survey questions are misunderstood. Overall, survey
+analysis is seldom used in corporate "nancial research, so we feel that our paper
+provides unique information to aid our understanding of how "rms operate.
+The results of our survey are both reassuring and surprising. On one hand,
+most "rms use present value techniques to evaluate new projects. On the other
+hand, a large number of "rms use company-wide discount rates to evaluate these
+projects rather than a project-speci"c discount rate. Interestingly, the survey
+indicates that "rm size signi"cantly a!ects the practice of corporate "nance. For
+example, large "rms are signi"cantly more likely to use net present value
+techniques and the capital asset pricing model for project evaluation than are
+small "rms, while small "rms are more likely to use the payback criterion.
+A majority of large "rms have a tight or somewhat tight target debt ratio, in
+contrast to only one-third of small "rms.
+Executives rely heavily on practical, informal rules when choosing capital
+structure. The most important factors a!ecting debt policy are "nancial #exibil-
+ity and a good credit rating. When issuing equity, respondents are concerned
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+189
+about earnings per share dilution and recent stock price appreciation. We "nd
+very little evidence that executives are concerned about asset substitution,
+asymmetric information, transactions costs, free cash #ows, or personal taxes.
+We acknowledge but do not investigate the possibility that these deeper implica-
+tions are, for example, impounded into prices and credit ratings, and so execu-
+tives react to them indirectly.
+The paper is organized as follows. In the second section, we present the survey
+design, the sampling methodology, and discuss some caveats of survey research.
+In the third section we study capital budgeting. We analyze the cost of capital in
+the fourth section. In the "fth section we examine capital structure. We o!er
+some concluding remarks in the "nal section.
+2. Methodology
+2.1. Design
+Our survey focuses on three areas: capital budgeting, cost of capital, and
+capital structure. Based on a careful review of the existing literature, we de-
+veloped a draft survey that was circulated to a group of prominent academics for
+feedback. We incorporated their suggestions and revised the survey. We then
+sought the advice of marketing research experts on the survey design and
+execution. We made changes to the format of the questions and overall survey
+design with the goal of minimizing biases induced by the questionnaire and
+maximizing the response rate.
+The survey project is a joint e!ort with the Financial Executives Institute
+(FEI). FEI has approximately 14,000 members that hold policy-making posi-
+tions as CFOs, treasurers, and controllers at 8,000 companies throughout the
+U.S. and Canada. Every quarter, Duke University and the FEI poll these
+"nancial o$cers with a one-page survey on important topical issues (Graham,
+1999b). The usual response rate for the quarterly survey is 8}10%.
+Using the penultimate version of the survey, we conducted beta tests at both
+FEI and Duke University. This involved having graduating MBA students and
+"nancial executives "ll out the survey, note the required time, and provide
+feedback. Our beta testers took, on average, 17 minutes to complete the survey.
+Based on this and other feedback, we made "nal changes to the wording on
+some questions. The "nal version of the survey contained 15 questions, most
+with subparts, and was three pages long. One section collected demographic
+information about the sample "rms.
+The
+survey
+instrument
+appears
+on
+the
+Internet
+at
+the
+address
+http://www.duke.edu/&charvey/Research/indexr.htm. We sent out two di!er-
+ent versions with questions 11}14 and questions 1}4 interchanged. We were
+concerned that the respondents might "ll in the "rst page or two of the survey
+190
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+but leave the last page blank. If this were the case, we would expect to see
+a higher proportion of respondents answering the questions that appear at the
+beginning of either version of the survey. We "nd no evidence that the response
+rate di!ers depending on whether the questions are at beginning or the end of
+the survey.
+2.2. Delivery and response
+We used two mechanisms to deliver the survey. We sent a mailing from Duke
+University on February 10, 1999 to each CFO in the 1998 Fortune 500 list.
+Independently, the FEI faxed out 4,440 surveys to their member "rms on
+February 16, 1999. Three hundred thirteen of the Fortune 500 CFOs belong to
+the FEI, so these "rms received both a fax and a mailed version. We requested
+that the surveys be returned by February 23, 1999. To encourage the executives
+to respond, we o!ered an advanced copy of the results to interested parties.
+We employed a team of 10 MBA students to follow up on the mailing to the
+Fortune 500 "rms with a phone call and possible faxing of a second copy of the
+survey. On February 23, FEI refaxed the survey to the 4,440 FEI corporations
+and we remailed the survey to the Fortune 500 "rms, with a new due date of
+February 26, 1999. This second stage was planned in advance and designed to
+maximize the response rate.
+The executives returned their completed surveys by fax to a third-party data
+vendor. Using a third party ensures that the survey responses are anonymous.
+We feel that anonymity is important to obtain frank answers to some of the
+questions. Although we do not know the identity of the survey respondents, we
+do know a number of "rm-speci"c characteristics, as discussed below.
+Three hundred ninety-two completed surveys were returned, for a response
+rate of nearly 9%. Given the length (three pages) and depth (over 100 questions)
+of our survey, this response rate compares favorably to the response rate for the
+quarterly FEI-Duke survey.The rate is also comparable to other recent aca-
+demic surveys. For example, Trahan and Gitman (1995) obtain a 12% response
+rate in a survey mailed to 700 CFOs. The response rate is higher (34%) in Block
+(1999), but he targets Chartered Financial Analysts - not senior o$cers of
+particular "rms.
+2.3. Summary statistics and data issues
+Fig. 1 presents summary information about the "rms in our sample. The
+companies range from very small (26% of the sample "rms have sales of less
+than $100 million) to very large (42% have sales of at least $1 billion) (see Fig.
+1A). In subsequent analysis, we refer to "rms with revenues greater than $1
+billion as `largea. Forty percent of the "rms are manufacturers (Fig. 1C). The
+nonmanufacturing "rms are evenly spread across other industries, including
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+191
+Fig. 1. Sample characterstics based on the survey respponses of 392 CFOs.
+"nancial (15%), transportation and energy (13%), retail and wholesale sales
+(11%), and high-tech (9%). In the appendix, we show that the responding "rms
+are representative of the corporate population for size, industry, and other
+characteristics.
+The median price}earnings ratio is 15. Sixty percent of the respondents have
+price}earnings ratios of 15 or greater (Fig. 1D). We refer to these "rms as growth
+192
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Fig. 1. (continued).
+"rms when we analyze how investment opportunities a!ect corporate behavior.
+We refer to the remaining 40% of the respondents as nongrowth "rms.
+The distribution of debt levels is fairly uniform (Fig. 1E). Approximately
+one-third of the sample "rms have debt-to-asset ratios below 20%, another third
+have debt ratios between 20% and 40%, and the remaining "rms have debt
+ratios greater than 40%. We refer to "rms with debt ratios greater than 30% as
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+193
+highly levered. The creditworthiness of the sample is also dispersed (Fig. 1F).
+Twenty percent of the companies have credit ratings of AA or AAA, 32% have
+an A credit rating, and 27% have a BBB rating. The remaining 21% have
+speculative debt with ratings of BB or lower.
+Though our survey respondents are CFOs, we ask a number of questions
+about the characteristics of the chief executive o$cers. We assume that the
+CFOs act as agents for the CEOs. Nearly half of the CEOs for the responding
+"rms are between 50 and 59 years old (Fig. 1I). Another 23% are over age 59,
+a group we refer to as `mature.a Twenty-eight percent of the CEOs are between
+the ages of 40 and 49. The survey reveals that executives change jobs frequently.
+Nearly 40% of the CEOs have been in their jobs less than four years, and
+another 26% have been in their jobs between four and nine years (Fig. 1J). We
+de"ne the 34% who have been in their jobs longer than nine years as having
+`long tenurea. Forty-one percent of the CEOs have an undergraduate degree as
+their highest level of educational attainment (Fig. 1K). Another 38% have an
+MBA and 8% have a non-MBA masters degree. Finally, the top three executives
+own at least 5% of the common stock of their "rm in 44% of the sample. These
+CEO characteristics allow us to examine whether managerial incentives or
+entrenchment a!ect the survey responses. We also study whether having an
+MBA a!ects the choices made by corporate executives.
+Fig. 1M shows that 36% of the sample "rms seriously considered issuing
+common equity, 20% considered issuing convertible debt, and 31% thought
+about issuing debt in foreign markets. Among responding "rms, 64% calculate
+the cost of equity, 63% have publicly traded common stock, 53% issue divi-
+dends, and 7% are regulated utilities (Fig. 1N). If issuing dividends is an
+indication of a reduced informational disadvantage for investors relative to
+managers (Sharpe and Nguyen, 1995), the dividend issuance dichotomy allows
+us to examine whether the data support corporate theories based on informa-
+tional asymmetry.
+Table 1 presents correlations for the demographic variables. Not surprisingly,
+small companies have lower credit ratings, a higher proportion of management
+ownership, a lower incidence of paying dividends, a higher chance of being
+privately owned, and a lower proportion of foreign revenue. Growth "rms are
+likely to be small, have lower credit ratings, and have a higher degree of
+management ownership. Firms that do not pay dividends have low credit
+ratings.
+Below, we perform univariate analyses on the survey responses conditional on
+each separate "rm characteristic. However, because size is correlated with
+a number of di!erent factors, we perform a robustness check for the nonsize
+characteristics. We split the sample into large "rms versus small "rms. On each
+size subsample, we repeat the analysis of the responses conditional on "rm
+characteristics other than size. We generally only report the "ndings with
+respect to nonsize characteristics if they hold on the full sample and the two size
+194
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+195
+subsamples. We also perform a separate robustness check relative to public
+versus private "rms and only report the characteristic-based results if they hold
+for the full and public samples. The tables contain the full set of results, including
+those that do not pass these robustness checks.
+All in all, the variation in executive and "rm characteristics permits a rich
+description of the practice of corporate "nance, and allows us to infer whether
+corporate actions are consistent with academic theories. We show in the appen-
+dix that our sample is representative of the population from which it was drawn,
+fairly representative of Compustat "rms, and not adversely a!ected by non-
+response bias.
+3. Capital budgeting methods
+3.1. Design
+This section studies how "rms evaluate projects. Previous surveys mainly
+focus on large "rms and suggest that internal rate of return (IRR) is the primary
+method for evaluation. For example, Gitman and Forrester (1977), in their
+survey of 103 large "rms, "nd that only 9.8% of "rms use net present value as
+their primary method and 53.6% report IRR as primary method. Stanley and
+Block (1984) "nd that 65% of respondents report IRR as their primary capital
+budgeting technique. Moore and Reichert (1983) survey 298 Fortune 500 "rms
+and "nd that 86% use some type of discounted cash #ow analysis. Bierman
+(1993) "nds that 73 of 74 Fortune 100 "rms use some type of discounted cash
+#ow analysis. These results are similar to the "ndings in Trahan and Gitman
+(1995), who survey 84 Fortune 500 and Forbes 200 best small companies, and
+Bruner et al. (1998), who interview 27 highly regarded corporations. (See
+http://www.duke.edu/&charvey/Research/indexr.htmfor a review of the capital
+budgeting literature.)
+Our survey di!ers from previous work in several ways. The most obvious
+di!erence is that previous work almost exclusively focuses on the largest "rms.
+Second, given that our sample is larger than all previous surveys, we are able to
+control for many di!erent "rm characteristics. Finally, we go beyond NPV
+versus IRR analysis and ask whether "rms use the following evaluation tech-
+niques: adjusted present value (see Brealey and Myers, 1996), payback period,
+discounted payback period, pro"tability index, and accounting rate of return.
+We also inquire whether "rms bypass discounting techniques and simply use
+earnings multiples. A price-earnings approach can be thought of as measuring
+the number of years it takes for the stock price to be paid for by earnings, and
+therefore can be interpreted as a version of the payback method. We are also
+interested in whether "rms use other types of analyses that are taught in many
+MBA programs, such as simulation analysis and value at risk (VaR). Finally, we
+196
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Fig. 2. Survey evidence on the popularity of di!erent capital budgeting methods. We report the
+percentage of CFOs who always or almost always use a particular technique. IRR represents
+internal rate of return, NPV is net present value, P/E is the price-to-earnings ratio, and APV is
+adjusted present value. The survey is based on the responses of 392 CFOs.
+are interested in the importance of real options in project evaluation (see Myers,
+1977).
+3.2. Results
+Respondents are asked to score how frequently they use the di!erent capital
+budgeting techniques on a scale of 0 to 4 (0 meaning `nevera, 4 meaning
+`alwaysa). In many respects, the results di!er from previous surveys, perhaps
+because we have a more diverse sample. An important caveat here, and through-
+out the survey, is that the responses represent beliefs. We have no way of
+verifying that the beliefs coincide with actions.
+Most respondents select net present value and internal rate of return as their
+most frequently used capital budgeting techniques (see Table 2); 74.9% of CFOs
+always or almost always (responses of 4 and 3) use net present value (rating of
+3.08); and 75.7% always or almost always use internal rate of return (rating of
+3.09). The hurdle rate is also popular. These results are summarized in Fig. 2.
+The most interesting results come from examining the responses conditional
+on "rm and executive characteristics. Large "rms are signi"cantly more likely to
+use NPV than small "rms (rating of 3.42 versus 2.83). There is no di!erence in
+techniques used by growth and nongrowth "rms. Highly levered "rms are
+signi"cantly more likely to use NPV and IRR than are "rms with small debt
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+197
+Table 2
+Survey responses to the question: how frequently does your "rm use the following techniques when deciding which projects or acquisitions to pursue?
+% always
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+own
+or almost
+always
+Mean
+Small
+Large
+Growth
+Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(b) Internal rate of return
+75.61
+3.09
+2.87
+3.41***
+3.36
+3.36
+2.85 3.36***
+3.52
+3.35
+3.43 2.68*** 3.19
+2.94**
+3.34
+2.85***
+(a) Net present value
+74.93
+3.08
+2.83
+3.42***
+3.30
+3.27
+2.84 3.39***
+3.47
+3.38
+3.35 2.76*** 3.23
+2.82*** 3.35
+2.77***
+(f) Payback period
+56.74
+2.53
+2.72
+2.25***
+2.55
+2.41
+2.58 2.46
+2.48
+2.36
+2.46 2.63
+2.68
+2.33*** 2.39
+2.70**
+(c) Hurdle rate
+56.94
+2.48
+2.13
+2.95***
+2.78
+2.87
+2.27 2.63**
+3.01
+2.92
+2.84 2.06*** 2.60
+2.29**
+2.70
+2.12***
+(j) Sensitivity analysis (e.g., `gooda vs.
+`faira vs. `bada)
+51.54
+2.31
+2.13
+2.56***
+2.35
+2.41
+2.10 2.56***
+2.60
+2.62
+2.42 2.17**
+2.35
+2.24
+2.37
+2.18
+(d) Earnings multiple approach
+38.92
+1.89
+1.79
+2.01*
+1.97
+2.11
+1.67 2.12***
+1.90
+2.22*
+1.88 1.88
+1.85
+2.00
+1.85
+2.04
+(g) Discounted payback period
+29.45
+1.56
+1.58
+1.55
+1.52
+1.67
+1.49 1.64
+1.84
+1.49*
+1.54 1.62
+1.61
+1.50
+1.49
+1.76*
+(l) We incorporate the `real optionsa of a
+project when evaluating it
+26.59
+1.47
+1.40
+1.57
+1.31
+1.55
+1.50 1.41
+1.34
+1.61
+1.37 1.52
+1.49
+1.45
+1.40
+1.52
+(i) Accounting rate of return (or book rate
+of return on assets)
+20.29
+1.34
+1.41
+1.25
+1.43
+1.19
+1.34 1.32
+1.22
+1.21
+1.40 1.27
+1.36
+1.34
+1.30
+1.44
+(k) Value-at-risk or other simulation analysis
+13.66
+0.95
+0.76
+1.22***
+0.84
+0.86
+0.78 1.10***
+1.09
+1.04
+1.04 0.82**
+0.95
+0.92
+0.95
+0.86
+(e) Adjusted present value
+10.78
+0.85
+0.93
+0.72*
+0.97
+0.69**
+0.87 0.80
+0.80
+0.79
+0.80 0.91
+0.78
+0.92
+0.79
+0.99*
+(h) Pro"tability index
+11.87
+0.83
+0.88
+0.75
+0.73
+0.81
+0.74 0.96*
+0.66
+0.67
+0.81 0.83
+0.90
+0.76
+0.81
+0.98
+198
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+% always
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or almost
+always
+Mean
+'59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(b) Internal rate of return
+75.61
+3.09
+3.21
+3.06
+2.97
+3.16*
+3.17
+3.03
+3.76 3.04***
+3.03
+3.18
+3.27
+2.77***
+3.31
+3.01**
+3.00 3.57***
+(a) Net present value
+74.93
+3.08
+3.08
+3.09
+2.90
+3.17**
+3.17
+3.00*
+3.50 3.07**
+2.99
+3.23** 3.24
+2.78***
+3.38
+2.95*** 2.97 3.60***
+(f) Payback period
+56.74
+2.53
+2.83
+2.43*** 2.80
+2.37***
+2.48
+2.55
+2.05 2.56**
+2.65
+2.43*
+2.45
+2.67*
+2.62
+2.49
+2.57 2.35
+(c) Hurdle rate
+56.94
+2.48
+2.88
+2.38*** 2.39
+2.51
+2.57
+2.42
+3.18 2.42**
+2.33
+2.64** 2.70
+2.10***
+2.56
+2.43
+2.30 3.28***
+(j) Sensitivity analysis (e.g., `gooda
+vs. `faira vs. `bada)
+51.54
+2.31
+2.20
+2.36
+2.20
+2.37
+2.41
+2.25
+3.14 2.26***
+2.24
+2.43
+2.37
+2.18
+2.36
+2.28
+2.22 2.76***
+(d) Earnings multiple approach
+38.92
+1.89
+2.25
+1.79**
+1.93
+1.86
+1.98
+1.86
+1.62 1.90
+1.85
+1.96
+2.08
+1.56***
+1.98
+1.84
+1.83 2.15*
+(g) Discounted payback period
+29.45
+1.56
+1.94
+1.48*** 1.72
+1.46*
+1.68
+1.49
+1.52 1.60
+1.57
+1.61
+1.56
+1.60
+1.62
+1.53
+1.51 1.84*
+(l) We incorporate the `real optionsa of
+a project when evaluating it
+26.59
+1.47
+1.68
+1.40*
+1.56
+1.36
+1.49
+1.39
+0.95 1.48*
+1.44
+1.46
+1.40
+1.59
+1.53
+1.43
+1.44 1.57
+(i) Accounting rate of return (or book
+rate of return on assets)
+20.29
+1.34
+1.49
+1.33
+1.39
+1.34
+1.42
+1.29
+1.76 1.30*
+1.30
+1.39
+1.31
+1.43
+1.27
+1.38
+1.36 1.26
+(k) Value-at-risk or other simulation analysis
+13.66
+0.95
+1.07
+0.90
+0.92
+0.93
+0.99
+0.88
+1.76 0.89*
+0.77
+1.12*** 0.89
+1.01
+0.90
+0.96
+0.86 1.36***
+(e) Adjusted present value
+10.78
+0.85
+1.18
+0.75*** 0.88
+0.80
+0.74
+0.91*
+0.67 0.86
+0.88
+0.81
+0.83
+0.90
+0.74
+0.89
+0.86 0.80
+(h) Pro"tability index
+11.87
+0.83
+0.87
+0.83
+0.95
+0.77*
+0.83
+0.85
+0.57 0.85
+0.75
+0.99** 0.76
+1.00**
+0.81
+0.83
+0.85 0.75
+Respondents are asked to rate on a scale of 0 (never) to 4 (always). We report the overall mean as well as the % of respondents that answered 3 (almost always) or 4 (always). ***, **, * denotes a signi"cant di!erence
+at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+199
+ratios. This is not just an artifact of "rm size. In unreported analysis, we "nd
+a signi"cant di!erence between high- and low-leverage small "rms as well as
+high- and low-leverage large "rms. Interestingly, highly levered "rms are also
+more likely to use sensitivity and simulation analysis. Perhaps because of
+regulatory requirements, utilities are more likely to use IRR and NPV and
+perform sensitivity and simulation analyses. We also "nd that CEOs with MBAs
+are more likely than non-MBA CEOs to use net present value, but the di!erence
+is only signi"cant at the 10% level.
+Firms that pay dividends are signi"cantly more likely to use NPV and IRR
+than are "rms that do not pay dividends. This result is also robust to our analysis by
+size. Public companies are signi"cantly more likely to use NPV and IRR than are
+private corporations. As the correlation analysis indicates in Table 1, many of these
+attributes are correlated. For example, private corporations are also smaller "rms.
+Other than NPV and IRR, the payback period is the most frequently used
+capital budgeting technique (rating of 2.53). This is surprising because "nancial
+textbooks have lamented the shortcomings of the payback criterion for decades.
+(Payback ignores the time value of money and cash #ows beyond the cuto! date;
+the cuto! is usually arbitrary.) Small "rms use the payback period (rating of
+2.72) almost as frequently as they use NPV or IRR. In untabulated analysis, we
+"nd that among small "rms, CEOs without MBAs are more likely to use the
+payback criterion. The payback is most popular among mature CEOs (rating of
+2.83). In separate examinations of small and large "rms, we "nd that mature
+CEOs use payback signi"cantly more often than younger CEOs. Payback is
+also frequently used by CEOs with long tenure (rating of 2.80). Few "rms use the
+discounted payback (rating of 1.56), a method that eliminates one of the payback
+criterion's de"ciencies by accounting for the time value of money.
+It is sometimes argued that the payback approach is rational for severely
+capital constrained "rms: if an investment project does not pay positive cash
+#ows early on, the "rm will cease operations and therefore not receive positive
+cash #ows that occur in the distant future, or else will not have the resources to
+pursue other investments during the next few years (Weston and Brigham, 1981,
+p. 405). We do not "nd any evidence to support this claim because we "nd no
+relation between the use of payback and leverage, credit ratings, or dividend
+policy. Our "nding that payback is used by older, longer-tenure CEOs without
+MBAs instead suggests that lack of sophistication is a driving factor behind the
+popularity of the payback criterion.
+McDonald (1998) notes that rules of thumb such as payback and hurdle rates
+can approximate optimal decision rules that account for the option-like features
+of many investments, especially in the evaluation of very uncertain investments.
+If small "rms have more volatile projects than do large "rms, this could explain
+why small "rms use these ad hoc decision rules. It is even possible that small
+"rms use these rules not because they realize that they approximate the optimal
+rule but simply because the rules have worked in the past.
+200
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+A number of "rms use the earnings multiple approach for project evaluation.
+There is weak evidence that large "rms are more likely to employ this approach
+than are small "rms. We "nd that a "rm is signi"cantly more likely to use
+earnings multiples if it is highly levered. The in#uence of leverage on the
+earnings multiple approach is also robust across size (i.e., highly levered "rms,
+whether they are large or small, frequently use earnings multiples).
+In summary, compared to previous research, our results suggest increased
+prominence of net present value as an evaluation technique. In addition, the
+likelihood of using speci"c evaluation techniques is linked to "rm size, "rm
+leverage, and CEO characteristics. In particular, small "rms are signi"cantly
+less likely to use net present value. They are also less likely to use supple-
+mentary sensitivity and VaR analyses. The next section takes this analysis one
+step further by detailing the speci"c methods "rms use to obtain the cost of
+capital, the most important risk factors, and a speci"c capital budgeting
+scenario.
+4. Cost of capital
+4.1. Methodology
+Our "rst task is to determine how "rms calculate the cost of equity capital.
+We explore whether "rms use the capital asset pricing model (CAPM), a multi-
+beta CAPM (with extra risk factors in addition to the market beta), average
+historical returns, or a dividend discount model. The results in Table 3 and
+summarized in Fig. 3 indicate that the CAPM is by far the most popular method
+of estimating the cost of equity capital: 73.5% of respondents always or almost
+always use the CAPM (rating of 2.92; see also Fig. 1H). The second and third
+most popular methods are average stock returns and a multibeta CAPM,
+respectively. Few "rms back the cost of equity out from a dividend discount
+model (rating of 0.91). This sharply contrasts with the "ndings of Gitman
+and Mercurio (1982) who survey 177 Fortune 1000 "rms and "nd that
+only 29.9% of respondents use the CAPM `in some fashiona but "nd that
+31.2% of the participants in their survey use a version of the dividend discount
+model to establish their cost of capital. More recently, Bruner et al. (1998)
+"nd that 85% of their 27 best-practice "rms use the CAPM or a modi"ed
+CAPM. While the CAPM is popular, we show later that it is not clear that
+the model is applied properly in practice. Of course, even if it is applied pro-
+perly, it is not clear that the CAPM is a very good model (see Fama and French,
+1992).
+The cross-sectional analysis is particularly illuminating. Large "rms are much
+more likely to use the CAPM than are small "rms (rating of 3.27 versus 2.49,
+respectively). Smaller "rms are more inclined to use a cost of equity capital that
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+201
+Table 3
+Survey responses to the question: does your "rm estimate the cost of equity capital? (If `noa, please go to next question). If `yesa, how do you determine your "rm's cost of equity capital?
+% always
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or almost
+always
+Mean
+Small
+Large
+Growth
+Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(b) using the capital asset pricing model (CAPM,
+the `betaa approach)
+73.49
+2.92
+2.49
+3.27***
+3.19
+3.03
+2.57
+3.23*** 3.13
+3.34
+3.00
+2.76
+3.02
+2.87
+3.26
+2.36***
+(a) with average historical returns on common stock
+39.41
+1.72
+1.80
+1.65
+1.65
+1.78
+1.80
+1.56
+1.67
+1.48
+1.77
+1.63
+1.60
+1.84
+1.66
+1.87
+(c) using the CAPM but including some extra `risk
+factorsa
+34.29
+1.56
+1.39
+1.70*
+1.62
+1.48
+1.57
+1.45
+1.71
+1.76
+1.51
+1.54
+1.69
+1.49
+1.59
+1.44
+(f) back out from discounted dividend/earnings
+model,
+e.g., Price"Div./(cost of cap. } growth)
+15.74
+0.91
+0.96
+0.87
+0.90
+1.02
+0.72
+1.05**
+0.92
+0.98
+0.90
+0.95
+0.98
+0.80
+0.97
+1.10
+(d) whatever our investors tell us they require
+13.93
+0.86
+1.22
+0.54***
+0.76
+0.44**
+0.92
+0.88
+0.48
+0.79*
+0.70
+1.12** 0.80
+0.97
+0.65
+1.23***
+(e) by regulatory decisions
+7.04
+0.44
+0.37
+0.50
+0.56
+0.32*
+0.48
+0.36
+0.51
+0.44
+0.54
+0.24** 0.44
+0.44
+0.51
+0.41
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+'59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(b) using the capital asset pricing model
+(CAPM, the `betaa approach)
+2.85
+2.93
+2.83
+2.96
+3.08
+2.77*
+3.00
+2.87
+2.83
+3.03
+3.13
+2.13***
+3.23
+2.75**
+2.78
+3.46***
+(a) with average historical returns on common stock
+2.43
+1.54*** 1.70
+1.73
+1.53
+1.90*
+1.60
+1.70
+1.64
+1.80
+1.65
+1.91
+1.62
+1.78
+1.80
+1.38*
+(c) using the CAPM but including some extra `risk factorsa
+1.91
+1.48*
+1.66
+1.49
+1.62
+1.48
+2.17
+1.41** 1.53
+1.49
+1.56
+1.53
+1.57
+1.52
+1.38
+2.17***
+(f) back out from discounted dividend/earnings model,
+e.g., Price"Div./(cost of cap. } growth)
+1.21
+0.82** 1.05
+0.83
+0.78
+1.02*
+1.20
+0.88
+0.93
+0.92
+0.99
+0.68*
+0.81
+0.97
+0.90
+0.95
+(d) whatever our investors tell us they require
+0.76
+0.87
+1.02
+0.79
+0.72
+0.99*
+0.69
+0.87
+0.94
+0.81
+0.67
+1.53***
+0.65
+0.97**
+0.96
+0.46**
+(e) by regulatory decisions
+0.32
+0.47
+0.39
+0.43
+0.41
+0.47
+2.19
+0.28*** 0.49
+0.43
+0.49
+0.27*
+0.20
+0.55*** 0.37
+0.71**
+Respondents are asked to rate on a scale of 0 (never) to 4 (always). We report the overall mean as well as the % of respondents that answered 3 (almost always) and 4 (always). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5% and 10% level, respectively. All table columns are de"ned in Table 1.
+202
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Fig. 3. Survey evidence on the popularity of di!erent methods of calculat the cost of equity capital.
+We report the percentage of CFOs who always or almost always use a particular technique. CAPM
+represents the capital asset pricing model. The survey is based on the responses of 392 CFOs.
+is determined by `what investors tell us they requirea. CEOs with MBAs are
+more likely to use the single-factor CAPM or the CAPM with extra risk factors
+than are non-MBA CEOs, but the di!erence is only signi"cant for the single-
+factor CAPM.
+We also "nd that "rms with low leverage or small management ownership are
+signi"cantly more likely to use the CAPM. We "nd signi"cant di!erences for
+private versus public "rms (public more likely to use the CAPM). This is perhaps
+expected given that the beta of the private "rm could only be calculated via
+analysis of comparable publicly traded "rms. Finally, we "nd that "rms with
+high foreign sales are more likely to use the CAPM.
+Given the sharp di!erence between large and small "rms, it is important to
+check whether some of these control e!ects just proxy for size. It is, indeed, the
+case that foreign sales proxy for size. Table 1 shows that that there is a signi"-
+cant correlation between percent of foreign sales and size. When we analyze the
+use of the CAPM by foreign sales controlling for size, we "nd no signi"cant
+di!erences. However, this is not true for some of the other control variables.
+There is a signi"cant di!erence in use of the CAPM across leverage that is
+robust to size. The public/private e!ect is also robust to size. Finally, the
+di!erence in the use of the CAPM based on management ownership holds for
+small "rms but not for large "rms. That is, among small "rms, CAPM use is
+inversely related to managerial ownership. There is no signi"cant relation for
+larger "rms.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+203
+4.2. Specixc risk factors
+Table 4 investigates sources of risk other than market risk, and how they are
+treated in project evaluation. The list of risk factors includes the fundamental
+factors in Fama and French (1992), and momentum as de"ned in Jegadeesh and
+Titman (1993), as well as the macroeconomic factors in Chen et al. (1986) and
+Ferson and Harvey (1991).
+The format of Table 4 is di!erent from the others. We ask whether, in
+response to these risk factors, the "rm modi"es its discount rate, cash #ows,
+both, or neither. We report the percentage of respondents for each category. In
+the cross-tabulations across each of the demographic factors, we test whether
+the `neithera category is signi"cantly di!erent conditional on "rm character-
+istics.
+Overall, the most important additional risk factors are interest rate risk,
+exchange rate risk, business cycle risk, and in#ation risk (see Fig. 4). For the
+calculation of discount rates, the most important factors are interest rate risk,
+size, in#ation risk, and foreign exchange rate risk. For the calculation of cash
+#ows, many "rms incorporate the e!ects of commodity prices, GDP growth,
+in#ation, and foreign exchange risk.
+Interestingly, few "rms adjust either discount rates or cash #ows for book-to-
+market, distress, or momentum risks. Only 13.1% of respondents consider the
+book-to-market ratio in either the cash #ow or discount rate calculations.
+Momentum is only considered important by 11.1% of the respondents.
+Small and large "rms have di!erent priorities when adjusting for risk. For
+large "rms, the most important risk factors (in addition to market risk) are
+foreign exchange risk, business cycle risk, commodity price risk, and interest rate
+risk. This closely corresponds to the set of factors detailed in Ferson and Harvey
+(1993) in their large-sample study of multibeta international asset pricing mod-
+els. Ferson and Harvey "nd that the most important additional factor is foreign
+exchange risk. Table 4 shows that foreign exchange risk is by far the most
+important nonmarket risk factor for large "rms (61.7% of the large "rms adjust
+for foreign exchange risk; the next closest is 51.4% adjusting for business cycle
+risk).
+The ordering is di!erent for small "rms. Small "rms are more a!ected by
+interest rate risk than they are by foreign exchange risk. This asymmetry in risk
+exposure is consistent with the analysis of Jagannathan and Wang (1996) and
+Jagannathan et al. (1998). They argue that small "rms are more likely to be
+exposed to labor income risk and, as a result, we should expect to "nd these
+"rms relying on a di!erent set of risk factors, and using the CAPM less
+frequently, when estimating their cost of capital.
+As might be expected, "rms with considerable foreign sales are sensitive to
+unexpected exchange rate #uctuations. Fourteen percent of "rms with substan-
+tial foreign exposure adjust discount rates for foreign exchange risk, 22% adjust
+204
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Fig. 4. Survey evidence on types of multibeta risk that are important for adjusting cash #ows or
+discount rates. We report the percentage of CFOs who always or almost always adjust for
+a particular type of risk. The survey is based on the responses of 392 CFOs.
+cash #ows, and 32% adjust both. These "gures represent the highest incidence of
+`adjusting somethinga for any type of non-market risk, for any demographic.
+There are some interesting observations for the other control variables.
+Highly levered "rms are more likely to consider business cycle risk important;
+surprisingly, however, indebtedness does not a!ect whether "rms adjust for
+interest rate risk, term structure risk, or distress risk. Growth "rms are much
+more sensitive to foreign exchange risk than are nongrowth "rms. (Table 4 only
+reports the results for four control variables; A full version of Table 4 is available
+on the Internet at http://www.duke.edu/&charvey/Research/indexr.htm.)
+4.3. Project versus xrm risk
+Finally, we explore how the cost of equity models are used. In particular, we
+consider an example of how a "rm evaluates a new project in an overseas
+market. We are most interested in whether corporations consider the company-
+wide risk or the project risk in evaluating the project.
+Table 5 contains some surprising results. Remarkably, most "rms would use
+a single company-wide discount rate to evaluate the project; 58.8% of the
+respondents would always or almost always use the company-wide discount
+rate, even though the hypothetical project would most likely have di!erent risk
+characteristics. However, 51% of the "rms said they would always or almost
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+205
+Table 4
+Survey responses to the question: when valuing a project, do you adjust either the discount rate or cash #ows for the following risk factors? (Check the most appropriate box for each factor). Percentage of respondents choosing
+each category is reported
+Overall
+Size
+P/E
+Discount rate Cash Flow
+Both
+Neither
+Discount rate
+Cash Flow
+Both
+Neither
+Disc. rate Cash #ow Both
+Neither
+Small Large Small Large Small Large Small
+Large
+Growth
+Non-G Growth Non-G
+Growth
+Non-G
+Growth
+Non-G
+(b) Interest rate risk (change
+in general level of
+interest rates)
+15.30
+8.78
+24.65
+51.27
+17.33 12.67
+7.43 10.67 29.70 17.33 45.54
+59.33**
+13.39
+7.06
+7.09
+16.47
+22.83
+18.82
+56.69
+57.65
+(f) Foreign exchange risk
+10.80
+15.34
+18.75
+55.11
+7.43 15.44
+9.90 22.82 15.35 23.49 67.33
+38.26***
+10.24
+18.75
+14.96
+22.50
+22.83
+23.75
+51.97
+35.00**
+(d) GDP or business cycle risk
+6.84
+18.80
+18.80
+55.56
+6.93
+6.76
+12.87 27.03 19.80 17.57 60.40
+48.65**
+6.98
+7.41
+24.03
+18.52
+22.48
+14.81
+46.51
+59.26*
+(a) Risk of unexpected in#ation
+11.90
+14.45
+11.90
+61.76
+13.43
+9.93
+9.95 20.53 14.93 7.95 61.69
+61.59
+12.40
+9.64
+14.73
+16.87
+10.08
+12.05
+62.79
+61.45
+(h) Size (small "rms being
+riskier)
+14.57
+6.00
+13.43
+66.00
+14.43 14.67
+7.46
+4.00 16.92 8.67 61.19
+71.33**
+14.84
+15.66
+7.03
+3.61
+17.19
+9.64
+60.94
+68.67
+(e) Commodity price risk
+2.86
+18.86
+10.86
+67.43
+2.49
+3.38
+12.94 27.03
+9.45 12.84 75.12
+56.76***
+3.12
+4.94
+20.31
+24.69
+12.50
+7.41
+64.06
+62.96
+(c) Term structure risk (change
+in the long-term vs.
+short-term interest rate)
+8.57
+3.71
+12.57
+75.14
+10.45
+6.08
+2.99
+4.73 14.93 9.46 71.64
+79.73*
+7.03
+6.10
+3.12
+6.10
+10.94
+17.07
+78.91
+70.73
+(g) Distress risk (probability
+of bankruptcy)
+7.41
+6.27
+4.84
+81.48
+5.94
+9.40
+4.95
+8.05
+6.93 2.01 82.18
+79.87
+6.98
+15.85
+6.98
+6.10
+6.98
+n/a
+79.07
+76.83
+(i) `Market-to-booka ratio
+(ratio of market value of
+"rm to book value of assets)
+3.98
+1.99
+7.10
+86.93
+4.46
+3.36
+1.49
+2.68
+8.91 4.70 85.15
+89.26
+2.38
+8.43
+3.17
+1.20
+5.56
+6.02
+88.89
+84.34
+(j) Momentum (recent stock
+price performance).
+3.43
+2.86
+4.86
+88.86
+3.98
+2.70
+2.99
+2.70
+6.47 2.70 86.57
+91.89
+3.15
+4.94
+2.36
+4.94
+4.72
+1.23
+89.76
+88.89
+Leverage
+Foreign sales
+Discount rate Cash Flow
+Both
+Neither
+Discount rate
+Cash Flow
+Both
+Neither
+Low
+High
+Low
+High
+Low
+High
+Low
+High
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+(b) Interest rate risk (change
+in general level of
+interest rates)
+14.29 18.12
+10.71
+6.52 24.40 23.19 50.60
+52.17
+13.54
+15.94
+8.33
+8.76
+19.79
+26.29
+58.33
+49.00
+(f) Foreign exchange risk
+12.88
+7.09
+12.88 18.44 17.18 21.99 57.06
+52.48
+13.83
+9.52
+22.34
+12.30
+31.91
+13.49
+31.91
+64.68***
+(d) GDP or business cycle risk
+6.83
+4.96
+13.66 28.37 16.15 24.82 63.35
+41.84***
+6.45
+7.14
+26.88
+15.87
+16.13
+19.44
+50.54
+57.54
+(a) Risk of unexpected in#ation
+13.94 10.71
+10.91 16.43
+8.48 13.57 66.67
+59.29
+7.29
+13.55
+19.79
+12.75
+13.54
+11.55
+59.38
+62.15
+(h) Size (small "rms being riskier)
+10.37 15.60
+6.71
+5.67 17.68
+9.93 65.24
+68.09
+12.77
+15.02
+7.45
+5.53
+11.70
+14.23
+68.09
+64.43
+(e) Commodity price risk
+1.24
+4.32
+14.29 26.62 12.42
+8.63 72.05
+60.43**
+3.23
+2.79
+26.88
+15.14
+10.75
+10.76
+59.14
+71.31**
+(c) Term structure risk (change
+in the long-term vs.
+short-term interest rate)
+6.17 11.43
+6.17
+2.14 10.49 15.71 77.16
+70.71
+6.45
+9.52
+4.30
+3.57
+13.98
+12.30
+75.27
+74.60
+(g) Distress risk (probability
+of bankruptcy)
+4.82
+8.45
+6.63
+6.34
+4.82
+4.23 83.73
+80.99
+9.38
+6.75
+7.29
+5.95
+2.08
+5.95
+81.25
+80.95
+(i) `Market-to-booka ratio
+(ratio of market value of
+"rm to book value of assets)
+3.61
+4.32
+3.61
+0.72
+6.63
+7.19 86.14
+87.77
+4.26
+3.95
+5.32
+0.79
+5.32
+7.91
+85.11
+87.35
+(j) Momentum (recent stock
+price performance)
+3.68
+3.55
+2.45
+3.55
+4.91
+4.26 88.96
+88.65
+4.26
+3.19
+3.19
+2.79
+4.26
+5.18
+88.30
+88.84
+Percentage of respondents choosing each category is reported. The percentages for discount rate, cash #ow, both and neither should sum to 100. ***, **, * denotes a signi"cant di!erence at the 1%, 5%, and 10% level,
+respectively. All table columns are de"ned in Table 1.
+Table 5
+Survey responses to the question: How frequently would your company use the following discount rates when evaluating a new project in an overseas market? To evaluate this project we would use
+% always
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or almost
+always
+Mean Small
+Large
+Growth Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(a) The discount rate for our entire company
+58.79
+2.50
+2.50
+2.50
+2.76
+2.37**
+2.45
+2.58
+2.41
+2.83**
+2.46
+2.53
+2.56
+2.32*
+2.61
+2.41
+(d) A risk-matched discount rate for this particular
+project (considering both country and industry)
+50.95
+2.09
+1.86
+2.36***
+2.20
+2.26
+1.99
+2.30**
+2.43
+2.25
+2.31
+1.82*** 2.22
+2.01
+2.22
+2.01
+(b) The discount rate for the overseas market
+(country discount rate)
+34.52
+1.65
+1.49
+1.82**
+1.84
+1.69
+1.54
+1.81*
+1.82
+2.01
+1.75
+1.52*
+1.86
+1.42*** 1.70
+1.52
+(c) A divisional discount rate (if the project line of
+business matches a domestic division)
+15.61
+0.95
+0.82
+1.09**
+1.12
+1.04
+0.88
+1.08*
+1.17
+1.05
+1.05
+0.84*
+1.01
+0.90
+0.96
+1.08
+(e) A di!erent discount rate for each component cash
+#ow that has a di!erent risk characteristic
+(e.g. depreciation vs. operating cash #ows)
+9.87
+0.66
+0.68
+0.64
+0.49
+0.85*** 0.61
+0.68
+0.75
+0.58
+0.68
+0.64
+0.68
+0.65
+0.56
+0.85**
+% always
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or almost
+always
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(a) The discount rate for our entire company
+58.79
+2.50
+2.54
+2.49
+2.18
+2.64***
+2.49
+2.51
+2.00
+2.52*
+2.39
+2.64*
+2.55
+2.42
+2.87
+2.33***
+2.57
+2.20**
+(d) A risk-matched discount rate for this particular
+project (considering both country and industry)
+50.95
+2.09
+2.31
+2.02*
+2.11
+2.06
+2.20
+1.99
+2.55
+2.03*
+1.90
+2.25**
+2.24
+1.79*** 2.21
+2.02
+1.97
+2.61***
+(b) The discount rate for the overseas market
+(country discount rate)
+34.52
+1.65
+1.80
+1.61
+1.49
+1.73*
+1.77
+1.60
+1.50
+1.66
+1.70
+1.58
+1.78
+1.41**
+1.81
+1.58
+1.58
+1.92*
+(c) A divisional discount rate (if the project line of
+business matches a domestic division)
+15.61
+0.95
+1.18
+0.87**
+0.99
+0.92
+0.88
+0.98
+1.27
+0.89*
+0.91
+1.01
+1.08
+0.66*** 0.94
+0.93
+0.89
+1.17*
+(e) A di!erent discount rate for each component cash
+#ow that has a di!erent risk characteristic
+(e.g. depreciation vs. operating cash #ows)
+9.87
+0.66
+0.72
+0.62
+0.55
+0.68
+0.59
+0.67
+0.38
+0.67
+0.67
+0.57
+0.61
+0.79*
+0.63
+0.68
+0.71
+0.46*
+Respondents are asked to rate on a scale of 0 (never) to 4 (always). We report the overall mean as well as the % of respondents that answered 3 (almost always) and 4 (always). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+208
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+always use a risk-matched discount rate to evaluate this project. These results
+are related to Bierman (1993) who "nds that 93% of the Fortune 100 industrial
+"rms use the company-wide weighted average cost of capital for discounting,
+72% use the rate applicable to the project based on the risk or the nature of the
+project, and 35% use a rate based on the division's risk.
+The reliance of many "rms on a company-wide discount rate might make
+sense if these same "rms adjust cash #ows for foreign exchange risk when
+considering risk factors (i.e., in Table 4). However in untabulated results, we "nd
+the opposite: "rms that do not adjust cash #ows for foreign exchange risk are
+also relatively less likely (compared to "rms that adjust for foreign exchange
+risk) to use a risk-matched discount rate when evaluating an overseas project.
+Large "rms are signi"cantly more likely to use the risk-matched discount rate
+than are small "rms (rating of 2.34 versus 1.86). This is also con"rmed in our
+analysis of Fortune 500 "rms, which are much more likely to use the risk-
+matched discount rate than the "rm-wide discount rate to evaluate the foreign
+project (rating of 2.61 versus 1.97). Very few "rms use a di!erent discount rate to
+separately value di!erent cash #ows within the same project (rating of 0.66), as
+Brealey and Myers (1996) suggest they should for cash #ows such as depreciation.
+The analysis across "rm characteristics reveals some interesting patterns.
+Growth "rms are more likely to use a company-wide discount rate to evaluate
+projects. Surprisingly, "rms with foreign exposure are signi"cantly more likely
+to use the company-wide discount rate to value an overseas project. Public
+corporations are more likely to use a risk-matched discount rate than are
+private corporations; however, this result is not robust to controlling for size.
+CEOs with short tenures are more likely to use a company-wide discount rate
+(signi"cant at the 5% level for both large and small "rms).
+5. Capital structure
+Our survey has separate questions about debt, equity, debt maturity, convert-
+ible debt, foreign debt, target debt ratios, credit ratings, and actual debt ratios.
+Instead of stepping through the responses security by security, this section
+distills the most important "ndings from the capital structure questions and
+presents the results grouped by theoretical hypothesis or concept. These group-
+ings are neither mutually exclusive nor all-encompassing; they are intended
+primarily to organize the exposition.
+5.1. Trade-ow theory of capital structure choice
+5.1.1. Target debt ratios and the costs and benexts of debt
+One of the longest-standing questions about capital structure is whether "rms
+have target debt ratios. The trade-o! theory says that "rms have optimal
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+209
+Fig. 5. Survey evidence on some of the factors that a!ect the decision to issue debt. The survey is
+based on the responses of 392 CFOs.
+debt}equity ratios, which they determine by trading o! the bene"ts of debt with
+the costs (e.g., Scott, 1976). In traditional trade-o! models, the chief bene"t of
+debt is the tax advantage of interest deductibility (Modigliani and Miller, 1963).
+The primary costs are those associated with "nancial distress and the personal
+tax expense bondholders incur when they receive interest income (Miller, 1977).
+In this section we discuss the traditional factors in the trade-o! theory, namely
+distress costs and tax costs and bene"ts. Many additional factors (e.g., informa-
+tional asymmetry, agency costs) can be modeled in a trade-o! framework. We
+discuss these alternative costs and bene"ts in separate sections below.
+Table 6 and Fig. 5 show the factors that determine the appropriate amount of
+debt for the "rm. The CFOs tell us that the corporate tax advantage of debt is
+moderately important in capital structure decisions: Row a of Table 6 shows
+that the mean response is 2.07 on a scale from 0 to 4 (0 meaning not important, 4
+meaning very important). The tax advantage is most important for large,
+regulated, and dividend-paying "rms } companies that probably have high
+corporate tax rates and therefore large tax incentives to use debt. Desai (1998)
+shows that "rms issue foreign debt in response to relative tax incentives, so we
+investigate whether "rms issue debt when foreign tax treatment is favorable. We
+"nd that favorable foreign tax treatment relative to the U.S. is fairly important
+(overall rating of 2.26 in Table 7). Big "rms (2.41) with large foreign exposure
+(2.50) are relatively likely to indicate that foreign tax treatment is an important
+210
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+factor. This could indicate that "rms need a certain level of sophistication and
+exposure to perform international tax planning.
+In contrast, we "nd very little evidence that "rms directly consider personal
+taxes when deciding on debt policy (rating of 0.68 in Table 6) or equity policy
+(rating of 0.82 in Table 8, the least popular equity issuance factor). Therefore, it
+seems unlikely that "rms target investors in certain tax clienteles (although we
+can not rule out the possibility that investors choose to invest in "rms based on
+payout policy, or that executives respond to personal tax considerations to the
+extent that they are re#ected in market prices, see Graham, 1999a).
+When we ask "rms directly about whether potential costs of distress a!ect
+their debt decisions, we "nd they are not very important (rating of 1.24 in
+Table 6), although they are relatively important among speculative-grade "rms.
+However, "rms are very concerned about their credit ratings (rating of 2.46, the
+second most important debt factor), which can be viewed as an indication of
+concern about distress. Among utilities and "rms that have rated debt, credit
+ratings are a very important determinant of debt policy. Credit ratings are also
+important for large "rms (3.14) that are in the Fortune 500 (3.31). Finally, CFOs
+are also concerned about earnings volatility when making debt decisions (rating
+of 2.32), which is consistent with the trade-o! theory's prediction that "rms
+reduce debt usage when the probability of bankruptcy is high (Castanias, 1983).
+We ask directly whether "rms have an optimal or `targeta debt}equity ratio.
+Nineteen percent of the "rms do not have a target debt ratio or target range (see
+Fig. 1G). Another 37% have a #exible target, and 34% have a somewhat tight
+target or range. The remaining 10% have a strict target debt ratio (see Fig. 6).
+These overall numbers provide mixed support for the notion that companies
+trade o! costs and bene"ts to derive an optimal debt ratio. However, un-
+tabulated analysis shows that large "rms are more likely to have target debt
+ratios: 55% of large "rms have at least somewhat strict target ratios, compared
+to 36% of small "rms. Targets that are tight or somewhat strict are more
+common among investment-grade (64%) than speculative "rms (41%), and
+among regulated (67%) than unregulated "rms (43%). Targets are important if
+the CEO has short tenure or is young, and when the top three o$cers own less
+than 5% of the "rm.
+Finally, the CFOs tell us that their companies issue equity to maintain
+a target debt}equity ratio (rating of 2.26; Row e of Table 8), especially if their
+"rm is highly levered (2.68), "rm ownership is widely dispersed (2.64), or the
+CEO is young (2.41). Overall, the survey evidence provides moderate support for
+the trade-o! theory.
+5.1.2. Deviations from target debt ratios
+Actual debt ratios vary across "rms and through time. Such variability might
+occur if debt intensity is measured relative to the market value of equity, and yet
+"rms do not rebalance their debt lock-step with changes in equity prices. Our
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+211
+Table 6
+Survey responses to the question: What factors a!ect how you choose the appropriate amount of debt for your "rm?
+% important
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or very
+important
+Mean Small
+Large
+Growth
+Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(g) Financial #exibility (we restrict debt so
+we have enough internal funds available
+to pursue new projects when they come
+along)
+59.38
+2.59
+2.54
+2.65
+2.61
+2.75
+2.61
+2.60
+2.71
+2.59
+2.73
+2.40***
+2.67
+2.52
+2.68
+2.41**
+(d) Our credit rating (as assigned by
+rating agencies)
+57.10
+2.46
+1.92
+3.14***
+2.89
+2.81
+2.29
+2.64**
+3.36
+3.11** 2.76
+2.04***
+2.52
+2.39
+2.81
+1.99***
+(h) The volatility of our earnings and
+cash #ows
+48.08
+2.32
+2.29
+2.36
+2.41
+2.25
+2.25
+2.32
+2.11
+2.44** 2.33
+2.28
+2.35
+2.31
+2.32
+2.41
+(a) The tax advantage of interest
+deductibility
+44.85
+2.07
+1.77
+2.44***
+2.36
+2.27
+1.99
+2.26**
+2.32
+2.54
+2.35
+1.65***
+2.30
+1.79*** 2.27
+1.89***
+(e) The transactions costs and fees for
+issuing debt
+33.52
+1.95
+2.07
+1.81**
+1.98
+1.80
+1.94
+1.87
+1.85
+2.06
+1.91
+2.02
+1.89
+1.95
+1.88
+2.02
+(c) The debt levels of other "rms in our
+industry
+23.40
+1.49
+1.29
+1.77***
+1.72
+1.52
+1.36
+1.70*** 1.80
+1.71
+1.63
+1.34**
+1.38
+1.66**
+1.57
+1.37*
+(b) The potential costs of bankruptcy,
+near-bankruptcy, or "nancial distress
+21.35
+1.24
+1.36
+1.10**
+1.29
+1.02*
+1.16
+1.37**
+0.99
+1.40** 1.27
+1.21
+1.31
+1.22
+1.30
+1.33
+(i) We limit debt so our customers/suppliers
+are not worried about our "rm going
+out of business
+18.72
+1.24
+1.20
+1.30
+1.43
+1.00*** 1.34
+1.20
+1.23
+1.14
+1.19
+1.30
+1.21
+1.40*
+1.17
+1.45**
+(n) We restrict our borrowing so that
+pro"ts from new/future projects can
+be captured fully by shareholders
+and do not have to be paid out as
+interest to debtholders
+12.57
+1.01
+1.16
+0.80***
+1.09
+0.69*** 1.18
+0.83*** 0.77
+0.85
+0.95
+1.06
+1.08
+0.97
+0.78
+1.30***
+(j) We try to have enough debt that we
+are not an attractive takeover target
+4.75
+0.73
+0.57
+0.91***
+0.95
+0.86
+0.62
+0.90*** 0.84
+0.96
+0.76
+0.66
+0.83
+0.66*
+0.85
+0.74
+(f) The personal tax cost our investors
+face when they receive interest income
+4.79
+0.68
+0.59
+0.72*
+0.53
+0.80** 0.68
+0.63
+0.87
+0.51*** 0.71
+0.55*
+0.65
+0.63
+0.65
+0.72
+(k) If we issue debt our competitors
+know that we are very unlikely to
+reduce our output
+2.25
+0.40
+0.41
+0.37
+0.48
+0.32*
+0.33
+0.47**
+0.38
+0.51
+0.38
+0.41
+0.46
+0.36
+0.37
+0.52**
+(m) To ensure that upper management
+works hard and e$ciently, we issue
+su$cient debt to make sure that a
+large portion of our cash #ow is
+committed to interest payments
+1.69
+0.33
+0.33
+0.32
+0.32
+0.28
+0.22
+0.49*** 0.28
+0.38
+0.32
+0.34
+0.40
+0.26**
+0.33
+0.35
+(l) A high debt ratio helps us bargain for
+concessions from our employees
+0.00
+0.16
+0.16
+0.15
+0.18
+0.13
+0.13
+0.19*
+0.14
+0.17
+0.13
+0.19*
+0.18
+0.15
+0.17
+0.18
+212
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+% important
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or very
+important
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(g) Financial #exibility (we restrict debt so
+we have enough internal funds available
+to pursue new projects when they
+come along)
+59.38
+2.59
+2.54
+2.59
+2.68
+2.52
+2.51
+2.64
+2.76
+2.57
+2.63
+2.54
+2.68
+2.40**
+2.91
+2.45***
+2.60
+2.55
+(d) Our credit rating (as assigned by
+rating agencies)
+57.10
+2.46
+2.52
+2.44
+2.28
+2.56**
+2.37
+2.50
+3.59
+2.32*** 2.19
+2.73*** 2.86
+1.68*** 2.77
+2.30***
+2.26
+3.31***
+(h) The volatility of our earnings and
+cash #ows
+48.08
+2.32
+2.38
+2.33
+2.40
+2.29
+2.22
+2.40*
+2.27
+2.31
+2.34
+2.26
+2.34
+2.31
+2.43
+2.27
+2.32
+2.30
+(a) The tax advantage of interest
+deductibility
+44.85
+2.07
+2.15
+2.05
+1.92
+2.14*
+2.11
+2.07
+2.64
+1.98** 2.03
+2.13
+2.24
+1.76*** 2.45
+1.91***
+1.97
+2.53***
+(e) The transactions costs and fees for
+issuing debt
+33.52
+1.95
+1.95
+1.98
+2.22
+1.83*** 2.03
+1.97
+1.71
+1.95
+2.02
+1.89
+1.92
+2.03
+1.98
+1.94
+2.00
+1.70**
+(c) The debt levels of other "rms in our
+industry
+23.40
+1.49
+1.43
+1.52
+1.46
+1.53
+1.61
+1.45
+2.32
+1.40*** 1.37
+1.60** 1.63
+1.27*** 1.41
+1.51
+1.41
+1.86***
+(b) The potential costs of bankruptcy,
+near-bankruptcy, or "nancial distress
+21.35
+1.24
+1.12
+1.29
+1.37
+1.20
+1.24
+1.25
+1.38
+1.25
+1.32
+1.19
+1.15
+1.42**
+1.29
+1.22
+1.27
+1.08
+(i) We limit debt so our customers/suppliers
+are not worried about our "rm going
+out of business
+18.72
+1.24
+1.32
+1.23
+1.39
+1.17**
+1.23
+1.25
+1.33
+1.23
+1.27
+1.24
+1.27
+1.16
+1.20
+1.26
+1.30
+0.98**
+(n) We restrict our borrowing so that
+pro"ts from new/future projects can
+be captured fully by shareholders and
+do not have to be paid out as interest
+to debtholders
+12.57
+1.01
+0.99
+1.00
+1.05
+0.97
+1.04
+0.98
+0.86
+1.02
+1.03
+0.99
+0.95
+1.10
+1.01
+1.00
+1.12
+0.48***
+(j) We try to have enough debt that we are
+not an attractive takeover target
+4.75
+0.73
+0.82
+0.70
+0.78
+0.70
+0.76
+0.73
+0.71
+0.71
+0.71
+0.77
+0.94
+0.34*** 0.93
+0.64***
+0.70
+0.88*
+(f) The personal tax cost our investors
+face when they receive interest income
+4.79
+0.68
+0.56
+0.68
+0.67
+0.63
+0.65
+0.65
+0.67
+0.62
+0.73
+0.58*
+0.65
+0.64
+0.78
+0.61*
+0.67
+0.72
+(k) If we issue debt our competitors know
+that we are very unlikely to reduce our
+output
+2.25
+0.40
+0.45
+0.39
+0.48
+0.34**
+0.37
+0.42
+0.38
+0.38
+0.44
+0.36
+0.43
+0.35
+0.42
+0.39
+0.40
+0.36
+(m) To ensure that upper management
+works hard and e$ciently, we issue
+su$cient debt to make sure that a
+large portion of our cash #ow is
+committed to interest payments
+1.69
+0.33
+0.38
+0.32
+0.42
+0.28**
+0.30
+0.36
+0.14
+0.34*
+0.34
+0.34
+0.31
+0.36
+0.27
+0.35
+0.37
+0.17**
+(l) A high debt ratio helps us bargain for
+concessions from our employees
+0.00
+0.16
+0.14
+0.16
+0.16
+0.15
+0.16
+0.16
+0.14
+0.16
+0.16
+0.18
+0.17
+0.15
+0.16
+0.16
+0.17
+0.14
+Respondents are asked to rate on a scale of 0 (not important) to 4 (very important). We report the overall mean as well as the % of respondents that answered 3 and 4 (very important). ***, **, * denotes
+a signi"cant di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+213
+Table 7
+Survey responses to the question: has your "rm seriously considered issuing debt in foreign countries? If `yes:, what factors a!ect your "rm's decisions about issuing foreign debt?
+% important
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or very
+important
+Mean Small Large
+Growth Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu.
+Others
+Low
+High
+(c) Providing a `natural hedgea (e.g., if the foreign
+currency devalues, we are not obligated to pay
+interest in US$)
+85.84
+3.15
+3.06
+3.22
+2.98
+3.29
+3.20
+3.32
+3.06
+3.23
+3.12
+3.36
+3.32
+2.94*
+3.00
+3.28
+(b) Keeping the `source of fundsa close to the `use
+of fundsa
+63.39
+2.67
+3.09
+2.52**
+2.73
+2.35*
+2.70
+2.79
+2.38
+2.70
+2.57
+3.12** 2.92
+2.23*** 2.55
+2.74
+(a) Favorable tax treatment relative to the U.S
+(e.g., di!erent corporate tax rates)
+52.25
+2.26
+1.94
+2.41**
+2.27
+2.29
+2.26
+2.39
+2.37
+2.40
+2.29
+2.08
+2.36
+2.13
+2.16
+2.33
+(e) Foreign interest rates may be lower than domestic
+interest rates
+44.25
+2.19
+2.33
+2.11
+2.27
+2.03
+2.22
+2.13
+2.20
+2.48
+2.08
+2.40
+2.22
+2.10
+2.04
+2.54**
+(d) Foreign regulations require us to issue debt abroad
+5.50
+0.63
+0.60
+0.64
+0.75
+0.29**
+0.55
+0.72
+0.65
+0.57
+0.63
+0.73
+0.64
+0.66
+0.59
+0.61
+% important
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mail
+or very
+important
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(c) Providing a `natural hedgea (e.g., if the foreign
+currency devalues, we are not obligated to pay
+interest in US$)
+85.84
+3.15
+3.30
+3.13
+3.39
+3.13
+3.33
+3.06
+3.33
+3.14
+3.30
+3.17
+3.21
+2.95
+3.34
+2.92**
+3.22
+3.00
+(b) Keeping the `source of fundsa close to the `use
+of fundsa
+63.39
+2.67
+2.57
+2.71
+2.74
+2.67
+2.77
+2.66
+3.33
+2.66*
+2.78
+2.64
+2.65
+2.95
+2.72
+2.65
+2.85
+2.30**
+(a) Favorable tax treatment relative to the U.S
+(e.g., di!erent corporate tax rates)
+52.25
+2.26
+2.13
+2.30
+2.00
+2.39*
+2.42
+2.04*
+2.11
+2.22
+2.44
+2.12
+2.37
+1.67** 2.50
+1.94**
+2.34
+2.11
+(e) Foreign interest rates may be lower than domestic
+interest rates
+44.25
+2.19
+2.30
+2.16
+2.26
+2.17
+2.22
+2.14
+1.67
+2.14
+2.40
+1.93**
+2.18
+2.26
+2.25
+2.08
+2.28
+2.03
+(d) Foreign regulations require us to issue debt abroad
+5.50
+0.63
+0.77
+0.57
+0.50
+0.69
+0.60
+0.58
+1.11
+0.57*
+0.57
+0.64
+0.61
+0.56
+0.59
+0.64
+0.64
+0.62
+Respondents are asked to rate on a scale of 0 (not important) to 4 (very important). We report the overall mean as well as the % of respondents that answered 3 and 4 (very important). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+214
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+evidence supports this hypothesis: the mean response of 1.08 indicates that "rms
+do not rebalance in response to market equity movements (Row g in Table 9).
+Further, among "rms targeting their debt ratio, few "rms (rating of 0.99) state
+that changes in the price of equity a!ect their debt policy. Similarly, in their
+large-sample study of Compustat "rms, Opler and Titman (1998) "nd that "rms
+issue equity after stock price increases, which they note is inconsistent with "rms
+targeting debt ratios because it moves them further from any such target.
+Fisher et al. (1989) propose an alternative explanation of why debt ratios vary
+over time, even if "rms have a target. If there are "xed transactions costs to
+issuing or retiring debt, a "rm only rebalances when its debt ratio crosses an
+upper or lower hurdle. We "nd moderate evidence that "rms consider transac-
+tions costs when making debt issuance decisions (rating of 1.95 in Row e of
+Table 6), especially among small "rms (2.07) in which the CEO has been in o$ce
+for at least ten years (2.22). Many papers (e.g., Titman and Wessels, 1988)
+interpret the "nding that small "rms use relatively little debt as evidence that
+transaction costs discourage debt usage among small "rms; as far as we know,
+our analysis is the most direct examination of this hypothesis to date. However,
+when we ask whether they delay issuing debt (rating of 1.06 in Table 9) or
+retiring debt (1.04) because of transactions costs, which is a more direct test of
+the Fisher et al. (1989) hypothesis, the support for the transactions cost hypothe-
+sis is weak.
+5.2. Asymmetric information explanations of capital structure
+5.2.1. Pecking-order model of xnancing hierarchy
+The pecking-order model of "nancing choice assumes that "rms do not target
+a speci"c debt ratio, but instead use external "nancing only when internal funds
+are insu$cient. External funds are less desirable because informational asym-
+metries between management and investors imply that external funds are
+undervalued in relation to the degree of asymmetry (Myers and Majluf, 1984;
+Myers, 1984). Therefore, if "rms use external funds, they prefer to use debt,
+convertible securities, and, as a last resort, equity.
+Myers and Majluf (1984) assume that "rms seek to maintain "nancial slack to
+avoid the need for external funds. Therefore, if we "nd that "rms value "nancial
+#exibility, this is generally consistent with the pecking-order theory. However,
+#exibility is also important for reasons unrelated to the pecking-order model
+(e.g., Opler et al., 1999), so "nding that CFOs value "nancial #exibility is not
+su$cient to prove that the pecking-order model is the true description of capital
+structure choice.
+We ask several questions related to the pecking-order model. We ask if "rms
+issue securities when internal funds are not su$cient to fund their activities, and
+separately ask if equity is used when debt, convertibles, or other sources of
+"nancing are not available. We also inquire whether executives consider equity
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+215
+Table 8
+Survey responses to the question: has your "rm seriously considered issuing common stock? If `yesa, what factors a!ect your "rm's decisions about issuing common stock?
+% important
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or very
+important
+Mean Small
+Large
+Growth
+Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(m) Earnings-per-share dilution
+68.55
+2.84
+2.65
+3.12**
+3.17
+3.03
+2.81
+2.93
+3.00
+3.18
+3.06
+2.63**
+3.03
+2.60** 3.07
+2.63**
+(k) The amount by which our stock is undervalued
+or overvalued by the market
+66.94
+2.69
+2.67
+2.71
+2.94
+2.65
+2.50
+2.93**
+2.58
+3.08**
+2.70
+2.66
+2.76
+2.50
+2.93
+2.47**
+(a) If our stock price has recently risen, the price
+at which we can sell is `higha
+62.60
+2.53
+2.57
+2.47
+2.57
+2.61
+2.45
+2.67
+2.42
+2.92*
+2.35
+2.69*
+2.79
+2.26** 2.62
+2.45
+(c) Providing shares to employee bonus/stock
+option plans
+53.28
+2.34
+2.22
+2.50
+2.20
+2.38
+2.66
+2.00*** 2.77
+1.97**
+2.46
+2.17
+2.16
+2.47
+2.34
+2.30
+(e) Maintaining a target debt-to-equity ratio
+51.59
+2.26
+2.04
+2.58**
+2.56
+2.03**
+1.86
+2.68*** 2.44
+2.58
+2.68
+1.85*** 2.48
+1.91** 2.64
+1.84***
+(j) Diluting the holdings of certain shareholders
+50.41
+2.14
+2.30
+1.90*
+1.94
+2.23
+2.20
+2.09
+1.46
+2.24**
+1.97
+2.31
+1.95
+2.20
+2.00
+2.38*
+(b) Stock is our `least riskya source of funds
+30.58
+1.76
+1.93
+1.52*
+2.07
+1.37***
+1.80
+1.71
+1.44
+1.68
+1.56
+1.97*
+1.76
+1.69
+1.62
+1.91
+(g) Whether our recent pro"ts have been su$cient
+to fund our activities
+30.40
+1.76
+1.91
+1.54*
+1.93
+1.39**
+1.71
+1.79
+1.52
+1.82
+1.67
+1.76
+1.84
+1.69
+1.60
+1.88
+(f) Using a similar amount of equity as is used by
+other "rms in our industry
+22.95
+1.45
+1.33
+1.63*
+1.70
+1.00***
+1.35
+1.57
+1.56
+1.43
+1.74
+1.09*** 1.36
+1.38
+1.59
+1.32
+(h) Issuing stock gives investors a better impression
+of our "rm's prospects than issuing debt
+21.49
+1.31
+1.52
+1.00**
+1.48
+0.89***
+1.22
+1.37
+0.92
+1.43**
+1.10
+1.46*
+1.14
+1.50*
+1.18
+1.51*
+(l) Inability to obtain funds using debt, convertibles,
+or other sources
+15.57
+1.15
+1.36
+0.84**
+1.00
+0.79
+1.09
+1.20
+0.68
+1.45*** 1.03
+1.19
+1.03
+1.22
+1.16
+1.21
+(d) Common stock is our cheapest source of funds
+14.05
+1.10
+1.35
+0.73***
+1.02
+0.97
+1.26
+0.96
+0.68
+0.68
+0.93
+1.28*
+0.98
+1.17
+0.86
+1.36**
+(i) The capital gains tax rates faced by our
+investors (relative to tax rates on dividends)
+5.00
+0.82
+0.78
+0.88
+0.88
+0.79
+0.98
+0.63**
+0.80
+0.92
+0.80
+0.77
+0.75
+0.92
+0.81
+0.88
+216
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+% important
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or very
+important
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(m) Earnings-per-share dilution
+68.55
+2.84
+3.04
+2.81
+2.64
+3.00*
+2.62
+2.95*
+3.64 2.72*** 2.69
+2.97
+3.18
+1.48*** 2.89
+2.80
+2.73
+3.29**
+(k) The amount by which our stock is undervalued
+or overvalued by the market
+66.94
+2.69
+2.52
+2.74
+2.86
+2.60
+2.73
+2.67
+2.43 2.69
+2.69
+2.66
+2.90
+1.78*** 2.96
+2.58*
+2.74
+2.43
+(a) If our stock price has recently risen, the price
+at which we can sell is `higha
+62.60
+2.53
+2.54
+2.55
+2.51
+2.56
+2.45
+2.56
+2.64 2.50
+2.47
+2.57
+2.70
+1.83*** 2.36
+2.59
+2.46
+2.79
+(c) Providing shares to employee bonus/stock
+option plans
+53.28
+2.34
+2.65
+2.23*
+2.44
+2.29
+2.13
+2.42
+2.15 2.31
+2.28
+2.38
+2.24
+2.72**
+2.50
+2.29
+2.24
+2.74**
+(e) Maintaining a target debt-to-equity ratio
+51.59
+2.26
+1.72
+2.41**
+2.12
+2.38
+1.79
+2.46*** 3.14 2.11*** 1.71
+2.68*** 2.40
+1.73**
+2.21
+2.24
+2.24
+2.38
+(j) Diluting the holdings of certain shareholders
+50.41
+2.14
+2.32
+2.13
+2.27
+2.14
+2.16
+2.19
+2.00 2.16
+2.24
+2.02
+2.25
+1.68**
+1.93
+2.20
+2.25
+1.65**
+(b) Stock is our `least riskya source of funds
+30.58
+1.76
+1.71
+1.74
+1.72
+1.73
+1.53
+1.83
+1.69 1.75
+1.79
+1.73
+1.79
+1.62
+1.82
+1.75
+1.90
+1.17**
+(g) Whether our recent pro"ts have been su$cient
+to fund our activities
+30.40
+1.76
+1.36
+1.86**
+1.84
+1.73
+1.42
+1.91** 1.69 1.70
+1.75
+1.77
+1.73
+1.80
+1.55
+1.80
+1.88
+1.22**
+(f) Using a similar amount of equity as is used by
+other "rms in our industry
+22.95
+1.45
+1.12
+1.52*
+1.41
+1.47
+1.13
+1.58** 2.15 1.30**
+1.46
+1.37
+1.43
+1.54
+1.11
+1.54*
+1.48
+1.30
+(h) Issuing stock gives investors a better impression
+of our "rm's prospects than issuing debt
+21.49
+1.31
+0.92
+1.39**
+1.32
+1.30
+1.11
+1.41
+1.23 1.28
+1.24
+1.36
+1.29
+1.33
+1.21
+1.35
+1.41
+0.91**
+(l) Inability to obtain funds using debt, convertibles,
+or other sources
+15.57
+1.15
+0.79
+1.26*
+1.32
+1.10
+0.76
+1.35*** 1.38 1.09
+1.22
+1.10
+1.06
+1.42
+0.72
+1.29** 1.20
+0.91
+(d) Common stock is our cheapest source of funds
+14.05
+1.10
+0.88
+1.12
+1.00
+1.12
+1.16
+1.05
+0.69 1.15
+1.32
+0.92** 1.01
+1.46*
+1.11
+1.11
+1.23
+0.52***
+(i) The capital gains tax rates faced by our
+investors (relative to tax rates on dividends)
+5.00
+0.82
+0.79
+0.80
+0.95
+0.72
+0.57
+0.92** 0.38 0.81*
+0.84
+0.76
+0.84
+0.71
+0.93
+0.78
+0.81
+0.83
+Respondents are asked to rate on a scale of 0 (not important) to 4 (very important). We report the overall mean as well as the % of respondents that answered 3 and 4 (very important). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+217
+Fig. 6. Survey evidence on whether "rms have optimal or target debt}equity ratios. The survey is
+based on the responses of 392 CFOs.
+ Pinegar and Wilbricht (1989) survey 176 unregulated, non"nancial Fortune 500 "rms. Like us,
+they "nd that #exibility is the most important factor a!ecting "nancing decisions, and that
+bankruptcy costs and personal tax considerations are among the least important. Our analysis,
+examining a broader cross-section of theoretical hypotheses and using information on "rm and
+executive characteristics, shows that the relative importance of these factors is robust to a more
+general survey design.
+undervaluation when deciding which security to use, and whether "nancial
+#exibility is important.
+The most important item a!ecting corporate debt decisions is management's
+desire for `"nancial #exibility,a with a mean rating of 2.59 (Table 6). Four "rms
+write in explicitly that they remain #exible in the sense of minimizing interest
+obligations, so that they do not need to shrink their business in case of an
+economic downturn. In untabulated analysis, we "nd that "rms that value
+"nancial #exibility are more likely to value real options in project evaluation,
+but the di!erence is not signi"cant. Fifty-nine percent of the respondents say
+that #exibility is important (rating of 3) or very important (rating of 4). This
+"nding is interesting because Graham (2000) shows that "rms use their "nancial
+#exibility (i.e., preserve debt capacity) to make future expansions and acquisi-
+tions, but they appear to retain a lot of unused #exibility even after expanding.
+However, the importance of #exibility in the survey responses is not related to
+informational asymmetry (size or dividend payout) or growth options in the
+manner suggested by the pecking-order theory. In fact, #exibility is statistically
+218
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+more important for dividend-paying "rms, opposite the theoretical prediction (if
+dividend-paying "rms have relatively little informational asymmetry). There-
+fore, a deeper investigation indicates that the desire for "nancial #exibility is not
+driven by the factors behind the pecking-order theory.
+Having insu$cient internal funds is a moderately important in#uence on the
+decision to issue debt (rating of 2.13, Row a in Table 9). This behavior is
+generally consistent with the pecking-order model. More small "rms (rating of
+2.30) than large "rms (1.88) indicate that they use debt in the face of insu$cient
+internal funds, which is consistent with the pecking-order if small "rms su!er
+from larger asymmetric-information-related equity undervaluation. However,
+there is only modest evidence that "rms issue equity because recent pro"ts have
+been insu$cient to fund activities (1.76 in Table 8), and even less indicating that
+"rms issue equity after their ability to obtain funds from debt or convertibles is
+diminished (rating of 1.15 in Table 10).
+Firms are reluctant to issue common stock when they perceive that it is
+undervalued (rating of 2.69, the most important equity issuance factor in
+Table 8). In a separate survey conducted one month after ours, when the Dow
+Jones 30 was approaching a new record of 10,000, Graham (1999b) "nds that
+more than two-thirds of FEI executives feel that their common equity is
+undervalued by the market and that only 3% of CFOs think their stock is
+overvalued, suggesting that the preference for pecking-order-like behavior
+might be driven by managerial optimism (Heaton, 2000). Taken together, these
+"ndings indicate that a large percentage of companies are hesitant to issue
+common equity because they feel their stock is undervalued. Many "rms issue
+convertible debt instead: equity undervaluation is the second most popular
+factor a!ecting convertible debt policy (rating of 2.34 in Table 10), a response
+particularly popular among growth "rms (2.72).
+Finding that "rms avoid equity when they perceive that it is undervalued is
+generally consistent with the pecking order. However, when we examine more
+carefully how equity undervaluation a!ects "nancing decisions, the support for
+the pecking-order model wanes. In debt decisions, large (rating of 1.76 in Row
+d of Table 9), dividend-paying (1.65) "rms are relatively more likely to say that
+equity undervaluation a!ects their debt policy (versus ratings of 1.37 for both
+small and nondividend-paying "rms). In equity decisions, the relative import-
+ance of stock valuation on equity issuance is not related to informational
+asymmetry as indicated by small size and nondividend-paying status, though it
+is more important for "rms with low executive ownership. In general, these
+"ndings are not consistent with the pecking-order idea that informationally
+induced equity undervaluation causes "rms to avoid equity "nancing. Helwege
+and Liang (1996, p. 457) also "nd that `asymmetric information variables have
+no power to predict the relative use of public bonds over equity.a
+In sum, the importance of "nancial #exibility and equity undervaluation to
+security issuance decisions is generally consistent with the pecking-order model
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+219
+Table 9
+Survey responses to the question: what other factors a!ect your "rm's debt policy?
+% important
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or very
+important
+Mean Small
+Large
+Growth Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(c) We issue debt when interest rates are
+particularly low
+46.35
+2.22
+2.07
+2.40**
+2.35
+2.42
+2.13
+2.29
+2.40
+2.43
+2.37 1.98***
+2.25
+2.16
+2.39
+2.02***
+(a) We issue debt when our recent pro"ts (internal
+funds) are not su$cient to fund our activities
+46.78
+2.13
+2.30
+1.88***
+2.09
+1.86
+2.10
+2.12
+1.81
+2.28**
+2.09 2.16
+2.24
+1.94**
+2.14
+2.13
+(d) We use debt when our equity is undervalued
+by the market
+30.79
+1.56
+1.37
+1.76***
+2.14
+1.85
+1.52
+1.72
+1.56
+2.17*** 1.65 1.37*
+1.67
+1.47
+1.83
+1.49**
+(g) Changes in the price of our common stock
+16.38
+1.08
+0.91
+1.25***
+1.45
+1.38
+0.96
+1.27**
+1.05
+1.52*** 1.14 0.95
+1.14
+1.01
+1.25
+1.07
+(e) We delay issuing debt because of transactions
+costs and fees
+10.17
+1.06
+1.25
+0.83***
+1.06
+0.87
+1.09
+1.00
+0.90
+0.92
+0.97 1.20**
+1.06
+1.07
+0.92
+1.22**
+(f) We delay retiring debt because of
+recapitalization costs and fees
+12.43
+1.04
+1.04
+1.05
+1.16
+1.04
+0.91
+1.18**
+1.10
+1.30
+1.13 0.93*
+1.19
+0.86*** 1.05
+1.02
+(b) Using debt gives investors a better impression
+of our "rm's prospects than issuing common stock
+9.83
+0.96
+0.85
+1.05*
+1.19
+1.14
+0.91
+1.09
+1.00
+1.39**
+1.00 0.84
+1.01
+0.87
+1.07
+0.95
+(h) We issue debt when we have accumulated substantial
+pro"ts
+1.14
+0.53
+0.50
+0.55
+0.61
+0.55
+0.46
+0.54
+0.57
+0.60
+0.55 0.50
+0.58
+0.45
+0.61
+0.52
+% important
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or very
+important
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(c) We issue debt when interest rates are
+particularly low
+46.35
+2.22
+2.13
+2.26
+2.24
+2.21
+2.36
+2.15
+2.19
+2.20
+2.30
+2.12
+2.39 1.90***
+2.38
+2.15
+2.19
+2.35
+(a) We issue debt when our recent pro"ts (internal
+funds) are not su$cient to fund our activities
+46.78
+2.13
+2.24
+2.09
+2.35
+2.00**
+2.09
+2.18
+2.00
+2.14
+2.21
+2.00
+2.01 2.33**
+1.93
+2.18
+2.21
+1.75**
+(d) We use debt when our equity is undervalued
+by the market
+30.79
+1.56
+1.51
+1.57
+1.44
+1.60
+1.50
+1.58
+1.86
+1.50
+1.63
+1.46
+2.10 0.54***
+1.89
+1.41*** 1.54
+1.67
+(g) Changes in the price of our common stock
+16.38
+1.08
+0.95
+1.11
+1.05
+1.06
+1.04
+1.08
+1.10
+1.04
+1.16
+0.99
+1.48 0.31***
+1.15
+1.02
+1.08
+1.10
+(e) We delay issuing debt because of transactions costs
+and fees
+10.17
+1.06
+0.97
+1.09
+1.27
+0.95*** 1.13
+1.06
+0.76
+1.10
+1.13
+0.99
+1.03 1.15
+1.11
+1.05
+1.17
+0.57***
+(f) We delay retiring debt because of
+recapitalization costs and fees
+12.43
+1.04
+1.08
+1.01
+1.20
+0.93**
+1.10
+0.98
+1.05
+1.06
+1.07
+0.99
+1.14 0.87**
+1.22
+0.97
+1.07
+0.89
+(b) Using debt gives investors a better impression
+of our "rm's prospects than issuing common stock
+9.83
+0.96
+1.10
+0.90
+0.94
+0.95
+0.79
+1.04**
+1.10
+0.91
+1.01
+0.91
+1.18 0.51***
+1.00
+0.92
+0.92
+1.14
+(h) We issue debt when we have accumulated substantial
+pro"ts
+1.14
+0.53
+0.51
+0.53
+0.61
+0.46*
+0.45
+0.58
+0.71
+0.52
+0.56
+0.50
+0.56 0.47
+0.57
+0.51
+0.52
+0.55
+Respondents are asked to rate on a scale of 0 (not important) to 4 (very important). We report the overall mean as well as the % of respondents that answered 3 and 4 (very important). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+220
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Table 10
+Survey responses to the question: has your "rm seriously considered issuing convertible debt? If `yesa, what factors a!ect your "rm's decisions about issuing convertible debt?
+% important
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or very
+important
+Mean Small
+Large
+Growth Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(a) Convertibles are an inexpensive way to issue
+`delayeda common stock
+58.11
+2.49
+2.54
+2.43
+2.67
+2.50
+2.38
+2.60
+2.73
+2.42
+2.59
+2.43
+2.40
+2.57
+2.42
+2.52
+(f) Our stock is currently undervalued
+50.68
+2.34
+2.26
+2.44
+2.72
+2.19*
+2.21
+2.52
+2.40
+2.64
+2.25
+2.46
+2.41
+2.43
+2.28
+2.42
+(g) Ability to `calla or force conversion of
+convertible debt if/when we need to
+47.95
+2.29
+2.28
+2.29
+2.58
+2.56
+2.32
+2.20
+2.21
+2.65
+2.42
+2.17
+2.26
+2.33
+2.08
+2.52*
+(e) Avoiding short-term equity dilution
+45.83
+2.18
+2.03
+2.35
+2.45
+2.19
+2.15
+2.28
+2.47
+2.38
+2.44
+1.97*
+2.23
+2.14
+2.05
+2.33
+(h) To attract investors unsure about the riskiness
+of our company
+43.84
+2.07
+2.35
+1.73**
+1.88
+1.88
+2.02
+2.10
+1.36
+1.88*
+1.83
+2.31*
+2.00
+2.13
+1.82
+2.47**
+(c) Convertibles are less expensive than straight debt
+41.67
+1.85
+2.08
+1.58*
+1.56
+2.31**
+1.80
+1.83
+1.43
+1.80
+1.57
+2.14**
+1.58
+2.10*
+1.71
+2.00
+(d) Other "rms in our industry successfully use
+convertibles
+12.50
+1.10
+1.12
+1.06
+1.22
+0.69*
+1.29
+0.83**
+0.93
+1.25
+0.86
+1.21*
+0.92
+1.30*
+1.05
+1.06
+(b) Protecting bondholders against unfavorable
+actions by managers or stockholders
+1.41
+0.62
+0.61
+0.64
+0.72
+0.31**
+0.57
+0.66
+0.43
+0.64
+0.54
+0.71
+0.58
+0.72
+0.61
+0.67
+% important
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or very
+important
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(a) Convertibles are an inexpensive way to issue
+`delayeda common stock
+58.11
+2.49
+2.79
+2.46
+2.74
+2.42
+2.61
+2.47
+2.78
+2.51
+2.36
+2.68
+2.54
+2.27
+2.52
+2.41
+2.51
+2.41
+(f) Our stock is currently undervalued
+50.68
+2.34
+2.00
+2.45
+2.28
+2.42
+1.87
+2.57** 2.78
+2.27
+2.30
+2.32
+2.45
+1.93*
+2.48
+2.25
+2.30
+2.47
+(g) Ability to `calla or force conversion of
+convertible debt if/when we need to
+47.95
+2.29
+2.64
+2.21
+2.42
+2.22
+1.91
+2.39*
+2.25
+2.28
+2.23
+2.37
+2.29
+2.27
+2.48
+2.20
+2.28
+2.31
+(e) Avoiding short-term equity dilution
+45.83
+2.18
+2.00
+2.25
+2.28
+2.16
+2.00
+2.24
+3.11
+2.10**
+2.05
+2.37
+2.21
+2.07
+2.24
+2.12
+2.05
+2.59*
+(h) To attract investors unsure about the riskiness
+of our company
+43.84
+2.07
+2.29
+2.00
+2.00
+2.08
+1.57
+2.33*** 1.88
+2.12
+2.32
+1.63** 1.77
+3.07*** 2.00
+2.10
+2.16
+1.75
+(c) Convertibles are less expensive than straight debt
+41.67
+1.85
+2.50
+1.70**
+1.94
+1.76
+2.04
+1.78
+1.38
+1.93
+2.07
+1.44** 1.81
+2.00
+1.81
+1.86
+2.02
+1.25**
+(d) Other "rms in our industry successfully use
+convertibles
+12.50
+1.10
+1.00
+1.11
+0.72
+1.25** 0.57
+1.33*** 1.50
+0.95*
+1.33
+0.78** 1.09
+1.00
+1.33
+1.00
+1.18
+0.80
+(b) Protecting bondholders against unfavorable
+actions by managers or stockholders
+1.41
+0.62
+1.08
+0.53*** 0.61
+0.66
+0.48
+0.73*
+0.62
+0.59
+0.60
+0.67
+0.61
+0.67
+0.62
+0.62
+0.64
+0.56
+Respondents are asked to rate on a scale of 0 (not important) to 4 (very important). We report the overall mean as well as the % of respondents that answered 3 and 4 (very important). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+221
+of "nancing hierarchy. However, asymmetric information does not appear to
+cause the importance of these factors, as it should if the pecking-order model is
+the true model of capital structure choice.
+5.2.2. Recent increase in price of common stock
+We investigate whether "rms issue stock during a `window of opportunitya
+that arises because their stock price has recently increased, as argued by
+Loughran and Ritter (1995). Lucas and McDonald (1990) put an informational
+asymmetry spin on the desire to issue equity after stock price increases: If
+a "rm's stock price is undervalued due to informational asymmetry, it delays
+issuing until after an informational release (of good news) and the ensuing
+increase in stock price.
+Recent stock price performance is the third most popular factor a!ecting
+equity-issuance decisions (rating of 2.53 in Table 8), in support of the `window of
+opportunitya. Consistent with Lucas and McDonald (1990), the window of
+opportunity is most important for "rms su!ering from informational asymmet-
+ries (i.e., not paying dividends).
+5.2.3. Signaling private information with debt and equity
+Ross (1977) and Leland and Pyle (1977) argue that "rms use capital structure
+to signal their quality or future prospects. However, very few "rms indicate that
+their debt policy is a!ected by factors consistent with signaling (rating of 0.96 in
+Table 9). In addition to small absolute importance, companies more likely to
+su!er from informational asymmetries, such as small, private (0.51) "rms, are
+relatively unlikely to use debt to signal future prospects (see Row b in Table 9).
+We also "nd little evidence that "rms issue equity to give the market a positive
+impression of their prospects (rating of 1.31 in Table 8). Sending a positive signal
+via equity issuance is relatively more popular among speculative, nondividend-
+paying "rms.
+5.2.4. Private information and convertible stock issuance
+Brennan and Kraus (1987) and Brennan and Schwartz (1988) argue that the
+call or conversion feature makes convertible debt relatively insensitive to asym-
+metric information (between management and investors) about the risk of the
+"rm. We "nd moderate support for this argument. Firms use convertible debt to
+attract investors unsure about the riskiness of the company (rating of 2.07 in
+Table 10). This response is relatively more popular among "rms for which
+outside investors are likely to know less than management about "rm risk, i.e.,
+small "rms (2.35) with large managerial ownership (2.47).
+Stein (1992) argues that if "rms privately know that their stock is under-
+valued, they prefer to avoid issuing equity. At the same time, they want to
+minimize the distress costs that come with debt issuance. Convertible debt is
+`delayeda common stock that has lower distress costs than debt and smaller
+222
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+undervaluation than equity. We "nd strong evidence consistent with Stein's
+argument that convertibles are `back-door equity.a Among "rms that issue
+convertible debt, the most popular factor is that convertibles are an inexpensive
+way to issue delayed common stock (rating of 2.49 in Table 10).
+5.2.5. Anticipating improvement in credit ratings
+Having private information about credit quality can a!ect a "rm's optimal
+debt maturity. In theory, if "rms privately know they are high quality but are
+currently assigned a low credit rating, they issue short-term debt because they
+expect their rating to improve (Flannery, 1986; Kale and Noe, 1990). In practice,
+the evidence that "rms time their credit worthiness is weak. The mean response
+is only 0.85 (Row e, Table 11) that companies borrow short-term because they
+expect their credit rating to improve. This response receives more support from
+companies with speculative grade debt (1.18) and those that do not pay divi-
+dends (0.99). Though not of large absolute magnitude, this last answer is
+consistent with "rms timing their credit ratings when they are subject to large
+informational asymmetries.
+5.2.6. Timing market interest rates
+Although relatively few executives time changes in their credit ratings (some-
+thing about which they might reasonably have private information), we "nd
+surprising indications that they try to time the market in other ways. We inquire
+whether executives attempt to time interest rates by issuing debt when they feel
+that market interest rates are particularly low. The rating of 2.22 in Table
+6 provides moderately strong evidence that "rms try to time the market in this
+sense. Market timing is especially important for large "rms (2.40), which implies
+that companies are more likely to time interest rates when they have a large or
+sophisticated treasury department.
+We also "nd evidence that "rms issue short-term debt in an e!ort to time
+market interest rates. CFOs borrow short-term when they feel that short rates
+are low relative to long rates (1.89 in Table 11) or when they expect long-term
+rates to decline (1.78). Finally, we check if "rms use foreign debt because foreign
+interest rates are lower than domestic rates. There is moderate evidence that
+relatively low foreign interest rates a!ect the decision to issue abroad (rating of
+2.19). Though insigni"cant, small (2.33) growth (2.27) "rms are more likely to
+make this claim. If covered interest rate parity holds, it is not clear to us why
+"rms pursue this strategy.
+5.3. Agency costs
+5.3.1. Conyicts between bondholders and equityholders
+Myers (1977) argues that investment decisions can be a!ected by the presence
+of long-term debt in a "rm's capital structure. Shareholders might `underinvesta
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+223
+Table 11
+Survey responses to the question: what factors a!ect your "rm's choice between short- and long-term debt?
+% important
+Size
+P/E
+Leverage
+Investment
+grade
+Pay dividends
+Industry
+Management
+ownership
+or very
+important
+Mean Small
+Large
+Growth Non-G
+Low
+High
+Yes
+No
+Yes
+No
+Manu. Others
+Low
+High
+(b) Matching the maturity of our debt with the life
+of our assets
+63.25
+2.60 2.69
+2.46**
+2.70
+2.46*
+2.57
+2.63
+2.60
+2.45
+2.53
+2.67
+2.51
+2.72*
+2.54
+2.62
+(g) We issue long-term debt to minimize the risk
+of having to re"nance in `bad timesa
+48.83
+2.15 2.05
+2.29*
+2.31
+2.03*
+1.95
+2.55*** 2.26
+2.51*
+2.22
+2.05
+2.39
+1.79*** 2.18
+2.10
+(a) We issue short-term when short-term interest
+rates are low compared to long-term rates
+35.94
+1.89 1.79
+2.01**
+1.97
+2.11
+1.82
+1.93
+2.22
+2.05
+2.00
+1.74** 2.03
+1.77**
+1.95
+1.67**
+(c) We issue short-term when we are waiting for
+long-term market interest rates to decline
+28.70
+1.78 1.66
+1.93**
+2.01
+1.82
+1.67
+1.90**
+2.00
+2.02
+1.91
+1.61*** 1.90
+1.65**
+1.82
+1.67
+(d) We borrow short-term so that returns from new
+projects can be captured more fully by shareholders,
+rather than committing to pay long-term pro"ts
+as interest to debtholders
+9.48
+0.94 1.03
+0.80**
+0.87
+0.89
+1.01
+0.85*
+0.84
+0.77
+0.98
+0.87
+1.05
+0.81**
+0.89
+0.97
+(e) We expect our credit rating to improve, so we
+borrow short-term until it does
+8.99
+0.85 0.86
+0.84
+0.87
+0.68*
+0.79
+0.99*
+0.66
+1.18*** 0.73
+0.99** 0.89
+0.85
+0.89
+0.87
+(f) Borrowing short-term reduces the chance that our
+"rm will want to take on risky projects
+4.02
+0.53 0.62
+0.40***
+0.54
+0.32**
+0.56
+0.49
+0.36
+0.56**
+0.47
+0.59*
+0.53
+0.51
+0.40
+0.70***
+224
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+% important
+CEO age
+CEO tenure
+CEO MBA
+Regulated
+Target debt
+ratio
+Public corp.
+Foreign sales
+Fortune 500
+mailing
+or very
+important
+Mean '59
+Ynger
+Long
+Short
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+(b) Matching the maturity of our debt with the life
+of our assets
+63.25
+2.60
+2.28
+2.69***
+2.69
+2.53
+2.59
+2.64
+2.81
+2.60
+2.53
+2.66
+2.47 2.85***
+2.33 2.69***
+2.65
+2.39*
+(g) We issue long-term debt to minimize the risk
+of having to re"nance in `bad timesa
+48.83
+2.15
+2.09
+2.20
+2.25
+2.12
+2.20
+2.15
+2.48
+2.15
+2.00
+2.36*** 2.23 2.02*
+2.40 2.06**
+2.11
+2.31
+(a) We issue short-term when short-term interest
+rates are low compared to long-term rates
+35.94
+1.89
+1.78
+1.93
+1.87
+1.90
+1.98
+1.87
+1.95
+1.86
+1.93
+1.85
+2.00 1.72**
+2.11 1.80**
+1.86
+2.03
+(c) We issue short-term when we are waiting for
+long-term market interest rates to decline
+28.70
+1.78
+1.68
+1.80
+1.79
+1.78
+1.74
+1.79
+2.40
+1.71*** 1.72
+1.87
+1.93 1.50***
+2.00 1.69**
+1.74
+1.94
+(d) We borrow short-term so that returns from
+new projects can be captured more fully by
+shareholders, rather than committing to pay
+long-term pro"ts as interest to debtholders
+9.48
+0.94
+0.86
+0.95
+0.98
+0.90
+0.99
+0.89
+0.90
+0.93
+0.96
+0.90
+0.87 1.07**
+0.95 0.93
+0.99
+0.70**
+(e) We expect our credit rating to improve, so we
+borrow short-term until it does
+8.99
+0.85
+0.79
+0.87
+0.89
+0.82
+0.84
+0.87
+0.90
+0.85
+0.98
+0.65*** 0.88 0.82
+0.89 0.85
+0.89
+0.70*
+(f) Borrowing short-term reduces the chance that our
+"rm will want to take on risky projects
+4.02
+0.53
+0.51
+0.53
+0.66
+0.44*** 0.45
+0.56
+0.43
+0.54
+0.55
+0.51
+0.46 0.67**
+0.44 0.57*
+0.59
+0.29***
+Respondents are asked to rate on a scale of 0 (not important) to 4 (very important). We report the overall mean as well as the % of respondents that answered 3 and 4 (very important). ***, **, * denotes a signi"cant
+di!erence at the 1%, 5%, and 10% level, respectively. All table columns are de"ned in Table 1.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+225
+and pass up positive NPV projects if they perceive that the pro"ts will be used to
+pay o! existing debtholders. This cost is most acute among growth "rms. Myers
+(1977) argues that "rms can limit total debt, or use short-term debt, to minimize
+underinvestment costs. Froot, Scharfstein, and Stein (1993) argue that "rms can
+hedge or otherwise maintain "nancial #exibility to avoid these costs of underin-
+vestment.
+We ask "rms if their choice between short- and long-term debt, or their
+overall debt policy, is related to their desire to pay long-term pro"ts to share-
+holders, not debtholders. The absolute number of "rms indicating that their
+debt policy is a!ected by underinvestment concerns is small (rating of 1.01 in
+Table 6). However, more growth (1.09) than nongrowth "rms (0.69) are likely to
+indicate that underinvestment problems are a concern, which is consistent with
+the theory. We "nd little support for the idea that short-term debt is used to
+alleviate the underinvestment problem. The mean response is only 0.94 (Row
+d in Table 11) that short-term borrowing is used to allow returns from new
+projects to be captured by long-term shareholders, and there is no statistical
+di!erence in the response between growth and nongrowth "rms.
+Overall, support for the underinvestment argument is weak. This is interesting
+because it contrasts with the "nding in many large sample studies that debt
+usage is inversely related to variables measuring growth options (i.e., market-
+to-book ratios), which those studies interpret as evidence that underinvestment
+costs a!ects debt policy (e.g., Graham, 1996).
+Stockholders capture investment returns above those required to service debt
+payments and other liabilities, and at the same time have limited liability when
+returns are insu$cient to fully pay debtholders. Therefore, stockholders prefer
+high-risk projects, in con#ict with bondholder preferences. Leland and Toft
+(1996) argue that using short-term debt reduces this agency con#ict (see also
+Barnea et al., 1980).
+In contrast to this hypothesis, however, we "nd little evidence that executives
+issue short-term debt to minimize asset substitution problems. The mean re-
+sponse is only 0.53 (Table 11) that executives feel that short-term borrowing
+reduces the chance that shareholders will want to take on risky projects.
+Green (1984) argues that convertible debt can circumvent the asset substitu-
+tion problem that arises when "rms accept projects that are riskier than
+bondholders would prefer. However, we "nd little evidence that "rms use
+convertibles to protect bondholders against unfavorable actions by managers or
+stockholders (rating of 0.62 in Table 10).
+5.3.2. Conyicts between managers and equityholders
+Jensen (1986) and others argue that when a "rm has ample free cash #ow, its
+managers can squander the cash by consuming perquisites or making ine$cient
+investment decisions. We inquire whether "rms use debt to commit to pay out
+free cash #ows and thereby discipline management into working e$ciently
+226
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+along the lines suggested by Jensen. We "nd very little evidence that "rms
+discipline managers in this way (mean rating of 0.33, the second lowest rating
+among all factors a!ecting debt policy in Table 6). It is important to note,
+however, that 1) managers might be unwilling to admit to using debt in this
+manner, or 2) perhaps a low rating on this question re#ects an unwillingness of
+"rms to adopt Jensen's solution more than a weakness in Jensen's argument.
+5.4. Product market and industry factors
+Bradley et al. (1984) "nd that debt ratios di!er markedly across industries.
+One explanation for this pattern is that the product market environment or
+nature of competition varies across industries in a way that a!ects optimal debt
+policy. For example, Titman (1984) suggests that customers avoid purchasing
+a "rm's products if they think that the "rm might go out of business (and
+therefore not stand behind its products), especially if the products are unique;
+consequently, "rms that produce unique products might avoid using debt.
+Brander and Lewis (1986) model another way that production and "nancing
+decisions can be intertwined. They hypothesize that, by using substantial debt,
+a "rm can provide a credible threat to rivals that it will not reduce production.
+We "nd little evidence that product market factors a!ect debt decisions.
+Executives assign a mean rating of 1.24 to the proposition that debt should be
+limited so that a "rm's customers or suppliers do not become concerned that the
+"rm might go out of business (Table 6). Moreover, high-tech "rms (which we
+assume produce unique products) are less likely than other "rms to limit debt
+for this reason, contrary to Titman's prediction. We do "nd that, in comparison
+to nongrowth "rms (1.00), relatively many growth "rms (1.43) claim that cus-
+tomers might not purchase their products if they are worried that debt usage
+might cause the "rm to go out of business. This is consistent with Titman's
+theory if growth "rms produce unique products. Finally, there is no evidence
+supporting the Brander and Lewis hypothesis that debt provides a credible
+production threat (rating of 0.40).
+Though we do not "nd much evidence that product market factors drive
+industry di!erences in debt ratios, we ask executives whether their capital
+structure decisions are a!ected by the "nancing policy of other "rms in their
+industries. This is important because some papers de"ne a "rm's target debt
+ratio as the industry-wide ratio (e.g., Opler and Titman, 1998; Gilson, 1997).
+We "nd only modest evidence that managers are concerned about the debt
+levels of their competitors (rating of 1.49 in Table 6). Recall, however, that credit
+ratings are important to debt decisions and note that industry debt ratios are an
+important input for bond ratings. Rival debt ratios are relatively important for
+regulated companies (2.32), Fortune 500 "rms (1.86), public "rms (rating of 1.63
+versus 1.27 for private "rms), and "rms that target their debt ratio (1.60).
+Moreover, equity issuance decisions are not in#uenced greatly by the equity
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+227
+policies of other "rms in a given industry (rating of 1.45 in Table 8). Finally, we
+"nd even less evidence that "rms use convertibles because other "rms in their
+industry do so (1.10 in Table 10).
+5.5. Control contests
+Capital structure can be used to in#uence, or can be a!ected by, corporate
+control contests and managerial share ownership (e.g., Harris and Raviv, 1988;
+Stulz, 1988). We "nd moderate evidence that "rms issue equity to dilute the
+stock holdings of certain shareholders (rating of 2.14 in Table 8). This tactic is
+popular among speculative-grade companies (2.24); however, it is not related to
+the number of shares held by managers. We also ask if "rms use debt to reduce
+the likelihood that the "rm will become a takeover target. We "nd little support
+for this hypothesis (rating of 0.73 in Table 6).
+5.6. Risk management
+Capital structure can be used to manage risk. GeH czy et al. (1997, p. 1331) note
+that `foreign denominated debt can act as a natural hedge of foreign revenuesa
+and displace the need to hedge with currency derivatives. We ask whether "rms
+use foreign debt because it acts as a natural hedge, and separately how impor-
+tant it is to keep the source close to the use of funds. Among the 31% of
+respondents who seriously considered issuing foreign debt, the most popular
+reason they did so is to provide a natural hedge against foreign currency
+devaluation (mean rating of 3.15 in Table 7). Providing a natural hedge is most
+important for public "rms (3.21) with large foreign exposure (3.34). The second
+most important factor a!ecting the use of foreign debt is keeping the source
+close to the use of funds (rating of 2.67), especially for small (3.09), manufacturing
+"rms (2.92).
+Risk-management practices can also explain why "rms match the maturity of
+assets and liabilities. If asset and liability duration are not aligned, interest rate
+#uctuations can a!ect the amount of funds available for investment and day-to-
+day operations. We ask "rms how they choose debt maturity. The most popular
+explanation of how "rms choose between short- and long-term debt is that they
+match debt maturity with asset life (rating of 2.60 in Table 11). Maturity-
+matching is most important for small (2.69), private (2.85) "rms.
+5.7. Practical, cash management considerations
+Liquidity and cash management a!ect corporate "nancial decisions, often in
+ways that are not as `deepa as the factors driving academic models. For
+example, many companies issue long-term so that they do not have to re"nance
+in `bad timesa (rating of 2.15 in Table 11). This is especially important for highly
+228
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+levered (2.55), manufacturing (2.37) "rms. The CFOs also say that equity is often
+issued simply to provide shares to bonus/option plans (2.34 in Table 8), parti-
+cularly among investment-grade "rms (2.77) with a young CEO (2.65).
+The hand-written responses indicate that practical considerations a!ect the
+maturity structure of borrowing (see B.7 on the Internet site, Appendix B). Four
+"rms explicitly say that they tie their scheduled principal repayments to their
+projected ability to repay. Another six diversify debt maturity to limit the
+magnitude of their re"nancing activity in any given year. Other "rms borrow for
+the length of time they think they will need funds, or borrow short-term until
+su$cient debt has accumulated to justify borrowing long-term.
+5.8. Other factors awecting capital structure
+5.8.1. Debt
+We ask if having debt allows "rms to bargain for concessions from employees
+(Chang, 1992; Hanka, 1998). We "nd no indication that this is the case (mean
+rating of 0.16 in Table 6, the lowest rating for any question on the survey). Not
+a single respondent said that debt is important or very important as a bargain-
+ing device (rating of 3 or 4). We also check if "rms issue debt after recently
+accumulating substantial pro"ts (Opler and Titman, 1998). The executives do
+not recognize this as an important factor a!ecting debt policy (rating 0.53 in
+Table 9).
+Fourteen "rms write that they choose debt to minimize their weighted
+average cost of capital (see B.5 on the Internet site, Appendix B). Ten write,
+essentially, that they borrow to fund projects or growth, but only as needed. Five
+indicate that bond or bank covenants a!ect their debt policy.
+5.8.2. Common stock
+We investigate whether concern about earnings dilution a!ects equity
+issuance decisions. The textbook view is that earnings are not diluted if a "rm
+earns the required return on the new equity. Conversely, if funds are obtained by
+issuing debt, the number of shares remains constant and so EPS can increase.
+However, the equity is levered and therefore more risky, so Modigliani and
+Miller's `conservation of valuea tells us that the stock price will not increase due
+to higher EPS. Nonetheless, Brealey and Myers (1996) indicate that there is
+a common belief among executives that share issuance dilutes earnings per share
+(on p. 396, Brealey and Myers call this view a `fallacya). To investigate this issue,
+we ask if earnings per share concerns a!ect decisions about issuing common
+stock.
+Among the 38% of "rms that seriously considered issuing common equity
+during the sample period, earnings dilution is the most important factor a!ect-
+ing their decision (mean rating of 2.84 in Table 8 and a mean rating of 3.18
+among public "rms). The popularity of this response is intriguing (see Fig. 7). It
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+229
+Fig. 7. Survey evidence on some of the factors that a!ect the decision to issue common stock. The
+survey is based on the responses of 392 CFOs.
+either indicates that executives focus more than they should on earnings dilution
+(if the standard textbook view is correct), or that the standard textbook treat-
+ment misses an important aspect of earnings dilution. EPS dilution is a big
+concern among regulated companies (3.60), even though in many cases the
+regulatory process ensures that utilities earn their required cost of capital,
+implying that EPS dilution should not a!ect share price. Concern about EPS
+dilution is strong among large (3.12), dividend-paying "rms (3.06). EPS dilution
+is less important when the CEO has an MBA (2.62) than when he or she does not
+(2.95), perhaps because the executive has read Brealey and Myers!
+We inquire whether common stock is a "rm's least risky or cheapest source of
+funds. Williamson (1988) argues that equity is a cheap source of funds with
+which to "nance low-speci"city assets. A modest number of the executives state
+that they use equity because it is the least risky source of funds (rating of 1.76 in
+Table 8). The idea that equity has low risk is more popular among "rms with the
+characteristics of a new or start-up "rm: small (1.93) with growth options (2.07).
+The idea that common stock is the cheapest source of funds is less popular
+(rating of 1.10), although "rms with start-up characteristics are more likely to
+have this belief. Unreported analysis indicates that there is a positive correlation
+between believing that equity is the cheapest and that it is the least risky source
+of funds.
+Nine companies indicate that they issue common stock because it is the
+`preferred currencya for making acquisitions, especially for the pooling method
+of accounting (see B.9 on the Internet site, Appendix B). Two "rms write that
+230
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Fig. 8. Survey evidence on the factors that a!ect the decision to issue convertible debt. The survey is
+based on the responses of 392 CFOs.
+they issue stock because it is the natural form of "nancing for them in their
+current stage of corporate development.
+5.8.3. Convertible debt
+We ask the executives whether the ability to call or force conversion is an
+important feature a!ecting convertible debt policy. Among the one-in-"ve "rms
+that seriously considered issuing convertible debt, there is moderate evidence
+that executives like convertibles because of the ability to call or force conversion
+(rating of 2.29 in Table 10). Though not a direct test, the popularity of the
+call/conversion feature is consistent with Mayers' (1998) hypothesis that con-
+vertible debt allows funding of pro"table future projects but attenuates overin-
+vestment incentives. The factors used in decisions to issue convertible debt are
+presented in Fig. 8.
+Billingsley et al. (1985) document that convertibles cost on average 50 basis
+points less than straight debt. However, relatively few CFOs indicate that they
+use convertible debt because it is less expensive than straight debt (rating of
+1.85). Companies run by mature executives are more likely to issue convertibles
+because they are less costly than straight debt (2.50).
+Billingsley and Smith (1996) also "nd that convertibles are favored as delayed
+equity and because management feels that common equity is undervalued.
+Contrary to our results, Billingsley and Smith "nd fairly strong evidence that
+"rms are in#uenced by the convertible use of other "rms in their industry. Also
+in contrast to our results, they "nd that the most important factor a!ecting the
+use of convertibles is the lower cash costs/coupon rate versus straight debt. One
+di!erence between our study and theirs is that they request a response relative to
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+231
+a speci"c o!ering among "rms that actually issue convertible debt. We condi-
+tion only on whether a "rm seriously considered issuing convertibles.
+5.8.4. Foreign debt
+Grinblatt and Titman (1998) note that capital markets have become increas-
+ingly global in recent decades and that U.S. "rms frequently raise funds over-
+seas. We indicate above that "rms issue foreign debt in response to tax
+incentives, to keep the source close to the use of funds, and in an attempt to take
+advantage of low foreign interest rates. Five "rms write that they borrow
+overseas to broaden their sources of "nancing (see B.8 on the Internet site,
+Appendix B). Few "rms indicate that foreign regulations require them to issue
+abroad (rating of 0.61 in Table 7).
+6. Conclusions
+Our survey of the practice of corporate "nance is both reassuring and
+puzzling. For example, it is reassuring that NPV is dramatically more important
+now as a project evaluation method than, as indicated in past surveys, it was 10
+or 20 years ago. The CAPM is also widely used. However, it is surprising that
+more than half of the respondents would use their "rm's overall discount rate to
+evaluate a project in an overseas market, even though the project likely has
+di!erent risk attributes than the overall "rm. This indicates that practitioners
+might not apply the CAPM or NPV rule correctly. It is also interesting that
+CFOs pay very little attention to risk factors based on momentum and book-
+to-market value.
+We identify fundamental di!erences between small and large "rms. Our
+research suggests that small "rms are less sophisticated when it comes to
+evaluating risky projects. Small "rms are signi"cantly less likely to use the NPV
+criterion or the capital asset pricing model and its variants. Perhaps these and
+our other "ndings about the e!ect of "rm size will help academics understand
+the pervasive relation between size and corporate practices. Further, the fact
+that the practice of corporate "nance di!ers based on "rm size could be an
+underlying cause of size-related asset pricing anomalies.
+In our analysis of capital structure, we "nd that informal criteria such as
+"nancial #exibility and credit ratings are the most important debt policy factors.
+Other informal criteria such as EPS dilution and recent stock price appreciation
+are the most important factors in#uencing equity issuance. The degree of stock
+undervaluation is also important to equity issuance, and we know from other
+surveys that most executives feel their stock is undervalued.
+We "nd moderate support that "rms follow the trade-o! theory and target
+their debt ratio. Other results, such as the importance of equity undervaluation
+and "nancial #exibility, are generally consistent with the pecking-order view.
+However, the evidence in favor of these theories does not hold up as well under
+232
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+closer scrutiny (e.g., the evidence is generally not consistent with informational
+asymmetry causing pecking-order-like behavior), and is weaker still for more
+subtle theories. We "nd mixed or little evidence that signaling, transactions
+costs, underinvestment costs, asset substitution, bargaining with employees, free
+cash #ow considerations, and product market concerns a!ect capital structure
+choice. Table 12 summarizes our capital structure "ndings.
+In summary, executives use the mainline techniques that business schools
+have taught for years, NPV and CAPM, to value projects and to estimate the
+cost of equity. Interestingly, "nancial executives are much less likely to follow
+the academically proscribed factors and theories when determining capital
+structure. This last "nding raises possibilities that require additional thought
+and research. Perhaps the relatively weak support for many capital structure
+theories indicates that it is time to critically reevaluate the assumptions and
+implications of these mainline theories. Alternatively, perhaps the theories are
+valid descriptions of what "rms should do}but corporations ignore the theoret-
+ical advice. One explanation for this last possibility is that business schools
+might be better at teaching capital budgeting and the cost of capital than at
+teaching capital structure. Moreover, perhaps NPV and the CAPM are more
+widely understood than capital structure theories because they make more
+precise predictions and have been accepted as mainstream views for longer.
+Additional research is needed to investigate these issues.
+Table 12
+Summary of the relation between survey evidence and capital structure theories
+A capital structure theory or concept is listed in the "rst column, followed by the related survey
+evidence in the right column.  () indicates that the evidence drawn from the unconditional
+responses to a survey question supports (does not support) the idea in the "rst column. An indented
+ () indicates whether the survey evidence supports (does not support) the idea conditional on "rm
+characteristics or other detailed analysis. The conditional (i.e., indented) evidence usually quali"es
+the unconditional result it lies directly below.
+Theory or concept
+Survey evidence
+Trade-ow theory of choosing optimal debt policy
+corporate interest deductions moderately
+important.
+Trade-o! bene"ts and costs of debt (Scott, 1976).
+foreign tax treatment moderately important.
+Often tax bene"ts are traded o! with expected
+distress costs or personal tax costs (Miller, 1977).
+cash #ow volatility important.
+expected distress/bankruptcy costs not
+important.
+maintaining "nancial #exibility important
+(expected distress costs low).
+unrelated to whether "rm has target debt
+ratio.
+personal taxes not important to debt or
+equity decision.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+233
+Table 12 (continued)
+Theory or concept
+Survey evidence
+Firms have target debt ratios
+44% have strict or somewhat strict
+target/range.
+A static version of the trade-o! theory implies that
+"rms have an optimal, target debt ratio.
+64% of investment-grade "rms have
+somewhat strict target/range.
+target D/E moderately important for equity
+issuance decision.
+37% have #exible and 19% have no
+target/range.
+issue equity after stock price increase.
+changes in stock price not important to debt
+decision.
+execs say same-industry debt ratios are not
+important.
+there are industry patterns in reported
+debt ratios.
+The ewect of transactions costs on debt ratios:
+transactions costs a!ect debt policy.
+Transactions costs can a!ect the cost of external
+funds.
+more important for small "rms.
+Firms avoid or delay issuing or retiring security
+because of issuance/recapitalization cost
+(Fisher et al., 1989)
+absolute importance is small for
+transactions costs delaying debt issue.
+transactions costs relatively important for
+small, no-dividend "rms.
+transactions costs do not cause "rms to
+delay debt retirement.
+Pecking-order theory of xnancing hierarchy:
+"rms value "nancial #exibility.
+Financial securities can be undervalued due to
+informational asymmetry between managers and
+investors. Firms should use securities in reverse
+order of asymmetry: use internal funds "rst, debt
+second, convertible security third, equity last
+desire for #exibility is unrelated to degree
+of informational asymmetry (size) or growth
+status.
+#exibility less important for no-dividend
+"rms.
+issue debt when internal funds are
+insu$cient.
+more important for small "rms.
+To avoid need for external funds, "rms may prefer
+to store excess cash (Myers and Majluf, 1984).
+no relation to growth or dividend
+status.
+issue equity when internal funds
+insu$cient.
+relatively important for small "rms.
+equity issuance decision a!ected by equity
+undervaluation.
+no relation to size, dividend status, or
+executive ownership.
+234
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Table 12 (continued)
+Theory or concept
+Survey evidence
+equity issuance decision una!ected by
+ability to obtain funds from debt, convertibles,
+or other sources.
+debt issuance una!ected by equity
+valuation.
+even less important for small, growth, no-
+dividend "rms.
+Stock price: Recent increase in stock price presents
+aawindow of opportunitya to issue equity
+(Loughran and Ritter, 1995). If stock undervalued
+due to informational asymmetry, issue after
+information release and ensuing stock price
+increase (Lucas and McDonald, 1990)
+issue equity when stock price has risen
+recent price increase most important for
+"rms that do not pay dividends (signi"cant)
+and small "rms (not signi"cant).
+Credit ratings: "rms issue short-term if they expect
+their credit rating to improve (Flannery, 1986).
+In general, rating is very important to debt
+decision.
+short-term debt not used to time rating
+improvement.
+Interest rates: do absolute coupon rates or relative
+rates between long- and short-term debt a!ect
+when debt is issued?
+issue debt when interest rates low.
+short-term debt used only moderately to
+time the level of interest rates or because of
+yield curve slope.
+Underinvestment: "rm may pass up NPV'0
+project because pro"ts #ow to existing
+bondholders. Can attenuate by limiting debt or
+using short-term debt.
+low absolute importance of limiting the use
+of debt, or borrowing short-term, to avoid
+underinvestment.
+Most severe for growth "rms (Myers, 1977).
+growth status has no e!ect on relative use
+of short-term debt.
+growth status a!ects relative importance
+of limiting total debt.
+Asset substitution: shareholders take on risky
+projects to expropriate wealth from bondholders
+(Jensen and Meckling, 1976). Using convertible
+debt (Green, 1984) or short-term debt (Myers,
+1977) attenuates asset substitution, relative to
+using long-term debt.
+neither convertible debt nor short-term debt
+is used to protect bondholders from the
+"rm/shareholders taking on risky or
+unfavorable projects.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+235
+Table 12 (continued)
+Theory or concept
+Survey evidence
+Free cash yow can lead to overinvestment or
+inezciency:
+debt is not used with intent of commiting
+free cash #ows.
+Fixed commitments like debt payments commit
+free cash so management works hard and
+e$ciently (Jensen, 1986).
+Product market and industry inyuences:
+Debt policy credibly signals production decisions
+(Brander and Lewis, 1986).
+debt policy is not used to signal production
+intentions.
+Sensitive-product "rms use less debt so customers
+and suppliers do not worry about "rm entering
+distress (Titman, 1984).
+absolute importance of this explanation is
+low.
+not important for high-tech "rms.
+relatively important for growth "rms.
+Debt ratios are industry-speci"c (Bradley et al.,
+1984).
+"rms report that the debt, equity, and
+convertibles usage of same-industry "rms does
+not a!ect "nancing decisions.
+empirical debt ratios di!er systematically
+across industries.
+Corporate control:
+Capital structure can be used to a!ect the
+likelihood of success for a takeover bid/control
+contest. Managers may issue debt to increase their
+e!ective ownership (Harris and
+Raviv, 1988; Stulz, 1988).
+equity issued to dilute holdings of particular
+shareholders.
+dilution strategy unrelated to managerial
+share ownership.
+takeover threat does not a!ect debt decisions.
+Risk management: "nance foreign operations with
+foreign debt as a means of hedging FX risk.
+foreign debt is frequently viewed as a natural
+hedge.
+Maturity-matching: match maturity between assets
+and liabilities.
+important to choice between short- and
+long-term debt.
+Cash management: match cash out#ows to cash
+in#ows.
+long-term debt reduces the need to re"nance
+in bad times.
+spread out required principal repayments
+or link principal repayment to expected ability
+to repay.
+Employee stock/bonus plans: shares of stock needed
+to implement employee compensation plans.
+when funding employee plans, "rms avoid
+issuing shares, which would dilute the
+holdings of existing shareholders.
+Bargaining with employees: high debt allows
+e!ective bargaining with employees (Chang, 1992).
+debt policy is not used as bargaining device
+Earnings per share dilution
+most important factor a!ecting equity
+issuance decision.
+236
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Appendix. Nonresponse bias and other issues related to survey data
+We perform several experiments to investigate whether nonresponse bias
+might a!ect our results. The "rst experiment, suggested by Wallace and Mellor
+(1988), compares the responses for "rms that returned the survey on time (i.e., by
+February 23) to those that did not return the survey until February 24, 1999 or
+later. The "rms that did not respond on time can be thought of as a sample from
+the nonresponse group, in the sense that they did not return the survey until we
+pestered them further. We "rst test, for each question, whether the mean
+response for the early respondents di!ers from the mean for the late respon-
+dents. There are 88 questions not related to "rm characteristics. The mean
+answers for the early and late respondents are statistically di!erent for only eight
+(13) of these 88 questions at a 5% (10%) level.
+Because the answers are correlated across di!erent questions, we also perform
+multivariate  tests comparing the early and late responses. We calculate
+multivariate test statistics for each set of subquestions, grouped by the main
+question. (That is, one  is calculated for the 12 subquestions related to the "rst
+question on the survey, another  for the six subquestions related to the second
+survey question, etc.) Out of the 10 multivariate  s comparing the means for
+the early and late responses, none (two) are signi"cantly di!erent at a 5% (10%)
+level. Following the order of the tables as they appear in the text, the multivari-
+ate analysis of variance p-values for each of the ten questions are 0.209, 0.063,
+0.085, 0.892, 0.124, 0.705, 0.335, 0.922, 0.259, and 0.282. A low p-value indicates
+signi"cant di!erences between the early and late responses. Finally, a single
+multivariate  across all 88 subquestions does not detect signi"cant di!erences
+between the early and late responses ( p-value of 0.254). The rationale of Wallace
+and Mellor suggests that because the responses for these two groups of "rms are
+similar, non-response bias is not a major problem.
+The second set of experiments, suggested by Moore and Reichert (1983),
+investigates possible non-response bias by comparing characteristics of respon-
+ding "rms to characteristics for the population at large. If the characteristics
+between the two groups match, then the sample can be thought of as represent-
+ing the population. This task is somewhat challenging because we have only
+limited information about the FEI population of "rms. (Given that most
+Fortune 500 "rms are also in the FEI population, we focus on FEI character-
+istics. We ignore any di!erences in population characteristics that may be
+attributable to the 187 "rms that are in the Fortune 500 but not in FEI.) We
+have reliable information on three characteristics for the population of "rms
+that belong to FEI: general industry classi"cation, public versus private owner-
+ship, and number of employees.
+We "rst use  goodness-of-"t analysis to determine whether the responses
+represent the industry groupings in roughly the same proportion as that found
+in the FEI population. Sixty-three percent of FEI members are from heavy
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+237
+manufacturing industries (manufacturing, energy, and transportation), as are
+62% of the respondents. These percentages are not signi"cantly di!erent at the
+5% level. Therefore, the heavy manufacturing versus non-manufacturing break-
+down that we use in the tables is representative of the FEI population. We also
+examine public versus private ownership. Sixty percent of FEI "rms are publicly
+owned, as are 64% of the sample "rms. Again, these numbers are not statistically
+di!erent, suggesting that our numbers represent the FEI population, and also
+that our public versus private analysis is appropriate.
+Although we do not have reliable information about the dividend policies,
+P/E ratios, sales revenue, or debt ratios for the FEI population, our analysis
+relies heavily on these variables, so we perform Monte Carlo simulations to
+determine the representativeness of our sample. Speci"cally, we take a random
+sample of 392 "rms from the Compustat database, stratifying on the number of
+employees in FEI "rms. That is, we sample from Compustat so that 15.4% of the
+draws are from "rms with at least 20,000 employees, 24.7% are from "rms with
+between 5,000 and 19,999 employees, etc., because these are the percentages for
+the FEI population. We then calculate the mean debt ratio, sales revenue, and
+P/E ratio (ignoring "rms with negative earnings), and the percentage of "rms
+that pay dividends for the randomly drawn "rms. We repeat this process 1,000
+times to determine an empirical distribution of mean values for each variable.
+We then compare the mean values for our sample to the empirical distribution.
+If, for example, the mean debt ratio for the responding "rms is larger than 950 of
+the mean debt ratios in the Monte Carlo simulation, we would conclude that
+there is statistical evidence that respondent "rms are more highly levered than
+are "rms in the overall population.
+The sample values for sales revenue and debt ratios fall comfortably near
+the middle of the empirical distributions, indicating that the sample is repre-
+sentative for these two characteristics. The mean P/E ratio of 17 for the sample
+is statistically smaller than the mean for the Compustat sample (overall mean
+of approximately 20). Fifty-four percent of the sample "rms pay dividends,
+compared to
+approximately 45% in
+the strati"ed Compustat sample.
+Although the sample and population di!er statistically for these last two traits,
+the economic di!erences are small enough to indicate that our sample is
+representative of the population from which it is drawn. There are at least
+three reasons why our Monte Carlo experiment might indicate statistical
+di!erences, even if our sample "rms are actually representative of the FEI
+population: (1) there are systematic di!erences between the Compustat and
+FEI populations not controlled for with the strati"cation based on number
+of employees, (2) the strati"cation is based on FEI "rms only, although the
+survey `oversamplesa Fortune 500 "rms, and (3) we deleted "rms with
+negative P/E ratios in the Monte Carlo simulations, although survey res-
+pondents might have entered a P/E ratio of zero or something else if they had
+negative earnings.
+238
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Finally, given that much corporate "nance research analyzes Compustat
+"rms, we repeat the Monte Carlo experiment without stratifying by number of
+employees. That is, we randomly draw 392 "rms (1,000 times) from Compustat
+without conditioning on the number of employees. This experiment tells us
+whether our sample "rms adequately represent Compustat "rms, to provide an
+indication of how directly our survey results can be compared to Compustat-
+based research. The mean debt ratio, sales revenue, and P/E ratios are not
+statistically di!erent from the means in the Compustat data; however, the
+percentage of "rms paying dividends is smaller than for the overall Compustat
+sample. Aside from dividend payout, the "rms that responded to our survey are
+similar to Compustat "rms.
+If one accepts that nonresponse bias is small, there are still concerns about
+survey data. For one thing, the respondents might not answer truthfully. Given
+that the survey is anonymous, we feel this problem is minimal. Moreover, our
+assessment from the phone conversations is that the executives would not take
+the time to "ll out a survey if their intent was to be untruthful.
+Another potential problem with survey data is that the questions, no matter
+how carefully crafted, either might not be properly understood or might not
+elicit the appropriate information. For example, Stigler (1966) asks managers if
+their "rms maximize pro"ts. The general response is that, no, they take care of
+their employees, are responsible corporate citizens, etc. However, when Stigler
+asks whether the "rms could increase pro"ts by increasing or decreasing prices,
+the answer is again no. Observations such as these can be used to argue that
+there is some sort of `economic Darwinisma, in which the "rms that survive
+must be doing the proper things, even if unintentionally. Or, as Milton Fried-
+man (1953) notes, a good pool player has the skill to knock the billiards balls
+into one another just right, even if he or she can not solve a di!erential equation.
+Finally, Cli! Smith tells about a chef who, after tasting the un"nished product,
+always knew exactly which ingredient to add to perfect the day's recipe, but
+could never write down the proper list of ingredients after the meal was
+complete. These examples suggest that managers might use the proper tech-
+niques, or at least take the correct actions, even if their answers to a survey do
+not indicate so. If other "rms copy the actions of successful "rms, then it is
+possible that many "rms take appropriate actions without thinking within the
+box of an academic model.
+This set of critiques is impossible to completely refute. We have attempted to
+be very careful when designing the questions on the survey. We also feel that by
+contrasting the answers conditional on "rm characteristics, we should be able to
+detect patterns in the responses that shed light on the importance of di!erent
+theories, even if the questions are not perfect in every dimension. Ultimately,
+however, the analysis we perform and conclusions we reach must be interpreted
+keeping in mind that our data are from a survey. Having said this, we feel
+that these data are representative and provide much unique information that
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+239
+complements what we can learn from traditional large-sample analysis and
+clinical studies.
+References
+Baker, H.K., Farrelly, G.E., Edelman, R.B., 1985. A survey of management views on dividend policy.
+Financial Management 14, 78}84.
+Barnea, A., Haugen, R., Senbet, L., 1980. A rationale for debt maturity structure and call provisions
+in the agency theoretic framework. Journal of Finance 35, 1223}1234.
+Bierman, H.J., 1993. Capital budgeting in 1992: a survey. Financial Management 22, 24.
+Billingsley, R.S., Lamy, R.E., Marr, M.W., Thompson, G.R., 1985. Explaining yield savings on new
+convertible bond issues. Quarterly Journal of Business and Economics, 92}104.
+Billingsley, R.S., Smith, D.M., 1996. Why do "rms issue convertible debt? Financial Management 25,
+93}99.
+Block, S.B., 1999. A study of "nancial analysts: practice and theory. Financial Analysts Journal,
+86}95.
+Bodnar, G.M., Hayt, G.S., Marston, R.C., 1998. Wharton survey of "nancial risk management by
+US non-"nancial "rms. Financial Management 27, 70}91.
+Bradley, M., Jarrell, G.A., Kim, E.H., 1984. On the existence of an optimal capital structure. Journal
+of Finance 39, 899}917.
+Brander, J.A., Lewis, T.R., 1986. Oligopoly and "nancial structure: the limited liability e!ect.
+American Economic Review 76, 956}970.
+Brealey, R.A., Myers, S.C., 1996. Principles of Corporate Finance, 5th Edition. McGraw-Hill, New
+York.
+Brennan, M.J., Kraus, A., 1987. E$cient "nancing under asymmetric information. Journal of
+Finance 42, 1225}1243.
+Brennan, M.J., Schwartz, E.S., 1988. The case for convertibles. Journal of Applied Corporate
+Finance 1, 55}64.
+Bruner, R.F., Eades, K.M., Harris, R., Higgins, R.C., 1998. Best practices in estimating the cost of
+capital: survey and synthesis. Financial Practice and Education 8, 13}28.
+Castanias, R., 1983. Bankruptcy risk and optimal capital structure. Journal of Finance 38, 1617}1635.
+Chang, C., 1992. Capital structure as an optimal contract between employees and investors. Journal
+of Finance 47, 1141}1158.
+Chen, N.-f., Roll, R., Ross, S.A., 1986. Economic forces and the stock market. Journal of Business 59,
+383}404.
+Desai, M.A., 1998. A multinational perspective on capital structure choice and internal capital
+markets. Unpublished Working Paper, Harvard Business School.
+Donaldson, G., 1994. Corporate Restructuring: Managing the Change Process from Within. Har-
+vard University Press, Boston.
+Epps, R.W., Mitchem, C.E., 1994. A comparison of capital budgeting techniques with those used in
+Japan and Korea. Advances in International Accounting 7, 205}214.
+Fama, E.F., French, K.R., 1992. The cross-section of expected stock returns. Journal of Finance 47,
+427}465.
+Ferson, W.E., Harvey, C.R., 1991. The variation of economic risk premiums. Journal of Political
+Economy 99, 285}315.
+Ferson, W.E., Harvey, C.R., 1993. The risk and predictability of international equity returns. Review
+of Financial Studies 6, 527}566.
+Fisher, E.O., Heinkel, R., Zechner, J., 1989. Dynamic capital structure choice: theory and tests.
+Journal of Finance 44, 19}40.
+240
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Flannery, M.J., 1986. Asymmetric information and risky debt maturity choice. Journal of Finance
+41, 19}37.
+Friedman, M., 1953. Essays in Positive Economics. University of Chicago Press, Chicago.
+Froot, K.A., Scharfstein, D.S., Stein, J.C., 1993. Risk management: coordinating corporate invest-
+ment and "nancing policies. Journal of Finance 48, 1629}1658.
+GeH czy, C., Minton, B.A., Schrand, C., 1997. Why "rms use currency derivatives. Journal of Finance
+52, 1323}1354.
+Gilson, S.C., 1997. Transactions costs and capital structure choice: evidence from "nancially
+distressed "rms. Journal of Finance 52, 111}133.
+Gitman, L.J., Forrester Jr., J.R., 1977. A survey of capital budgeting techniques used by major U.S.
+"rms. Financial Management 6, 66}71.
+Gitman, L.J., Mercurio, V., 1982. Cost of capital techniques used by major U. S. "rms: survey and
+analysis of Fortune's 1000. Financial Management 14, 21}29.
+Graham, J.R., 1996. Debt and the marginal tax rate. Journal of Financial Economics 41,
+41}73.
+Graham, J.R., 1999a. Do personal taxes a!ect corporate "nancing decisions? Journal of Public
+Economics 73, 147}185.
+Graham, J.R., 1999b. Quarter 2, 1999 FEI Survey. http://www.duke.edu/&jgraham.
+Graham, J.R., 2000. How big are the tax bene"ts of debt? Journal of Finance 55, 1901}1941.
+Green, R., 1984. Investment incentives debt and warrants. Journal of Financial Economics 13,
+115}136.
+Grinblatt, M., Titman, S., 1998. Financial Markets and Corporate Strategy. Irwin McGraw-Hill,
+Boston.
+Hanka, G., 1998. Debt and the terms of employment. Journal of Financial Economics 48,
+245}282.
+Harris, M., Raviv, A., 1988. Corporate control contests and capital structure. Journal of Financial
+Economics 20, 55}86.
+Heaton, J.B., 2000. Managerial optimism and corporate "nance. Unpublished Working Paper,
+University of Chicago.
+Helwege, J., Liang, N., 1996. Is there a pecking order? Evidence from a panel of IPO "rms. Journal of
+Financial Economics 40, 429}458.
+Jagannathan, R., Kubota, K., Takehara, H., 1998. Relationship between labor income risk and
+average return: empirical evidence from the Japanese stock market. Journal of Business, 71,
+319}348.
+Jagannathan, R., Wang, Z., 1996. The conditional CAPM and the cross-section of expected returns.
+Journal of Finance, 51, 3}53.
+Jegadeesh, N., Titman, S., 1993. Returns to buying winners and selling losers: implications for stock
+market e$ciency. Journal of Finance 48, 65}91.
+Jensen, M.C., 1986. Agency costs of free cash #ow, corporate "nance, and takeovers. American
+Economic Review 76, 323}339.
+Jensen, M.C., Meckling, W., 1976. Theory of the "rm: managerial behavior, agency costs and
+ownership structure. Journal of Financial Economics 3, 305}360.
+Kale, J.R., Noe, T.H., 1990. Risky debt maturity choice in a sequential game equilibrium. Journal of
+Financial Research 13, 155}165.
+Leland, H.E., Pyle, D.H., 1977. Informational asymmetries, "nancial structure, and "nancial inter-
+mediation. Journal of Finance 32, 371}387.
+Leland, H.E., Toft, K.B., 1996. Optimal capital structure, endogenous bankruptcy, and the term
+structure of credit spreads. Journal of Finance 51, 987}1019.
+Lintner, J., 1956. Distribution of incomes of corporations among dividends, retained earnings, and
+taxes. American Economic Review 97}113.
+Loughran, T., Ritter, J.R., 1995. The new issues puzzle. Journal of Finance 50, 23}52.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+241
+Lucas, D.J., McDonald, R.L., 1990. Equity issues and stock price dynamics. Journal of Finance 45,
+1019}1043.
+Mayers, D., 1998. Why "rms issue convertible bonds: the matching of "nancial and real investment
+options. Journal of Financial Economics 47, 83}102.
+McDonald, R.L., 1998. Real options and rules of thumb in capital budgeting. In: Brennan, M.J.,
+Trigeorgis, L. (Eds.), Innovation, Infrastructure, and Strategic Options. Oxford University Press,
+London.
+Miller, M.H., 1977. Debt and taxes. Journal of Finance 32, 261}275.
+Modigliani, F., Miller, M.H., 1963. Corporate income taxes and the cost of capital: a correction.
+American Economic Review 53, 433}443.
+Moore, J.S., Reichert, A.K., 1983. An analysis of the "nancial management techniques currently
+employed by large. U.S. corporations. Journal of Business Finance and Accounting 10,
+623}645.
+Myers, S.C., 1977. Determinants of corporate borrowing. Journal of Financial Economics 5,
+147}175.
+Myers, S.C., 1984. The capital structure puzzle. Journal of Finance 39, 575}592.
+Myers, S.C., Majluf, N., 1984. Corporate "nancing and investment decisions when "rms have
+information that investors do not have. Journal of Financial Economics 13, 187}224.
+Opler, T.C., Pinkowitz, L., Stulz, R., Williamson, R., 1999. The determinants and implications of
+corporate cash holdings. Journal of Financial Economics 52, 3}46.
+Opler, T.C., Titman, S., 1998. The debt}equity choice, Unpublished Working Paper, Ohio State
+University.
+Pinegar, J.M., Wilbricht, L., 1989. What managers think of capital structure theory: a survey.
+Financial Management 18, 82}91.
+Poterba, J., Summers, L., 1995. A CEO survey of U.S. companies' time horizon and hurdle rates,
+Sloan Management Review, Fall, 43}53.
+Ross, S.A., 1977. The determination of "nancial structure: the incentive signaling approach. Bell
+Journal of Economics 8, 1}32.
+Sangster, A., 1993. Capital investment appraisal techniques: a survey of current usage. Journal of
+Business Finance and Accounting 20, 307}332.
+Scott, J.H., 1976. A theory of optimal capital structure. Bell Journal of Economics 7 (1),
+33}54.
+Shao, L.P., Shao, A.T., 1996. Risk analysis and capital budgeting techniques of U. S. multinational
+enterprises. Managerial Finance 22, 41}57.
+Sharpe, S.A., Nguyen, H.H., 1995. Capital market imperfection and the incentive to lease. Journal of
+Financial Economics 39, 271}294.
+Stanley, M.T., Block, S.B., 1984. A survey of multinational capital budgeting. The Financial Review
+19, 36}54.
+Stein, J.C., 1992. Convertible bonds as backdoor equity "nancing. Journal of Financial Economics
+32, 3}21.
+Stigler, G.J., 1966. The Theory of Price, 3rd Edition. Macmillan, New York.
+Stulz, R., 1988. Managerial control of voting rights: "nancing policies and the market for corporate
+control. Journal of Financial Economics 20, 25}54.
+Titman, S., 1984. The e!ect of capital structure on a "rm's liquidation decision. Journal of Financial
+Economics 13, 137}151.
+Titman, S., Wessels, R., 1988. The determinants of capital structure choice. Journal of Finance 43,
+1}19.
+Trahan, E.A., Gitman, L.J., 1995. Bridging the theory}practice gap in corporate "nance: a survey of
+chief "nancial o$cers. Quarterly Review of Economics and Finance 35, 73}87.
+Wallace, R., Mellor, C., 1988. Nonresponse bias in mail accounting surveys: a pedagogical note.
+British Accounting Review 20, 131}139.
+242
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+Wansley, J.W., Lane, W.R., Sarkar, S., 1989. Management's view on share repurchase and tender
+o!er premiums. Financial Management 18, 97}110.
+Weston, J.F., Brigham, E., 1981. Managerial Finance, 7th Edition. Holt, Rinehart & Winston,
+Hinsdale, IL.
+Williamson, O.E., 1988. Corporate "nance and corporate governance. Journal of Finance 43,
+567}591.
+J.R. Graham, C.R. Harvey / Journal of Financial Economics 60 (2001) 187}243
+243

@@ -5,7 +5,7 @@ import requests
 # Optional：PDF/HTML dependency
 # pip install pymupdf readability-lxml html2text pdfminer.six beautifulsoup4 lxml
 # Import PyMuPDF (fitz)
-# If importing wrong packages withoug API（比如没有 open） method），try pymupdf instead
+# If importing wrong packages withoug API，try pymupdf instead
 try:
     import fitz  # try the common name
     # some unrelated packages also use the name `fitz`; ensure this is PyMuPDF by checking for `open`

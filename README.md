@@ -56,7 +56,5 @@ pyngrok==4.1.1
 ## Quick Start (Colab)
 - Mount Drive & open notebooks
 - Upload/organize the repo under My Drive/Project_3/
-- Open notebooks/PLP_Colab_Frontend_UI.ipynb, (or PLP_RAG_Query_Response.ipynb for testing and evaluation) and run each cell sequentially according to instructions. Change directories where necessary.
+- Open notebooks/PLP_Colab_Frontend_UI.ipynb (or PLP_RAG_Query_Response.ipynb for testing and evaluation) and run each cell sequentially according to instructions. Change directories where necessary.
 
-## License & Attribution
-- Code: MIT

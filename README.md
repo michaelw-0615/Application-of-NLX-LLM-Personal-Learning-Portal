@@ -8,7 +8,7 @@ Application-of-NLX-LLM-Personal-Learning-Portal/
 │  ├─ /processed                   # Processed corpus
 │  ├─ /raw                         # Raw corpus
 │  ├─ corpus_sources.json          # Corpus sources
-│  └─ corpus_docs.jsonl            # your curated corpus: {id,title,url,text} per line
+│  └─ corpus_docs.jsonl            # the curated corpus: {id,title,url,text} per line
 ├─ src/
 │  ├─ build_corpus.py
 │  └─ plp_backend_colab.py         # backend module: load → chunk → index → answer(+logging)
@@ -19,10 +19,10 @@ Application-of-NLX-LLM-Personal-Learning-Portal/
 ├─ diagrams/
 │  ├─ plp_system_diagram.png       # system overview diagram
 │  └─ plp_flow_diagram.png         # pipeline tree diagram
-├─ reports/                        # Experiment results, reports and appendices
+├─ reports/                        # Experiment results, reports and technical appendices
 └─ README.md
 ```
-Paths above assume Google Drive mount at /content/drive/My Drive/Project_3/…. Adjust as needed if you run locally.
+Paths above assume Google Drive mount at /content/drive/My Drive/Project_3/…. Adjust as needed if running locally.
 
 ## Dependencies / Requirements
 - Python: 3.10–3.12 (Colab OK)
